@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     template: "%s · Trail Menu",
   },
   description:
-    "Las Cruces and Organ Mountains trail catalog. Drive time, vehicle access, fees, time on trail, and notes from the Trail Menu deck.",
+    "Southwest Peaks and Trails. Trails of the Southwest in and around Doña Ana county, with drive time, vehicle access, fees, time on trail, and notes from the Trail Menu deck.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

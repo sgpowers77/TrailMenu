@@ -16,6 +16,9 @@ export function SiteHeader() {
           <Link href="/#catalog" className="hover:underline">
             Catalog
           </Link>
+          <Link href="/info/" className="hover:underline">
+            Info
+          </Link>
           <Link href="/whaling/" className="hover:underline">
             Whaling list
           </Link>
