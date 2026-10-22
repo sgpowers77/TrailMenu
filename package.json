@@ -9,8 +9,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "preview": "wrangler dev",
-    "deploy": "npm run build && wrangler deploy",
+    "preview": "wrangler pages dev out",
+    "deploy": "npm run build && wrangler pages deploy --branch main",
     "lint": "eslint"
   },
   "dependencies": {

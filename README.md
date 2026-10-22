@@ -18,21 +18,13 @@ npm run build
 npm run preview
 ```
 
-`npm run preview` serves the `out/` directory with Wrangler.
+`npm run preview` serves the `out/` directory with Wrangler Pages.
 
-## Cloudflare Workers
+## Cloudflare Pages
 
-This repo is set up as a static-assets Worker. [`wrangler.jsonc`](wrangler.jsonc) uploads `out/` and does not run a Worker script.
+The production site is [https://trail-menu.pages.dev](https://trail-menu.pages.dev), project `trail-menu` on the `sgpowers77@gmail.com` account. [`wrangler.jsonc`](wrangler.jsonc) points Pages at the static export in `out/`.
 
-Connect it to [github.com/sgpowers77/TrailMenu](https://github.com/sgpowers77/TrailMenu) in Workers Builds:
-
-- Repository: `https://github.com/sgpowers77/TrailMenu`
-- Production branch: `main`
-- Build command: `npm run build`
-- Deploy command: `npx wrangler deploy`
-- Root directory: `/`
-
-Deploy from a machine that is already logged in to Cloudflare:
+Deploy again from a machine that is already logged in to Cloudflare:
 
 ```bash
 npm run deploy
