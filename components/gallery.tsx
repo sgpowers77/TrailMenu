@@ -17,21 +17,17 @@ export function Gallery({ slides }: { slides: SlideImage[] }) {
   useEffect(() => {
     if (index === null) return;
     function onKey(event: KeyboardEvent) {
-      if (event.key === "ArrowRight") {
-        setIndex((value) =>
-          value === null ? value : (value + 1) % slides.length,
-        );
-      }
-      if (event.key === "ArrowLeft") {
-        setIndex((value) =>
-          value === null
-            ? value
-            : (value - 1 + slides.length) % slides.length,
-        );
-      }
+      if (event.key !== "ArrowRight" && event.key !== "ArrowLeft") return;
+      event.preventDefault();
+      const direction = event.key === "ArrowRight" ? 1 : -1;
+      setIndex((value) =>
+        value === null
+          ? value
+          : (value + direction + slides.length) % slides.length,
+      );
     }
-    window.addEventListener("keydown", onKey);
-    return () => window.removeEventListener("keydown", onKey);
+    window.addEventListener("keydown", onKey, true);
+    return () => window.removeEventListener("keydown", onKey, true);
   }, [index, slides.length]);
 
   function step(direction: -1 | 1) {
