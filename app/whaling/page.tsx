@@ -29,8 +29,8 @@ export default function WhalingPage() {
       </ul>
       <figure className="mt-12">
         <SlideFrame
-          slide={slide.slide}
-          label={slide.caption ?? slide.alt}
+          src={slide.src}
+          alt={slide.caption ?? slide.alt}
           className="w-full border border-white/15"
         />
         <figcaption className="mt-2 text-sm text-white/55">

@@ -49,8 +49,8 @@ export function Gallery({ slides }: { slides: SlideImage[] }) {
                 className="block w-full border border-white/15"
               >
                 <SlideFrame
-                  slide={slide.slide}
-                  label={slide.caption ?? slide.alt}
+                  src={slide.src}
+                  alt={slide.caption ?? slide.alt}
                   className="w-full"
                 />
               </button>
@@ -79,8 +79,8 @@ export function Gallery({ slides }: { slides: SlideImage[] }) {
                 {current.caption || current.alt} · Slide {current.slide}
               </DialogTitle>
               <SlideFrame
-                slide={current.slide}
-                label={current.caption ?? current.alt}
+                src={current.src}
+                alt={current.caption ?? current.alt}
                 className="w-full"
               />
               {slides.length > 1 ? (

@@ -1,21 +1,37 @@
+import Image from "next/image";
 import { cn } from "cn";
 
 export function SlideFrame({
+  src,
+  alt,
   slide,
-  label,
   className,
 }: {
-  slide: number;
-  label?: string;
+  src?: string;
+  alt: string;
+  slide?: number;
   className?: string;
 }) {
-  const number = String(slide).padStart(3, "0");
+  if (src) {
+    return (
+      <Image
+        src={src}
+        alt={alt}
+        width={596}
+        height={335}
+        className={cn(
+          "aspect-video h-auto w-full bg-black object-contain",
+          className,
+        )}
+      />
+    );
+  }
+
+  const number = String(slide ?? 0).padStart(3, "0");
   return (
     <div
       role="img"
-      aria-label={
-        label ? `Slide ${slide}, ${label}. Photo later.` : `Slide ${slide}. Photo later.`
-      }
+      aria-label={alt || `Slide ${number}. Photo later.`}
       className={cn(
         "relative aspect-video overflow-hidden bg-black text-white",
         className,
@@ -35,15 +51,9 @@ export function SlideFrame({
         <p className="text-[11px] tracking-[0.18em] text-white/55 uppercase">
           Slide {number}
         </p>
-        {label ? (
-          <p className="line-clamp-3 max-w-[18ch] text-lg leading-tight font-semibold tracking-tight sm:text-2xl">
-            {label}
-          </p>
-        ) : (
-          <p className="text-sm tracking-[0.16em] text-white/45 uppercase">
-            Photo later
-          </p>
-        )}
+        <p className="text-sm tracking-[0.16em] text-white/45 uppercase">
+          Photo later
+        </p>
       </div>
     </div>
   );

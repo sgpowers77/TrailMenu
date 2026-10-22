@@ -2,7 +2,7 @@
 
 A browsable catalog of Southwest Peaks and Trails, the trails in and around Doña Ana county from the Trail Menu deck: 118 widescreen slides, grouped by area in deck order.
 
-Each trail keeps the drive time, vehicle access, fee, time on trail, and notes printed on its slide. Every slide still has a numbered 16:9 slot; the photos themselves are left out for now and can be added later at `public/slides/001.png` through `118.png`. The Whaling list is its own page. Difficulty uses the deck’s four marks: green circle, blue square, white diamond, and doubled diamond.
+Each trail keeps the drive time, vehicle access, fee, time on trail, and notes printed on its slide, plus a WebP of every slide that belongs to it. The Whaling list is its own page. Difficulty uses the deck’s four marks: green circle, blue square, white diamond, and doubled diamond.
 
 ## Run locally
 

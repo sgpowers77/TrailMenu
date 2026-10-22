@@ -22,8 +22,8 @@ export function AreaSection({
       <div className="grid items-end gap-6 md:grid-cols-[minmax(0,1.1fr)_minmax(0,0.9fr)]">
         {hero ? (
           <SlideFrame
-            slide={hero.slide}
-            label={hero.caption ?? hero.alt}
+            src={hero.src}
+            alt={hero.caption ?? hero.alt}
             className="w-full border border-white/15"
           />
         ) : (
@@ -65,7 +65,8 @@ export function AreaSection({
             >
               {trail.slides[0] ? (
                 <SlideFrame
-                  slide={trail.slides[0].slide}
+                  src={trail.slides[0].src}
+                  alt=""
                   className="w-full border border-white/15"
                 />
               ) : (

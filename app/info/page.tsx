@@ -40,16 +40,16 @@ export default function InfoPage() {
           </ul>
         </div>
         <SlideFrame
-          slide={legend.slides[0].slide}
-          label={legend.slides[0].caption ?? legend.slides[0].alt}
+          src={legend.slides[0].src}
+          alt={legend.slides[0].caption ?? legend.slides[0].alt}
           className="w-full border border-white/15"
         />
       </section>
 
       <section className="mt-14 grid gap-8 lg:grid-cols-[minmax(0,0.8fr)_minmax(0,1.2fr)] lg:items-center">
         <SlideFrame
-          slide={legend.slides[1].slide}
-          label={legend.slides[1].caption ?? legend.slides[1].alt}
+          src={legend.slides[1].src}
+          alt={legend.slides[1].caption ?? legend.slides[1].alt}
           className="w-full border border-white/15"
         />
         <div>

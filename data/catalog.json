@@ -51,13 +51,13 @@
     "slides": [
       {
         "slide": 1,
-        "src": "/slides/001.png",
+        "src": "/slides/001.webp",
         "alt": "Trail Difficulty",
         "caption": null
       },
       {
         "slide": 2,
-        "src": "/slides/002.png",
+        "src": "/slides/002.webp",
         "alt": "How a trail card is laid out",
         "caption": null
       }
@@ -77,7 +77,7 @@
       "slides": [
         {
           "slide": 3,
-          "src": "/slides/003.png",
+          "src": "/slides/003.webp",
           "alt": "“A MOUNTAIN”",
           "caption": null
         }
@@ -113,37 +113,37 @@
           "slides": [
             {
               "slide": 4,
-              "src": "/slides/004.png",
+              "src": "/slides/004.webp",
               "alt": "“A” MOUNTAIN",
               "caption": null
             },
             {
               "slide": 5,
-              "src": "/slides/005.png",
+              "src": "/slides/005.webp",
               "alt": "“A” MOUNTAIN",
               "caption": null
             },
             {
               "slide": 6,
-              "src": "/slides/006.png",
+              "src": "/slides/006.webp",
               "alt": "“A” MOUNTAIN",
               "caption": null
             },
             {
               "slide": 7,
-              "src": "/slides/007.png",
+              "src": "/slides/007.webp",
               "alt": "“A” MOUNTAIN",
               "caption": null
             },
             {
               "slide": 8,
-              "src": "/slides/008.png",
+              "src": "/slides/008.webp",
               "alt": "“A” MOUNTAIN",
               "caption": null
             },
             {
               "slide": 9,
-              "src": "/slides/009.png",
+              "src": "/slides/009.webp",
               "alt": "“A” MOUNTAIN",
               "caption": null
             }
@@ -165,7 +165,7 @@
       "slides": [
         {
           "slide": 10,
-          "src": "/slides/010.png",
+          "src": "/slides/010.webp",
           "alt": "DESERT PEAKS NAT’L MONUMENT",
           "caption": null
         }
@@ -196,19 +196,19 @@
           "slides": [
             {
               "slide": 11,
-              "src": "/slides/011.png",
+              "src": "/slides/011.webp",
               "alt": "DRIPPING SPRINGS",
               "caption": null
             },
             {
               "slide": 12,
-              "src": "/slides/012.png",
+              "src": "/slides/012.webp",
               "alt": "ORGAN MOUNTAINS WEST - DRIPPING SPRINGS",
               "caption": "ORGAN MOUNTAINS WEST - DRIPPING SPRINGS"
             },
             {
               "slide": 13,
-              "src": "/slides/013.png",
+              "src": "/slides/013.webp",
               "alt": "DRIPPING SPRINGS",
               "caption": null
             }
@@ -243,19 +243,19 @@
           "slides": [
             {
               "slide": 14,
-              "src": "/slides/014.png",
+              "src": "/slides/014.webp",
               "alt": "“HERMIT CAVE”",
               "caption": null
             },
             {
               "slide": 15,
-              "src": "/slides/015.png",
+              "src": "/slides/015.webp",
               "alt": "DESERT PEAKS NATL MONUMENT - LA CUEVA “HERMIT CAVE”",
               "caption": "DESERT PEAKS NATL MONUMENT - LA CUEVA “HERMIT CAVE”"
             },
             {
               "slide": 16,
-              "src": "/slides/016.png",
+              "src": "/slides/016.webp",
               "alt": "DESERT PEAKS NATL MONUMENT - LA CUEVA “HERMIT CAVE”",
               "caption": "DESERT PEAKS NATL MONUMENT - LA CUEVA “HERMIT CAVE”"
             }
@@ -289,19 +289,19 @@
           "slides": [
             {
               "slide": 17,
-              "src": "/slides/017.png",
+              "src": "/slides/017.webp",
               "alt": "FILLMORE CANYON",
               "caption": null
             },
             {
               "slide": 18,
-              "src": "/slides/018.png",
+              "src": "/slides/018.webp",
               "alt": "FILLMORE CANYON",
               "caption": null
             },
             {
               "slide": 19,
-              "src": "/slides/019.png",
+              "src": "/slides/019.webp",
               "alt": "ORGAN MOUNTAINS WEST - FILLMORE CANYON",
               "caption": "ORGAN MOUNTAINS WEST - FILLMORE CANYON"
             }
@@ -336,7 +336,7 @@
           "slides": [
             {
               "slide": 20,
-              "src": "/slides/020.png",
+              "src": "/slides/020.webp",
               "alt": "Juniper Saddle",
               "caption": null
             }
@@ -373,31 +373,31 @@
           "slides": [
             {
               "slide": 21,
-              "src": "/slides/021.png",
+              "src": "/slides/021.webp",
               "alt": "ORGAN NEEDLE",
               "caption": null
             },
             {
               "slide": 22,
-              "src": "/slides/022.png",
+              "src": "/slides/022.webp",
               "alt": "ORGAN MOUNTAINS WEST - ORGAN NEEDLE",
               "caption": "ORGAN MOUNTAINS WEST - ORGAN NEEDLE"
             },
             {
               "slide": 23,
-              "src": "/slides/023.png",
+              "src": "/slides/023.webp",
               "alt": "ORGAN MOUNTAINS WEST - ORGAN NEEDLE",
               "caption": "ORGAN MOUNTAINS WEST - ORGAN NEEDLE"
             },
             {
               "slide": 24,
-              "src": "/slides/024.png",
+              "src": "/slides/024.webp",
               "alt": "ORGAN MOUNTAINS WEST - ORGAN NEEDLE",
               "caption": "ORGAN MOUNTAINS WEST - ORGAN NEEDLE"
             },
             {
               "slide": 25,
-              "src": "/slides/025.png",
+              "src": "/slides/025.webp",
               "alt": "ORGAN MOUNTAINS WEST - ORGAN NEEDLE",
               "caption": "ORGAN MOUNTAINS WEST - ORGAN NEEDLE"
             }
@@ -418,7 +418,7 @@
       "slides": [
         {
           "slide": 26,
-          "src": "/slides/026.png",
+          "src": "/slides/026.webp",
           "alt": "RUBY MINE",
           "caption": null
         }
@@ -452,19 +452,19 @@
           "slides": [
             {
               "slide": 27,
-              "src": "/slides/027.png",
+              "src": "/slides/027.webp",
               "alt": "RUBY MINE",
               "caption": null
             },
             {
               "slide": 28,
-              "src": "/slides/028.png",
+              "src": "/slides/028.webp",
               "alt": "RUBY MINE",
               "caption": null
             },
             {
               "slide": 29,
-              "src": "/slides/029.png",
+              "src": "/slides/029.webp",
               "alt": "RUBY MINE",
               "caption": null
             }
@@ -498,19 +498,19 @@
           "slides": [
             {
               "slide": 30,
-              "src": "/slides/030.png",
+              "src": "/slides/030.webp",
               "alt": "SOUTHERN COMFORT WALL",
               "caption": null
             },
             {
               "slide": 31,
-              "src": "/slides/031.png",
+              "src": "/slides/031.webp",
               "alt": "SOUTHERN COMFORT WALL",
               "caption": null
             },
             {
               "slide": 32,
-              "src": "/slides/032.png",
+              "src": "/slides/032.webp",
               "alt": "SOUTHERN COMFORT WALL",
               "caption": null
             }
@@ -531,7 +531,7 @@
       "slides": [
         {
           "slide": 33,
-          "src": "/slides/033.png",
+          "src": "/slides/033.webp",
           "alt": "BAR CANYON",
           "caption": null
         }
@@ -564,19 +564,19 @@
           "slides": [
             {
               "slide": 34,
-              "src": "/slides/034.png",
+              "src": "/slides/034.webp",
               "alt": "“SOLEDAD”",
               "caption": null
             },
             {
               "slide": 35,
-              "src": "/slides/035.png",
+              "src": "/slides/035.webp",
               "alt": "“SOLEDAD”",
               "caption": null
             },
             {
               "slide": 36,
-              "src": "/slides/036.png",
+              "src": "/slides/036.webp",
               "alt": "“SOLEDAD”",
               "caption": null
             }
@@ -597,7 +597,7 @@
       "slides": [
         {
           "slide": 37,
-          "src": "/slides/037.png",
+          "src": "/slides/037.webp",
           "alt": "BAR MOUNTAIN",
           "caption": null
         }
@@ -627,31 +627,31 @@
           "slides": [
             {
               "slide": 38,
-              "src": "/slides/038.png",
+              "src": "/slides/038.webp",
               "alt": "BAR MOUNTAIN",
               "caption": null
             },
             {
               "slide": 39,
-              "src": "/slides/039.png",
+              "src": "/slides/039.webp",
               "alt": "BAR MOUNTAIN",
               "caption": null
             },
             {
               "slide": 40,
-              "src": "/slides/040.png",
+              "src": "/slides/040.webp",
               "alt": "BAR MOUNTAIN",
               "caption": null
             },
             {
               "slide": 41,
-              "src": "/slides/041.png",
+              "src": "/slides/041.webp",
               "alt": "BAR MOUNTAIN",
               "caption": null
             },
             {
               "slide": 42,
-              "src": "/slides/042.png",
+              "src": "/slides/042.webp",
               "alt": "BAR MOUNTAIN",
               "caption": null
             }
@@ -681,7 +681,7 @@
           "slides": [
             {
               "slide": 43,
-              "src": "/slides/043.png",
+              "src": "/slides/043.webp",
               "alt": "SOUTH RIDGE",
               "caption": null
             }
@@ -702,7 +702,7 @@
       "slides": [
         {
           "slide": 44,
-          "src": "/slides/044.png",
+          "src": "/slides/044.webp",
           "alt": "ACHENBACH CANYON",
           "caption": null
         }
@@ -732,31 +732,31 @@
           "slides": [
             {
               "slide": 45,
-              "src": "/slides/045.png",
+              "src": "/slides/045.webp",
               "alt": "ACHENBACH CANYON",
               "caption": null
             },
             {
               "slide": 46,
-              "src": "/slides/046.png",
+              "src": "/slides/046.webp",
               "alt": "ACHENBACH CANYON",
               "caption": null
             },
             {
               "slide": 47,
-              "src": "/slides/047.png",
+              "src": "/slides/047.webp",
               "alt": "ACHENBACH CANYON",
               "caption": null
             },
             {
               "slide": 48,
-              "src": "/slides/048.png",
+              "src": "/slides/048.webp",
               "alt": "ACHENBACH CANYON",
               "caption": null
             },
             {
               "slide": 49,
-              "src": "/slides/049.png",
+              "src": "/slides/049.webp",
               "alt": "ACHENBACH CANYON",
               "caption": null
             }
@@ -777,7 +777,7 @@
       "slides": [
         {
           "slide": 50,
-          "src": "/slides/050.png",
+          "src": "/slides/050.webp",
           "alt": "BAYLOR PASS",
           "caption": null
         }
@@ -810,19 +810,19 @@
           "slides": [
             {
               "slide": 51,
-              "src": "/slides/051.png",
+              "src": "/slides/051.webp",
               "alt": "BAYLOR PASS WEST",
               "caption": null
             },
             {
               "slide": 52,
-              "src": "/slides/052.png",
+              "src": "/slides/052.webp",
               "alt": "BAYLOR PASS WEST",
               "caption": null
             },
             {
               "slide": 53,
-              "src": "/slides/053.png",
+              "src": "/slides/053.webp",
               "alt": "BAYLOR PASS WEST",
               "caption": null
             }
@@ -843,7 +843,7 @@
       "slides": [
         {
           "slide": 54,
-          "src": "/slides/054.png",
+          "src": "/slides/054.webp",
           "alt": "BAYLOR PASS EAST",
           "caption": null
         }
@@ -876,7 +876,7 @@
           "slides": [
             {
               "slide": 55,
-              "src": "/slides/055.png",
+              "src": "/slides/055.webp",
               "alt": "BAYLOR PASS EAST",
               "caption": null
             }
@@ -897,7 +897,7 @@
       "slides": [
         {
           "slide": 56,
-          "src": "/slides/056.png",
+          "src": "/slides/056.webp",
           "alt": "AGUIRRE SPRINGS",
           "caption": null
         }
@@ -930,19 +930,19 @@
           "slides": [
             {
               "slide": 57,
-              "src": "/slides/057.png",
+              "src": "/slides/057.webp",
               "alt": "PINE TREE TRAIL",
               "caption": null
             },
             {
               "slide": 58,
-              "src": "/slides/058.png",
+              "src": "/slides/058.webp",
               "alt": "PINE TREE TRAIL",
               "caption": null
             },
             {
               "slide": 59,
-              "src": "/slides/059.png",
+              "src": "/slides/059.webp",
               "alt": "PINE TREE TRAIL",
               "caption": null
             }
@@ -963,7 +963,7 @@
       "slides": [
         {
           "slide": 60,
-          "src": "/slides/060.png",
+          "src": "/slides/060.webp",
           "alt": "“PICACHO PEAK”",
           "caption": null
         }
@@ -995,19 +995,19 @@
           "slides": [
             {
               "slide": 61,
-              "src": "/slides/061.png",
+              "src": "/slides/061.webp",
               "alt": "PICACHO PEAK",
               "caption": null
             },
             {
               "slide": 62,
-              "src": "/slides/062.png",
+              "src": "/slides/062.webp",
               "alt": "PICACHO PEAK",
               "caption": null
             },
             {
               "slide": 63,
-              "src": "/slides/063.png",
+              "src": "/slides/063.webp",
               "alt": "PICACHO PEAK",
               "caption": null
             }
@@ -1028,7 +1028,7 @@
       "slides": [
         {
           "slide": 64,
-          "src": "/slides/064.png",
+          "src": "/slides/064.webp",
           "alt": "PREHISTORIC PATHWAYS",
           "caption": null
         }
@@ -1061,13 +1061,13 @@
           "slides": [
             {
               "slide": 65,
-              "src": "/slides/065.png",
+              "src": "/slides/065.webp",
               "alt": "DISCOVERY SITE",
               "caption": null
             },
             {
               "slide": 66,
-              "src": "/slides/066.png",
+              "src": "/slides/066.webp",
               "alt": "DISCOVERY SITE",
               "caption": null
             }
@@ -1100,13 +1100,13 @@
           "slides": [
             {
               "slide": 67,
-              "src": "/slides/067.png",
+              "src": "/slides/067.webp",
               "alt": "ROBLEDO RIDGELINE",
               "caption": null
             },
             {
               "slide": 68,
-              "src": "/slides/068.png",
+              "src": "/slides/068.webp",
               "alt": "ROBLEDO RIDGELINE",
               "caption": null
             }
@@ -1127,7 +1127,7 @@
       "slides": [
         {
           "slide": 69,
-          "src": "/slides/069.png",
+          "src": "/slides/069.webp",
           "alt": "DONA ANA MOUNTAINS",
           "caption": null
         }
@@ -1159,31 +1159,31 @@
           "slides": [
             {
               "slide": 70,
-              "src": "/slides/070.png",
+              "src": "/slides/070.webp",
               "alt": "HIGH POINT",
               "caption": null
             },
             {
               "slide": 71,
-              "src": "/slides/071.png",
+              "src": "/slides/071.webp",
               "alt": "DONA ANA MOUNTAINS — HIGH POINT",
               "caption": "DONA ANA MOUNTAINS\nHIGH POINT"
             },
             {
               "slide": 72,
-              "src": "/slides/072.png",
+              "src": "/slides/072.webp",
               "alt": "HIGH POINT",
               "caption": null
             },
             {
               "slide": 73,
-              "src": "/slides/073.png",
+              "src": "/slides/073.webp",
               "alt": "HIGH POINT",
               "caption": null
             },
             {
               "slide": 74,
-              "src": "/slides/074.png",
+              "src": "/slides/074.webp",
               "alt": "HIGH POINT",
               "caption": null
             }
@@ -1215,13 +1215,13 @@
           "slides": [
             {
               "slide": 75,
-              "src": "/slides/075.png",
+              "src": "/slides/075.webp",
               "alt": "DONA ANA PEAK",
               "caption": null
             },
             {
               "slide": 76,
-              "src": "/slides/076.png",
+              "src": "/slides/076.webp",
               "alt": "DONA ANA PEAK",
               "caption": null
             }
@@ -1242,7 +1242,7 @@
       "slides": [
         {
           "slide": 77,
-          "src": "/slides/077.png",
+          "src": "/slides/077.webp",
           "alt": "DONA ANA ARCHES",
           "caption": null
         }
@@ -1278,25 +1278,25 @@
           "slides": [
             {
               "slide": 78,
-              "src": "/slides/078.png",
+              "src": "/slides/078.webp",
               "alt": "ARCHES",
               "caption": null
             },
             {
               "slide": 79,
-              "src": "/slides/079.png",
+              "src": "/slides/079.webp",
               "alt": "ARCGIS IMAGERY BASE MAP",
               "caption": "ARCGIS IMAGERY BASE MAP"
             },
             {
               "slide": 80,
-              "src": "/slides/080.png",
+              "src": "/slides/080.webp",
               "alt": "ARCHES",
               "caption": null
             },
             {
               "slide": 81,
-              "src": "/slides/081.png",
+              "src": "/slides/081.webp",
               "alt": "ARCHES",
               "caption": null
             }
@@ -1317,7 +1317,7 @@
       "slides": [
         {
           "slide": 82,
-          "src": "/slides/082.png",
+          "src": "/slides/082.webp",
           "alt": "“RADIO HILL”",
           "caption": null
         }
@@ -1349,7 +1349,7 @@
           "slides": [
             {
               "slide": 83,
-              "src": "/slides/083.png",
+              "src": "/slides/083.webp",
               "alt": "RADIO HILL",
               "caption": null
             }
@@ -1396,19 +1396,19 @@
           "slides": [
             {
               "slide": 84,
-              "src": "/slides/084.png",
+              "src": "/slides/084.webp",
               "alt": "SLOT CANYON",
               "caption": null
             },
             {
               "slide": 85,
-              "src": "/slides/085.png",
+              "src": "/slides/085.webp",
               "alt": "SLOT CANYON",
               "caption": null
             },
             {
               "slide": 86,
-              "src": "/slides/086.png",
+              "src": "/slides/086.webp",
               "alt": "SLOT CANYON",
               "caption": null
             }
@@ -1429,7 +1429,7 @@
       "slides": [
         {
           "slide": 87,
-          "src": "/slides/087.png",
+          "src": "/slides/087.webp",
           "alt": "FROG MOUNTAIN",
           "caption": null
         }
@@ -1460,25 +1460,25 @@
           "slides": [
             {
               "slide": 88,
-              "src": "/slides/088.png",
+              "src": "/slides/088.webp",
               "alt": "“FROG MOUNTAIN”",
               "caption": null
             },
             {
               "slide": 89,
-              "src": "/slides/089.png",
+              "src": "/slides/089.webp",
               "alt": "“FROG MOUNTAIN”",
               "caption": null
             },
             {
               "slide": 90,
-              "src": "/slides/090.png",
+              "src": "/slides/090.webp",
               "alt": "“FROG MOUNTAIN”",
               "caption": null
             },
             {
               "slide": 91,
-              "src": "/slides/091.png",
+              "src": "/slides/091.webp",
               "alt": "“FROG MOUNTAIN”",
               "caption": null
             }
@@ -1499,7 +1499,7 @@
       "slides": [
         {
           "slide": 92,
-          "src": "/slides/092.png",
+          "src": "/slides/092.webp",
           "alt": "URBAN TRAILS",
           "caption": null
         }
@@ -1535,7 +1535,7 @@
           "slides": [
             {
               "slide": 93,
-              "src": "/slides/093.png",
+              "src": "/slides/093.webp",
               "alt": "La Llorona Trail",
               "caption": null
             }
@@ -1571,7 +1571,7 @@
           "slides": [
             {
               "slide": 94,
-              "src": "/slides/094.png",
+              "src": "/slides/094.webp",
               "alt": "OUTFALL CHANNEL TRAIL",
               "caption": null
             }
@@ -1607,7 +1607,7 @@
           "slides": [
             {
               "slide": 95,
-              "src": "/slides/095.png",
+              "src": "/slides/095.webp",
               "alt": "LA MESILLA DEL NORTE",
               "caption": null
             }
@@ -1643,7 +1643,7 @@
           "slides": [
             {
               "slide": 96,
-              "src": "/slides/096.png",
+              "src": "/slides/096.webp",
               "alt": "TRIVIZ TRAIL",
               "caption": null
             }
@@ -1679,7 +1679,7 @@
           "slides": [
             {
               "slide": 97,
-              "src": "/slides/097.png",
+              "src": "/slides/097.webp",
               "alt": "UNIVERSITY TRAIL",
               "caption": null
             }
@@ -1723,19 +1723,19 @@
           "slides": [
             {
               "slide": 98,
-              "src": "/slides/098.png",
+              "src": "/slides/098.webp",
               "alt": "ADEN CRATER",
               "caption": null
             },
             {
               "slide": 99,
-              "src": "/slides/099.png",
+              "src": "/slides/099.webp",
               "alt": "ADEN CRATER",
               "caption": null
             },
             {
               "slide": 100,
-              "src": "/slides/100.png",
+              "src": "/slides/100.webp",
               "alt": "ADEN CRATER",
               "caption": null
             }
@@ -1756,7 +1756,7 @@
       "slides": [
         {
           "slide": 101,
-          "src": "/slides/101.png",
+          "src": "/slides/101.webp",
           "alt": "B-36 WRECK",
           "caption": null
         }
@@ -1787,19 +1787,19 @@
           "slides": [
             {
               "slide": 102,
-              "src": "/slides/102.png",
+              "src": "/slides/102.webp",
               "alt": "B-36 Wreck",
               "caption": null
             },
             {
               "slide": 103,
-              "src": "/slides/103.png",
+              "src": "/slides/103.webp",
               "alt": "B-36 Wreck",
               "caption": null
             },
             {
               "slide": 104,
-              "src": "/slides/104.png",
+              "src": "/slides/104.webp",
               "alt": "B-36 Wreck",
               "caption": null
             }
@@ -1820,7 +1820,7 @@
       "slides": [
         {
           "slide": 105,
-          "src": "/slides/105.png",
+          "src": "/slides/105.webp",
           "alt": "AQUATIC DWELLINGS",
           "caption": null
         }
@@ -1851,31 +1851,31 @@
           "slides": [
             {
               "slide": 106,
-              "src": "/slides/106.png",
+              "src": "/slides/106.webp",
               "alt": "AQUATIC DWELLINGS",
               "caption": null
             },
             {
               "slide": 107,
-              "src": "/slides/107.png",
+              "src": "/slides/107.webp",
               "alt": "AQUATIC DWELLINGS",
               "caption": null
             },
             {
               "slide": 108,
-              "src": "/slides/108.png",
+              "src": "/slides/108.webp",
               "alt": "AQUATIC DWELLINGS",
               "caption": null
             },
             {
               "slide": 109,
-              "src": "/slides/109.png",
+              "src": "/slides/109.webp",
               "alt": "AQUATIC DWELLINGS",
               "caption": null
             },
             {
               "slide": 110,
-              "src": "/slides/110.png",
+              "src": "/slides/110.webp",
               "alt": "AQUATIC DWELLINGS",
               "caption": null
             }
@@ -1896,7 +1896,7 @@
       "slides": [
         {
           "slide": 111,
-          "src": "/slides/111.png",
+          "src": "/slides/111.webp",
           "alt": "OSHA TRAIL",
           "caption": null
         }
@@ -1927,19 +1927,19 @@
           "slides": [
             {
               "slide": 112,
-              "src": "/slides/112.png",
+              "src": "/slides/112.webp",
               "alt": "OSHA TRAIL",
               "caption": null
             },
             {
               "slide": 113,
-              "src": "/slides/113.png",
+              "src": "/slides/113.webp",
               "alt": "OSHA TRAIL",
               "caption": null
             },
             {
               "slide": 114,
-              "src": "/slides/114.png",
+              "src": "/slides/114.webp",
               "alt": "OSHA TRAIL",
               "caption": null
             }
@@ -1970,7 +1970,7 @@
           "slides": [
             {
               "slide": 115,
-              "src": "/slides/115.png",
+              "src": "/slides/115.webp",
               "alt": "BOUNDARY TRAIL",
               "caption": null
             }
@@ -2014,7 +2014,7 @@
           "slides": [
             {
               "slide": 117,
-              "src": "/slides/117.png",
+              "src": "/slides/117.webp",
               "alt": "HORSE RIDGE",
               "caption": null
             }
@@ -2043,7 +2043,7 @@
           "slides": [
             {
               "slide": 118,
-              "src": "/slides/118.png",
+              "src": "/slides/118.webp",
               "alt": "ORTEGA PEAK",
               "caption": null
             }
@@ -2075,7 +2075,7 @@
     "slides": [
       {
         "slide": 116,
-        "src": "/slides/116.png",
+        "src": "/slides/116.webp",
         "alt": "Whaling list",
         "caption": null
       }
