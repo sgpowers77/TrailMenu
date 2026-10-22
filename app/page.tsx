@@ -45,18 +45,17 @@ export default function HomePage() {
           </ul>
         </div>
         <SlideFrame
-          src={legend.slides[0].src}
-          alt={legend.slides[0].alt}
-          priority
-          className="aspect-video h-auto w-full border border-white/15 bg-black object-contain"
+          slide={legend.slides[0].slide}
+          label={legend.slides[0].caption ?? legend.slides[0].alt}
+          className="w-full border border-white/15"
         />
       </section>
 
       <section className="mt-14 grid gap-8 lg:grid-cols-[minmax(0,0.8fr)_minmax(0,1.2fr)] lg:items-center">
         <SlideFrame
-          src={legend.slides[1].src}
-          alt={legend.slides[1].alt}
-          className="aspect-video h-auto w-full border border-white/15 bg-black object-contain"
+          slide={legend.slides[1].slide}
+          label={legend.slides[1].caption ?? legend.slides[1].alt}
+          className="w-full border border-white/15"
         />
         <div>
           <h2 className="text-3xl font-semibold tracking-tight">

@@ -22,9 +22,9 @@ export function AreaSection({
       <div className="grid items-end gap-6 md:grid-cols-[minmax(0,1.1fr)_minmax(0,0.9fr)]">
         {hero ? (
           <SlideFrame
-            src={hero.src}
-            alt={hero.alt}
-            className="aspect-video h-auto w-full border border-white/15 bg-black object-contain"
+            slide={hero.slide}
+            label={hero.caption ?? hero.alt}
+            className="w-full border border-white/15"
           />
         ) : (
           <div className="hidden md:block" />
@@ -63,11 +63,14 @@ export function AreaSection({
               href={`/trails/${trail.slug}/`}
               className="group grid gap-4 border-t border-white/15 py-5 sm:grid-cols-[220px_minmax(0,1fr)]"
             >
-              <SlideFrame
-                src={trail.slides[0]?.src ?? ""}
-                alt=""
-                className="aspect-video h-auto w-full border border-white/15 bg-black object-contain"
-              />
+              {trail.slides[0] ? (
+                <SlideFrame
+                  slide={trail.slides[0].slide}
+                  className="w-full border border-white/15"
+                />
+              ) : (
+                <div className="aspect-video border border-white/15" />
+              )}
               <div>
                 <div className="flex flex-wrap items-center gap-2">
                   <MarkRow ids={trail.difficulty} />

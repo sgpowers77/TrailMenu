@@ -49,9 +49,9 @@ export function Gallery({ slides }: { slides: SlideImage[] }) {
                 className="block w-full border border-white/15"
               >
                 <SlideFrame
-                  src={slide.src}
-                  alt={slide.alt}
-                  className="aspect-video h-auto w-full bg-black object-contain"
+                  slide={slide.slide}
+                  label={slide.caption ?? slide.alt}
+                  className="w-full"
                 />
               </button>
               <figcaption className="mt-2 flex items-baseline justify-between gap-4 text-sm text-white/60">
@@ -79,9 +79,9 @@ export function Gallery({ slides }: { slides: SlideImage[] }) {
                 {current.caption || current.alt} · Slide {current.slide}
               </DialogTitle>
               <SlideFrame
-                src={current.src}
-                alt={current.alt}
-                className="h-auto w-full bg-black"
+                slide={current.slide}
+                label={current.caption ?? current.alt}
+                className="w-full"
               />
               {slides.length > 1 ? (
                 <div className="flex justify-between gap-2">

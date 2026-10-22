@@ -29,9 +29,9 @@ export default function WhalingPage() {
       </ul>
       <figure className="mt-12">
         <SlideFrame
-          src={slide.src}
-          alt={slide.alt}
-          className="aspect-video h-auto w-full border border-white/15 bg-black object-contain"
+          slide={slide.slide}
+          label={slide.caption ?? slide.alt}
+          className="w-full border border-white/15"
         />
         <figcaption className="mt-2 text-sm text-white/55">
           Slide {slide.slide}. Names are the list printed on this slide.
