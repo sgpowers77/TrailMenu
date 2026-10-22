@@ -1,0 +1,2084 @@
+{
+  "title": "Trail Menu",
+  "place": "Las Cruces and the Organ Mountains",
+  "legend": {
+    "title": "Trail Difficulty",
+    "label": "INFORMATION",
+    "intro": [
+      "Four levels based on terrain and risk vs experience.",
+      "Doesn’t necessarily include length, though that can compound difficulty level."
+    ],
+    "levels": [
+      {
+        "id": "easy",
+        "name": "Easy",
+        "text": "Easy: Clearly defined trails with consistent terrain, gentle inclines, and turnaround is possible at any time. Little training,  conditioning, and experience required."
+      },
+      {
+        "id": "moderate",
+        "name": "Moderate",
+        "text": "Moderate: Significant inclines, narrow trails, uneven terrain, and brush on path possible. Some experience & conditioning recommended."
+      },
+      {
+        "id": "hard",
+        "name": "Hard",
+        "text": "Hard: Steep inclines, narrow or undefined, or obstructive paths. Some scrambling or loose ground may be present. Turnarounds may be difficult or dangerous. Experience required."
+      },
+      {
+        "id": "expert",
+        "name": "Expert",
+        "text": "Expert: Very steep inclines, narrow or undefined, or obstructive paths. Scrambling or loose ground guaranteed. Potential to get lost or stuck without proper planning. Experience and fitness required."
+      }
+    ],
+    "fields": [
+      {
+        "id": "drive",
+        "label": "Driving Distance from Town"
+      },
+      {
+        "id": "vehicle",
+        "label": "Vehicle Access Recommendation"
+      },
+      {
+        "id": "fee",
+        "label": "Fee Area Status"
+      },
+      {
+        "id": "time",
+        "label": "Trail Time"
+      }
+    ],
+    "slides": [
+      {
+        "slide": 1,
+        "src": "/slides/001.png",
+        "alt": "Trail Difficulty",
+        "caption": null
+      },
+      {
+        "slide": 2,
+        "src": "/slides/002.png",
+        "alt": "How a trail card is laid out",
+        "caption": null
+      }
+    ]
+  },
+  "areas": [
+    {
+      "slug": "tortugas-mtn-a-mountain",
+      "region": "TORTUGAS MTN.",
+      "name": "“A MOUNTAIN”",
+      "regionLines": [
+        "TORTUGAS MTN."
+      ],
+      "nameLines": [
+        "“A MOUNTAIN”"
+      ],
+      "slides": [
+        {
+          "slide": 3,
+          "src": "/slides/003.png",
+          "alt": "“A MOUNTAIN”",
+          "caption": null
+        }
+      ],
+      "trails": [
+        {
+          "slug": "a-mountain",
+          "name": "“A” MOUNTAIN",
+          "nameLines": [
+            "“A” MOUNTAIN"
+          ],
+          "kicker": "TORTUGAS MOUNTAIN",
+          "kickerLines": [
+            "TORTUGAS MOUNTAIN"
+          ],
+          "difficulty": [
+            "easy",
+            "moderate",
+            "hard"
+          ],
+          "drive": "<15min",
+          "vehicle": "Any - Gravel Lot",
+          "fee": "N/A",
+          "time": "Short: 1-3h",
+          "notes": [
+            "Free",
+            "Paved Access - (Gravel)",
+            "Multiple Trails/ Varied Difficulty",
+            "Short - 1-2hrs",
+            "Strenu"
+          ],
+          "callouts": [],
+          "slides": [
+            {
+              "slide": 4,
+              "src": "/slides/004.png",
+              "alt": "“A” MOUNTAIN",
+              "caption": null
+            },
+            {
+              "slide": 5,
+              "src": "/slides/005.png",
+              "alt": "“A” MOUNTAIN",
+              "caption": null
+            },
+            {
+              "slide": 6,
+              "src": "/slides/006.png",
+              "alt": "“A” MOUNTAIN",
+              "caption": null
+            },
+            {
+              "slide": 7,
+              "src": "/slides/007.png",
+              "alt": "“A” MOUNTAIN",
+              "caption": null
+            },
+            {
+              "slide": 8,
+              "src": "/slides/008.png",
+              "alt": "“A” MOUNTAIN",
+              "caption": null
+            },
+            {
+              "slide": 9,
+              "src": "/slides/009.png",
+              "alt": "“A” MOUNTAIN",
+              "caption": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "organ-mountains-west-desert-peaks-natl-monument",
+      "region": "ORGAN MOUNTAINS WEST",
+      "name": "DESERT PEAKS NAT’L MONUMENT",
+      "regionLines": [
+        "ORGAN MOUNTAINS WEST"
+      ],
+      "nameLines": [
+        "DESERT PEAKS",
+        "NAT’L MONUMENT"
+      ],
+      "slides": [
+        {
+          "slide": 10,
+          "src": "/slides/010.png",
+          "alt": "DESERT PEAKS NAT’L MONUMENT",
+          "caption": null
+        }
+      ],
+      "trails": [
+        {
+          "slug": "dripping-springs",
+          "name": "DRIPPING SPRINGS",
+          "nameLines": [
+            "DRIPPING SPRINGS"
+          ],
+          "kicker": "DESERT PEAKS NATL MONUMENT",
+          "kickerLines": [
+            "DESERT PEAKS NATL MONUMENT"
+          ],
+          "difficulty": [
+            "easy"
+          ],
+          "drive": "<30min",
+          "vehicle": "Any (Fully Paved)",
+          "fee": "Fee Area",
+          "time": "<2h",
+          "notes": [
+            "Short",
+            "Ruins"
+          ],
+          "callouts": [],
+          "slides": [
+            {
+              "slide": 11,
+              "src": "/slides/011.png",
+              "alt": "DRIPPING SPRINGS",
+              "caption": null
+            },
+            {
+              "slide": 12,
+              "src": "/slides/012.png",
+              "alt": "ORGAN MOUNTAINS WEST - DRIPPING SPRINGS",
+              "caption": "ORGAN MOUNTAINS WEST - DRIPPING SPRINGS"
+            },
+            {
+              "slide": 13,
+              "src": "/slides/013.png",
+              "alt": "DRIPPING SPRINGS",
+              "caption": null
+            }
+          ]
+        },
+        {
+          "slug": "hermit-cave",
+          "name": "“HERMIT CAVE”",
+          "nameLines": [
+            "“HERMIT CAVE”"
+          ],
+          "kicker": "LA CUEVA",
+          "kickerLines": [
+            "LA CUEVA"
+          ],
+          "difficulty": [
+            "easy"
+          ],
+          "drive": "0.5h",
+          "vehicle": "Any",
+          "fee": "N/A",
+          "time": "1h",
+          "notes": [
+            "Fee Area",
+            "Paved (asphalt)",
+            "Easy",
+            "Short",
+            "Paved Access",
+            "Extension"
+          ],
+          "callouts": [],
+          "slides": [
+            {
+              "slide": 14,
+              "src": "/slides/014.png",
+              "alt": "“HERMIT CAVE”",
+              "caption": null
+            },
+            {
+              "slide": 15,
+              "src": "/slides/015.png",
+              "alt": "DESERT PEAKS NATL MONUMENT - LA CUEVA “HERMIT CAVE”",
+              "caption": "DESERT PEAKS NATL MONUMENT - LA CUEVA “HERMIT CAVE”"
+            },
+            {
+              "slide": 16,
+              "src": "/slides/016.png",
+              "alt": "DESERT PEAKS NATL MONUMENT - LA CUEVA “HERMIT CAVE”",
+              "caption": "DESERT PEAKS NATL MONUMENT - LA CUEVA “HERMIT CAVE”"
+            }
+          ]
+        },
+        {
+          "slug": "fillmore-canyon",
+          "name": "FILLMORE CANYON",
+          "nameLines": [
+            "FILLMORE CANYON"
+          ],
+          "kicker": "DESERT PEAKS NATL MONUMENT",
+          "kickerLines": [
+            "DESERT PEAKS NATL MONUMENT"
+          ],
+          "difficulty": [
+            "easy"
+          ],
+          "drive": "0.5h",
+          "vehicle": "Any",
+          "fee": "N/A",
+          "time": "1h",
+          "notes": [
+            "Fee Area",
+            "Paved Access (asphalt)",
+            "Easy",
+            "Short",
+            "Extensions"
+          ],
+          "callouts": [],
+          "slides": [
+            {
+              "slide": 17,
+              "src": "/slides/017.png",
+              "alt": "FILLMORE CANYON",
+              "caption": null
+            },
+            {
+              "slide": 18,
+              "src": "/slides/018.png",
+              "alt": "FILLMORE CANYON",
+              "caption": null
+            },
+            {
+              "slide": 19,
+              "src": "/slides/019.png",
+              "alt": "ORGAN MOUNTAINS WEST - FILLMORE CANYON",
+              "caption": "ORGAN MOUNTAINS WEST - FILLMORE CANYON"
+            }
+          ]
+        },
+        {
+          "slug": "juniper-saddle",
+          "name": "Juniper Saddle",
+          "nameLines": [
+            "Juniper Saddle"
+          ],
+          "kicker": "DESERT PEAKS NATL MONUMENT",
+          "kickerLines": [
+            "DESERT PEAKS NATL MONUMENT"
+          ],
+          "difficulty": [
+            "expert"
+          ],
+          "drive": "20min",
+          "vehicle": "Any",
+          "fee": "Yes",
+          "time": "8-9h",
+          "notes": [
+            "Fee Area",
+            "Paved Access (asphalt)",
+            "Long (~7hrs)",
+            "Strenu",
+            "Extension of Fillmore Canyon",
+            "Continues to Organ Needle"
+          ],
+          "callouts": [],
+          "slides": [
+            {
+              "slide": 20,
+              "src": "/slides/020.png",
+              "alt": "Juniper Saddle",
+              "caption": null
+            }
+          ]
+        },
+        {
+          "slug": "organ-needle",
+          "name": "ORGAN NEEDLE",
+          "nameLines": [
+            "ORGAN NEEDLE"
+          ],
+          "kicker": "DESERT PEAKS NATL MONUMENT",
+          "kickerLines": [
+            "DESERT PEAKS NATL MONUMENT"
+          ],
+          "difficulty": [
+            "expert"
+          ],
+          "drive": "20min",
+          "vehicle": "Any",
+          "fee": "Yes",
+          "time": "8-9h",
+          "notes": [
+            "Free",
+            "Paved Access - (Gravel)",
+            "Multiple Trails/ Varied Difficulty",
+            "Short - 1-2hrs",
+            "Strenu",
+            "Extension of",
+            "Fillmore Canyon",
+            "Juniper Saddle"
+          ],
+          "callouts": [],
+          "slides": [
+            {
+              "slide": 21,
+              "src": "/slides/021.png",
+              "alt": "ORGAN NEEDLE",
+              "caption": null
+            },
+            {
+              "slide": 22,
+              "src": "/slides/022.png",
+              "alt": "ORGAN MOUNTAINS WEST - ORGAN NEEDLE",
+              "caption": "ORGAN MOUNTAINS WEST - ORGAN NEEDLE"
+            },
+            {
+              "slide": 23,
+              "src": "/slides/023.png",
+              "alt": "ORGAN MOUNTAINS WEST - ORGAN NEEDLE",
+              "caption": "ORGAN MOUNTAINS WEST - ORGAN NEEDLE"
+            },
+            {
+              "slide": 24,
+              "src": "/slides/024.png",
+              "alt": "ORGAN MOUNTAINS WEST - ORGAN NEEDLE",
+              "caption": "ORGAN MOUNTAINS WEST - ORGAN NEEDLE"
+            },
+            {
+              "slide": 25,
+              "src": "/slides/025.png",
+              "alt": "ORGAN MOUNTAINS WEST - ORGAN NEEDLE",
+              "caption": "ORGAN MOUNTAINS WEST - ORGAN NEEDLE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "organ-mountains-west-ruby-mine",
+      "region": "ORGAN MOUNTAINS WEST",
+      "name": "RUBY MINE",
+      "regionLines": [
+        "ORGAN MOUNTAINS WEST"
+      ],
+      "nameLines": [
+        "RUBY MINE"
+      ],
+      "slides": [
+        {
+          "slide": 26,
+          "src": "/slides/026.png",
+          "alt": "RUBY MINE",
+          "caption": null
+        }
+      ],
+      "trails": [
+        {
+          "slug": "ruby-mine",
+          "name": "RUBY MINE",
+          "nameLines": [
+            "RUBY MINE"
+          ],
+          "kicker": "TOPP HUT ROAD",
+          "kickerLines": [
+            "TOPP HUT ROAD"
+          ],
+          "difficulty": [
+            "easy"
+          ],
+          "drive": "<30min",
+          "vehicle": "Any (Gravel Pull Off)",
+          "fee": "N/A",
+          "time": "<2h",
+          "notes": [
+            "Parking limited/ side of road",
+            "Ruins",
+            "Connects to",
+            "Southern Comfort Wall",
+            "Rabbit Ears Plateau"
+          ],
+          "callouts": [],
+          "slides": [
+            {
+              "slide": 27,
+              "src": "/slides/027.png",
+              "alt": "RUBY MINE",
+              "caption": null
+            },
+            {
+              "slide": 28,
+              "src": "/slides/028.png",
+              "alt": "RUBY MINE",
+              "caption": null
+            },
+            {
+              "slide": 29,
+              "src": "/slides/029.png",
+              "alt": "RUBY MINE",
+              "caption": null
+            }
+          ]
+        },
+        {
+          "slug": "southern-comfort-wall",
+          "name": "SOUTHERN COMFORT WALL",
+          "nameLines": [
+            "SOUTHERN COMFORT WALL"
+          ],
+          "kicker": "TOPP HUT ROAD",
+          "kickerLines": [
+            "TOPP HUT ROAD"
+          ],
+          "difficulty": [
+            "hard"
+          ],
+          "drive": "<30min",
+          "vehicle": "Any (Gravel Pull Off)",
+          "fee": "N/A",
+          "time": "<2h",
+          "notes": [
+            "Parking limited/ side of road",
+            "2-3hours",
+            "Ruins",
+            "Extension of",
+            "Ruby Mine"
+          ],
+          "callouts": [],
+          "slides": [
+            {
+              "slide": 30,
+              "src": "/slides/030.png",
+              "alt": "SOUTHERN COMFORT WALL",
+              "caption": null
+            },
+            {
+              "slide": 31,
+              "src": "/slides/031.png",
+              "alt": "SOUTHERN COMFORT WALL",
+              "caption": null
+            },
+            {
+              "slide": 32,
+              "src": "/slides/032.png",
+              "alt": "SOUTHERN COMFORT WALL",
+              "caption": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "organ-mountains-west-bar-canyon",
+      "region": "ORGAN MOUNTAINS WEST",
+      "name": "BAR CANYON",
+      "regionLines": [
+        "ORGAN MOUNTAINS WEST"
+      ],
+      "nameLines": [
+        "BAR CANYON"
+      ],
+      "slides": [
+        {
+          "slide": 33,
+          "src": "/slides/033.png",
+          "alt": "BAR CANYON",
+          "caption": null
+        }
+      ],
+      "trails": [
+        {
+          "slug": "soledad",
+          "name": "“SOLEDAD”",
+          "nameLines": [
+            "“SOLEDAD”"
+          ],
+          "kicker": "Bar Canyon",
+          "kickerLines": [
+            "Bar Canyon"
+          ],
+          "difficulty": [
+            "easy"
+          ],
+          "drive": "<30min",
+          "vehicle": "Any (Asphalt Lot)",
+          "fee": "N/A",
+          "time": "1-2h",
+          "notes": [
+            "Free",
+            "Paved Access (asphalt)",
+            "Short",
+            "Ruins"
+          ],
+          "callouts": [],
+          "slides": [
+            {
+              "slide": 34,
+              "src": "/slides/034.png",
+              "alt": "“SOLEDAD”",
+              "caption": null
+            },
+            {
+              "slide": 35,
+              "src": "/slides/035.png",
+              "alt": "“SOLEDAD”",
+              "caption": null
+            },
+            {
+              "slide": 36,
+              "src": "/slides/036.png",
+              "alt": "“SOLEDAD”",
+              "caption": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "bar-canyon-bar-mountain",
+      "region": "BAR CANYON",
+      "name": "BAR MOUNTAIN",
+      "regionLines": [
+        "BAR CANYON"
+      ],
+      "nameLines": [
+        "BAR MOUNTAIN"
+      ],
+      "slides": [
+        {
+          "slide": 37,
+          "src": "/slides/037.png",
+          "alt": "BAR MOUNTAIN",
+          "caption": null
+        }
+      ],
+      "trails": [
+        {
+          "slug": "bar-mountain",
+          "name": "BAR MOUNTAIN",
+          "nameLines": [
+            "BAR MOUNTAIN"
+          ],
+          "kicker": "Bar Canyon",
+          "kickerLines": [
+            "Bar Canyon"
+          ],
+          "difficulty": [
+            "hard"
+          ],
+          "drive": "<30min",
+          "vehicle": "Any (Asphalt Lot)",
+          "fee": "N/A",
+          "time": "1-2h",
+          "notes": [
+            "No Trail"
+          ],
+          "callouts": [],
+          "slides": [
+            {
+              "slide": 38,
+              "src": "/slides/038.png",
+              "alt": "BAR MOUNTAIN",
+              "caption": null
+            },
+            {
+              "slide": 39,
+              "src": "/slides/039.png",
+              "alt": "BAR MOUNTAIN",
+              "caption": null
+            },
+            {
+              "slide": 40,
+              "src": "/slides/040.png",
+              "alt": "BAR MOUNTAIN",
+              "caption": null
+            },
+            {
+              "slide": 41,
+              "src": "/slides/041.png",
+              "alt": "BAR MOUNTAIN",
+              "caption": null
+            },
+            {
+              "slide": 42,
+              "src": "/slides/042.png",
+              "alt": "BAR MOUNTAIN",
+              "caption": null
+            }
+          ]
+        },
+        {
+          "slug": "south-ridge",
+          "name": "SOUTH RIDGE",
+          "nameLines": [
+            "SOUTH RIDGE"
+          ],
+          "kicker": "Bar Canyon",
+          "kickerLines": [
+            "Bar Canyon"
+          ],
+          "difficulty": [
+            "hard"
+          ],
+          "drive": "<30min",
+          "vehicle": "Any (Asphalt Lot)",
+          "fee": "N/A",
+          "time": "1-2h",
+          "notes": [
+            "No Trail"
+          ],
+          "callouts": [],
+          "slides": [
+            {
+              "slide": 43,
+              "src": "/slides/043.png",
+              "alt": "SOUTH RIDGE",
+              "caption": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "organ-mountains-west-achenbach-canyon",
+      "region": "ORGAN MOUNTAINS WEST",
+      "name": "ACHENBACH CANYON",
+      "regionLines": [
+        "ORGAN MOUNTAINS WEST"
+      ],
+      "nameLines": [
+        "ACHENBACH CANYON"
+      ],
+      "slides": [
+        {
+          "slide": 44,
+          "src": "/slides/044.png",
+          "alt": "ACHENBACH CANYON",
+          "caption": null
+        }
+      ],
+      "trails": [
+        {
+          "slug": "achenbach-canyon",
+          "name": "ACHENBACH CANYON",
+          "nameLines": [
+            "ACHENBACH CANYON"
+          ],
+          "kicker": "Bar Canyon",
+          "kickerLines": [
+            "Bar Canyon"
+          ],
+          "difficulty": [
+            "hard"
+          ],
+          "drive": "<30min",
+          "vehicle": "Any (Rough Road)",
+          "fee": "N/A",
+          "time": "??",
+          "notes": [
+            "Unknown"
+          ],
+          "callouts": [],
+          "slides": [
+            {
+              "slide": 45,
+              "src": "/slides/045.png",
+              "alt": "ACHENBACH CANYON",
+              "caption": null
+            },
+            {
+              "slide": 46,
+              "src": "/slides/046.png",
+              "alt": "ACHENBACH CANYON",
+              "caption": null
+            },
+            {
+              "slide": 47,
+              "src": "/slides/047.png",
+              "alt": "ACHENBACH CANYON",
+              "caption": null
+            },
+            {
+              "slide": 48,
+              "src": "/slides/048.png",
+              "alt": "ACHENBACH CANYON",
+              "caption": null
+            },
+            {
+              "slide": 49,
+              "src": "/slides/049.png",
+              "alt": "ACHENBACH CANYON",
+              "caption": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "baylor-canyon-baylor-pass",
+      "region": "BAYLOR CANYON",
+      "name": "BAYLOR PASS",
+      "regionLines": [
+        "BAYLOR CANYON"
+      ],
+      "nameLines": [
+        "BAYLOR PASS"
+      ],
+      "slides": [
+        {
+          "slide": 50,
+          "src": "/slides/050.png",
+          "alt": "BAYLOR PASS",
+          "caption": null
+        }
+      ],
+      "trails": [
+        {
+          "slug": "baylor-pass-west",
+          "name": "BAYLOR PASS WEST",
+          "nameLines": [
+            "BAYLOR PASS WEST"
+          ],
+          "kicker": "Baylor Canyon",
+          "kickerLines": [
+            "Baylor Canyon"
+          ],
+          "difficulty": [
+            "moderate"
+          ],
+          "drive": "0.5h",
+          "vehicle": "Any (Gravel Lot)",
+          "fee": "N/A",
+          "time": "6h",
+          "notes": [
+            "Free",
+            "Long",
+            "Uncertain Trails",
+            "Seasonal Overgrowth"
+          ],
+          "callouts": [],
+          "slides": [
+            {
+              "slide": 51,
+              "src": "/slides/051.png",
+              "alt": "BAYLOR PASS WEST",
+              "caption": null
+            },
+            {
+              "slide": 52,
+              "src": "/slides/052.png",
+              "alt": "BAYLOR PASS WEST",
+              "caption": null
+            },
+            {
+              "slide": 53,
+              "src": "/slides/053.png",
+              "alt": "BAYLOR PASS WEST",
+              "caption": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "white-whale-baylor-pass-east",
+      "region": "WHITE WHALE",
+      "name": "BAYLOR PASS EAST",
+      "regionLines": [
+        "WHITE WHALE"
+      ],
+      "nameLines": [
+        "BAYLOR PASS EAST"
+      ],
+      "slides": [
+        {
+          "slide": 54,
+          "src": "/slides/054.png",
+          "alt": "BAYLOR PASS EAST",
+          "caption": null
+        }
+      ],
+      "trails": [
+        {
+          "slug": "baylor-pass-east",
+          "name": "BAYLOR PASS EAST",
+          "nameLines": [
+            "BAYLOR PASS EAST"
+          ],
+          "kicker": "Baylor Canyon",
+          "kickerLines": [
+            "Baylor Canyon"
+          ],
+          "difficulty": [
+            "moderate"
+          ],
+          "drive": "0.5h",
+          "vehicle": "Any (Gravel Lot)",
+          "fee": "N/A",
+          "time": "6h",
+          "notes": [
+            "Free",
+            "Long",
+            "Uncertain Trails",
+            "Seasonal Overgrowth"
+          ],
+          "callouts": [],
+          "slides": [
+            {
+              "slide": 55,
+              "src": "/slides/055.png",
+              "alt": "BAYLOR PASS EAST",
+              "caption": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "organ-mountains-east-aguirre-springs",
+      "region": "ORGAN MOUNTAINS EAST",
+      "name": "AGUIRRE SPRINGS",
+      "regionLines": [
+        "ORGAN MOUNTAINS EAST"
+      ],
+      "nameLines": [
+        "AGUIRRE SPRINGS"
+      ],
+      "slides": [
+        {
+          "slide": 56,
+          "src": "/slides/056.png",
+          "alt": "AGUIRRE SPRINGS",
+          "caption": null
+        }
+      ],
+      "trails": [
+        {
+          "slug": "pine-tree-trail",
+          "name": "PINE TREE TRAIL",
+          "nameLines": [
+            "PINE TREE TRAIL"
+          ],
+          "kicker": "AGUIRRE SPRINGS",
+          "kickerLines": [
+            "AGUIRRE SPRINGS"
+          ],
+          "difficulty": [
+            "easy"
+          ],
+          "drive": "0.5h",
+          "vehicle": "Any (Asphalt)",
+          "fee": "N/A",
+          "time": "1h",
+          "notes": [
+            "Fee Area",
+            "Paved Access (asphalt)",
+            "Connects to:",
+            "Rabbit Ears East"
+          ],
+          "callouts": [],
+          "slides": [
+            {
+              "slide": 57,
+              "src": "/slides/057.png",
+              "alt": "PINE TREE TRAIL",
+              "caption": null
+            },
+            {
+              "slide": 58,
+              "src": "/slides/058.png",
+              "alt": "PINE TREE TRAIL",
+              "caption": null
+            },
+            {
+              "slide": 59,
+              "src": "/slides/059.png",
+              "alt": "PINE TREE TRAIL",
+              "caption": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "desert-peaks-natl-monument-picacho-peak",
+      "region": "DESERT PEAKS NAT’L MONUMENT",
+      "name": "“PICACHO PEAK”",
+      "regionLines": [
+        "DESERT PEAKS NAT’L MONUMENT"
+      ],
+      "nameLines": [
+        "“PICACHO PEAK”"
+      ],
+      "slides": [
+        {
+          "slide": 60,
+          "src": "/slides/060.png",
+          "alt": "“PICACHO PEAK”",
+          "caption": null
+        }
+      ],
+      "trails": [
+        {
+          "slug": "picacho-peak",
+          "name": "PICACHO PEAK",
+          "nameLines": [
+            "PICACHO PEAK"
+          ],
+          "kicker": "PICACHO MOUNTAIN",
+          "kickerLines": [
+            "PICACHO MOUNTAIN"
+          ],
+          "difficulty": [
+            "easy",
+            "moderate"
+          ],
+          "drive": "<20min",
+          "vehicle": "High Clearance (Dirt/ Washouts)",
+          "fee": "N/A",
+          "time": "1.5-2.5h",
+          "notes": [
+            "Possible to hike from pavement end/ neighborhood",
+            "Strenu"
+          ],
+          "callouts": [],
+          "slides": [
+            {
+              "slide": 61,
+              "src": "/slides/061.png",
+              "alt": "PICACHO PEAK",
+              "caption": null
+            },
+            {
+              "slide": 62,
+              "src": "/slides/062.png",
+              "alt": "PICACHO PEAK",
+              "caption": null
+            },
+            {
+              "slide": 63,
+              "src": "/slides/063.png",
+              "alt": "PICACHO PEAK",
+              "caption": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "robledo-ridge-prehistoric-pathways",
+      "region": "ROBLEDO RIDGE",
+      "name": "PREHISTORIC PATHWAYS",
+      "regionLines": [
+        "ROBLEDO RIDGE"
+      ],
+      "nameLines": [
+        "PREHISTORIC PATHWAYS"
+      ],
+      "slides": [
+        {
+          "slide": 64,
+          "src": "/slides/064.png",
+          "alt": "PREHISTORIC PATHWAYS",
+          "caption": null
+        }
+      ],
+      "trails": [
+        {
+          "slug": "discovery-site",
+          "name": "DISCOVERY SITE",
+          "nameLines": [
+            "DISCOVERY SITE"
+          ],
+          "kicker": "PREHISTORIC PATHWAYS",
+          "kickerLines": [
+            "PREHISTORIC PATHWAYS"
+          ],
+          "difficulty": [
+            "easy"
+          ],
+          "drive": "<30min",
+          "vehicle": "Any (Gravel Lot)",
+          "fee": "N/A",
+          "time": "1h",
+          "notes": [
+            "Multiple Trail Access",
+            "Fossils",
+            "Connects to",
+            "Robledo Ridge"
+          ],
+          "callouts": [],
+          "slides": [
+            {
+              "slide": 65,
+              "src": "/slides/065.png",
+              "alt": "DISCOVERY SITE",
+              "caption": null
+            },
+            {
+              "slide": 66,
+              "src": "/slides/066.png",
+              "alt": "DISCOVERY SITE",
+              "caption": null
+            }
+          ]
+        },
+        {
+          "slug": "robledo-ridgeline",
+          "name": "ROBLEDO RIDGELINE",
+          "nameLines": [
+            "ROBLEDO RIDGELINE"
+          ],
+          "kicker": "PREHISTORIC PATHWAYS",
+          "kickerLines": [
+            "PREHISTORIC PATHWAYS"
+          ],
+          "difficulty": [
+            "easy"
+          ],
+          "drive": "<30min",
+          "vehicle": "Any (Gravel Lot)",
+          "fee": "N/A",
+          "time": "2-3h",
+          "notes": [
+            "Medium",
+            "Strenu",
+            "Extension of",
+            "Prehistoric Pathways Discovery Site"
+          ],
+          "callouts": [],
+          "slides": [
+            {
+              "slide": 67,
+              "src": "/slides/067.png",
+              "alt": "ROBLEDO RIDGELINE",
+              "caption": null
+            },
+            {
+              "slide": 68,
+              "src": "/slides/068.png",
+              "alt": "ROBLEDO RIDGELINE",
+              "caption": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "northern-las-cruces-dona-ana-mountains",
+      "region": "NORTHERN LAS CRUCES",
+      "name": "DONA ANA MOUNTAINS",
+      "regionLines": [
+        "NORTHERN LAS CRUCES"
+      ],
+      "nameLines": [
+        "DONA ANA MOUNTAINS"
+      ],
+      "slides": [
+        {
+          "slide": 69,
+          "src": "/slides/069.png",
+          "alt": "DONA ANA MOUNTAINS",
+          "caption": null
+        }
+      ],
+      "trails": [
+        {
+          "slug": "high-point",
+          "name": "HIGH POINT",
+          "nameLines": [
+            "HIGH POINT"
+          ],
+          "kicker": "DONA ANA MOUNTAINS",
+          "kickerLines": [
+            "DONA ANA MOUNTAINS"
+          ],
+          "difficulty": [
+            "expert"
+          ],
+          "drive": "1h",
+          "vehicle": "4x4 (Washouts, Sand, Rocky)",
+          "fee": "N/A",
+          "time": "3h",
+          "notes": [
+            "No Defined Trail",
+            "Brush Overgrowth",
+            "Long"
+          ],
+          "callouts": [],
+          "slides": [
+            {
+              "slide": 70,
+              "src": "/slides/070.png",
+              "alt": "HIGH POINT",
+              "caption": null
+            },
+            {
+              "slide": 71,
+              "src": "/slides/071.png",
+              "alt": "DONA ANA MOUNTAINS — HIGH POINT",
+              "caption": "DONA ANA MOUNTAINS\nHIGH POINT"
+            },
+            {
+              "slide": 72,
+              "src": "/slides/072.png",
+              "alt": "HIGH POINT",
+              "caption": null
+            },
+            {
+              "slide": 73,
+              "src": "/slides/073.png",
+              "alt": "HIGH POINT",
+              "caption": null
+            },
+            {
+              "slide": 74,
+              "src": "/slides/074.png",
+              "alt": "HIGH POINT",
+              "caption": null
+            }
+          ]
+        },
+        {
+          "slug": "dona-ana-peak",
+          "name": "DONA ANA PEAK",
+          "nameLines": [
+            "DONA ANA PEAK"
+          ],
+          "kicker": "DONA ANA MOUNTAINS",
+          "kickerLines": [
+            "DONA ANA MOUNTAINS"
+          ],
+          "difficulty": [
+            "expert"
+          ],
+          "drive": "1h",
+          "vehicle": "4x4 (Washouts, Sand, Rocky)",
+          "fee": "N/A",
+          "time": "2-3h",
+          "notes": [
+            "No Defined Trail",
+            "Brush Overgrowth",
+            "Long"
+          ],
+          "callouts": [],
+          "slides": [
+            {
+              "slide": 75,
+              "src": "/slides/075.png",
+              "alt": "DONA ANA PEAK",
+              "caption": null
+            },
+            {
+              "slide": 76,
+              "src": "/slides/076.png",
+              "alt": "DONA ANA PEAK",
+              "caption": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "northern-las-cruces-dona-ana-arches",
+      "region": "NORTHERN LAS CRUCES",
+      "name": "DONA ANA ARCHES",
+      "regionLines": [
+        "NORTHERN LAS CRUCES"
+      ],
+      "nameLines": [
+        "DONA ANA ARCHES"
+      ],
+      "slides": [
+        {
+          "slide": 77,
+          "src": "/slides/077.png",
+          "alt": "DONA ANA ARCHES",
+          "caption": null
+        }
+      ],
+      "trails": [
+        {
+          "slug": "arches",
+          "name": "ARCHES",
+          "nameLines": [
+            "ARCHES"
+          ],
+          "kicker": "DONA ANA",
+          "kickerLines": [
+            "DONA ANA"
+          ],
+          "difficulty": [
+            "moderate"
+          ],
+          "drive": "3h",
+          "vehicle": "Any (Gravel Pull Off)",
+          "fee": "N/A",
+          "time": "<30min",
+          "notes": [
+            "4x4 optional, many ATV trails",
+            "Hillbilly Paradise",
+            "ATVs",
+            "Firearms Target Shooting",
+            "Multiple Trails",
+            "Medium-Long",
+            "Strenu"
+          ],
+          "callouts": [],
+          "slides": [
+            {
+              "slide": 78,
+              "src": "/slides/078.png",
+              "alt": "ARCHES",
+              "caption": null
+            },
+            {
+              "slide": 79,
+              "src": "/slides/079.png",
+              "alt": "ARCGIS IMAGERY BASE MAP",
+              "caption": "ARCGIS IMAGERY BASE MAP"
+            },
+            {
+              "slide": 80,
+              "src": "/slides/080.png",
+              "alt": "ARCHES",
+              "caption": null
+            },
+            {
+              "slide": 81,
+              "src": "/slides/081.png",
+              "alt": "ARCHES",
+              "caption": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "baldy-twin-peaks-radio-hill",
+      "region": "BALDY // TWIN PEAKS",
+      "name": "“RADIO HILL”",
+      "regionLines": [
+        "BALDY // TWIN PEAKS"
+      ],
+      "nameLines": [
+        "“RADIO HILL”"
+      ],
+      "slides": [
+        {
+          "slide": 82,
+          "src": "/slides/082.png",
+          "alt": "“RADIO HILL”",
+          "caption": null
+        }
+      ],
+      "trails": [
+        {
+          "slug": "radio-hill",
+          "name": "RADIO HILL",
+          "nameLines": [
+            "RADIO HILL"
+          ],
+          "kicker": "BALDY // TWIN PEAKS",
+          "kickerLines": [
+            "BALDY // TWIN PEAKS"
+          ],
+          "difficulty": [
+            "moderate"
+          ],
+          "drive": "30min",
+          "vehicle": "Any (Gravel & Dirt Roads)",
+          "fee": "N/A",
+          "time": "1-2h",
+          "notes": [
+            "Free",
+            "Private property near",
+            "No Trail"
+          ],
+          "callouts": [],
+          "slides": [
+            {
+              "slide": 83,
+              "src": "/slides/083.png",
+              "alt": "RADIO HILL",
+              "caption": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "robledo-mountain",
+      "region": "ROBLEDO MOUNTAIN",
+      "name": "",
+      "regionLines": [
+        "ROBLEDO MOUNTAIN"
+      ],
+      "nameLines": [],
+      "slides": [],
+      "trails": [
+        {
+          "slug": "slot-canyon",
+          "name": "SLOT CANYON",
+          "nameLines": [
+            "SLOT CANYON"
+          ],
+          "kicker": "ROBLEDO MOUNTAIN",
+          "kickerLines": [
+            "ROBLEDO MOUNTAIN"
+          ],
+          "difficulty": [
+            "easy"
+          ],
+          "drive": "0.5h",
+          "vehicle": "Any (Gravel & Dirt Pull Off)",
+          "fee": "N/A",
+          "time": "1h",
+          "notes": [
+            "Free",
+            "Paved Access (gravel/ dirt)",
+            "Easy",
+            "River Crossing",
+            "Bushwacking",
+            "Unclear path at river"
+          ],
+          "callouts": [],
+          "slides": [
+            {
+              "slide": 84,
+              "src": "/slides/084.png",
+              "alt": "SLOT CANYON",
+              "caption": null
+            },
+            {
+              "slide": 85,
+              "src": "/slides/085.png",
+              "alt": "SLOT CANYON",
+              "caption": null
+            },
+            {
+              "slide": 86,
+              "src": "/slides/086.png",
+              "alt": "SLOT CANYON",
+              "caption": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "bishop-cap-frog-mountain",
+      "region": "BISHOP CAP",
+      "name": "FROG MOUNTAIN",
+      "regionLines": [
+        "BISHOP CAP"
+      ],
+      "nameLines": [
+        "FROG MOUNTAIN"
+      ],
+      "slides": [
+        {
+          "slide": 87,
+          "src": "/slides/087.png",
+          "alt": "FROG MOUNTAIN",
+          "caption": null
+        }
+      ],
+      "trails": [
+        {
+          "slug": "frog-mountain",
+          "name": "“FROG MOUNTAIN”",
+          "nameLines": [
+            "“FROG MOUNTAIN”"
+          ],
+          "kicker": "BISHOP CAP",
+          "kickerLines": [
+            "BISHOP CAP"
+          ],
+          "difficulty": [
+            "expert"
+          ],
+          "drive": "<1h",
+          "vehicle": "High Clearance (Rocky)",
+          "fee": "N/A",
+          "time": "4-6h",
+          "notes": [
+            "Includes Monte Vista Trail Segment",
+            "4x4 recommended for base of mountain"
+          ],
+          "callouts": [],
+          "slides": [
+            {
+              "slide": 88,
+              "src": "/slides/088.png",
+              "alt": "“FROG MOUNTAIN”",
+              "caption": null
+            },
+            {
+              "slide": 89,
+              "src": "/slides/089.png",
+              "alt": "“FROG MOUNTAIN”",
+              "caption": null
+            },
+            {
+              "slide": 90,
+              "src": "/slides/090.png",
+              "alt": "“FROG MOUNTAIN”",
+              "caption": null
+            },
+            {
+              "slide": 91,
+              "src": "/slides/091.png",
+              "alt": "“FROG MOUNTAIN”",
+              "caption": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "city-of-las-cruces-urban-trails",
+      "region": "CITY OF LAS CRUCES",
+      "name": "URBAN TRAILS",
+      "regionLines": [
+        "CITY OF LAS CRUCES"
+      ],
+      "nameLines": [
+        "URBAN TRAILS"
+      ],
+      "slides": [
+        {
+          "slide": 92,
+          "src": "/slides/092.png",
+          "alt": "URBAN TRAILS",
+          "caption": null
+        }
+      ],
+      "trails": [
+        {
+          "slug": "la-llorona-trail",
+          "name": "La Llorona Trail",
+          "nameLines": [
+            "La Llorona Trail"
+          ],
+          "kicker": "LAS CRUCES “UBRAN TRAILS” / RIO GRANDE TRAIL",
+          "kickerLines": [
+            "LAS CRUCES “UBRAN TRAILS” / RIO GRANDE TRAIL"
+          ],
+          "difficulty": [
+            "easy"
+          ],
+          "drive": "<15min",
+          "vehicle": "All (Asphalt)",
+          "fee": "N/A",
+          "time": "1-4h",
+          "notes": [
+            "4.8mi Full Length",
+            "Paved Access/ Multi use",
+            "Fully Paved Path/ Multi Use",
+            "Long",
+            "Connects to:",
+            "Run Along Path (North)",
+            "Del Norte Path (South/ Mesilla)"
+          ],
+          "callouts": [],
+          "slides": [
+            {
+              "slide": 93,
+              "src": "/slides/093.png",
+              "alt": "La Llorona Trail",
+              "caption": null
+            }
+          ]
+        },
+        {
+          "slug": "outfall-channel-trail",
+          "name": "OUTFALL CHANNEL TRAIL",
+          "nameLines": [
+            "OUTFALL CHANNEL TRAIL"
+          ],
+          "kicker": "LAS CRUCES “UBRAN TRAILS”",
+          "kickerLines": [
+            "LAS CRUCES “UBRAN TRAILS”"
+          ],
+          "difficulty": [
+            "easy"
+          ],
+          "drive": "<10min",
+          "vehicle": "All (Asphalt)",
+          "fee": "N/A",
+          "time": "1-4h",
+          "notes": [
+            "4.8mi Full Length",
+            "Paved Access/ Multi use",
+            "Fully Paved Path/ Multi Use",
+            "Long",
+            "Connects to:",
+            "Run Along Path (North)",
+            "Del Norte Path (South/ Mesilla)"
+          ],
+          "callouts": [],
+          "slides": [
+            {
+              "slide": 94,
+              "src": "/slides/094.png",
+              "alt": "OUTFALL CHANNEL TRAIL",
+              "caption": null
+            }
+          ]
+        },
+        {
+          "slug": "la-mesilla-del-norte",
+          "name": "LA MESILLA DEL NORTE",
+          "nameLines": [
+            "LA MESILLA DEL NORTE"
+          ],
+          "kicker": "LAS CRUCES “UBRAN TRAILS”",
+          "kickerLines": [
+            "LAS CRUCES “UBRAN TRAILS”"
+          ],
+          "difficulty": [
+            "easy"
+          ],
+          "drive": "<10min",
+          "vehicle": "All (Asphalt)",
+          "fee": "N/A",
+          "time": "1-4h",
+          "notes": [
+            "4.8mi Full Length",
+            "Paved Access/ Multi use",
+            "Fully Paved Path/ Multi Use",
+            "Long",
+            "Connects to:",
+            "Run Along Path (North)",
+            "University Path (South)"
+          ],
+          "callouts": [],
+          "slides": [
+            {
+              "slide": 95,
+              "src": "/slides/095.png",
+              "alt": "LA MESILLA DEL NORTE",
+              "caption": null
+            }
+          ]
+        },
+        {
+          "slug": "triviz-trail",
+          "name": "TRIVIZ TRAIL",
+          "nameLines": [
+            "TRIVIZ TRAIL"
+          ],
+          "kicker": "LAS CRUCES “UBRAN TRAILS”",
+          "kickerLines": [
+            "LAS CRUCES “UBRAN TRAILS”"
+          ],
+          "difficulty": [
+            "easy"
+          ],
+          "drive": "<10min",
+          "vehicle": "All (Asphalt)",
+          "fee": "N/A",
+          "time": "1-4h",
+          "notes": [
+            "4.8mi Full Length",
+            "Paved Access/ Multi use",
+            "Fully Paved Path/ Multi Use",
+            "Long",
+            "Connects to:",
+            "Run Along Path (North)",
+            "University Path (South)"
+          ],
+          "callouts": [],
+          "slides": [
+            {
+              "slide": 96,
+              "src": "/slides/096.png",
+              "alt": "TRIVIZ TRAIL",
+              "caption": null
+            }
+          ]
+        },
+        {
+          "slug": "university-trail",
+          "name": "UNIVERSITY TRAIL",
+          "nameLines": [
+            "UNIVERSITY TRAIL"
+          ],
+          "kicker": "LAS CRUCES “UBRAN TRAILS”",
+          "kickerLines": [
+            "LAS CRUCES “UBRAN TRAILS”"
+          ],
+          "difficulty": [
+            "easy"
+          ],
+          "drive": "<10min",
+          "vehicle": "All (Asphalt)",
+          "fee": "N/A",
+          "time": "1-4h",
+          "notes": [
+            "4.8mi Full Length",
+            "Paved Access/ Multi use",
+            "Fully Paved Path/ Multi Use",
+            "Long",
+            "Connects to:",
+            "Run Along Path (North)",
+            "University Path (South)"
+          ],
+          "callouts": [],
+          "slides": [
+            {
+              "slide": 97,
+              "src": "/slides/097.png",
+              "alt": "UNIVERSITY TRAIL",
+              "caption": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "aden-lava-flow",
+      "region": "ADEN LAVA FLOW",
+      "name": "",
+      "regionLines": [
+        "ADEN LAVA FLOW"
+      ],
+      "nameLines": [],
+      "slides": [],
+      "trails": [
+        {
+          "slug": "aden-crater",
+          "name": "ADEN CRATER",
+          "nameLines": [
+            "ADEN CRATER"
+          ],
+          "kicker": "ADEN LAVA FLOW",
+          "kickerLines": [
+            "ADEN LAVA FLOW"
+          ],
+          "difficulty": [
+            "easy"
+          ],
+          "drive": "1h",
+          "vehicle": "4x4 Dirt Washouts & Scrub",
+          "fee": "N/A",
+          "time": "1h",
+          "notes": [
+            "Free",
+            "Easy",
+            "Short"
+          ],
+          "callouts": [],
+          "slides": [
+            {
+              "slide": 98,
+              "src": "/slides/098.png",
+              "alt": "ADEN CRATER",
+              "caption": null
+            },
+            {
+              "slide": 99,
+              "src": "/slides/099.png",
+              "alt": "ADEN CRATER",
+              "caption": null
+            },
+            {
+              "slide": 100,
+              "src": "/slides/100.png",
+              "alt": "ADEN CRATER",
+              "caption": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "franklin-mountains-b-36-wreck",
+      "region": "FRANKLIN MOUNTAINS",
+      "name": "B-36 WRECK",
+      "regionLines": [
+        "FRANKLIN MOUNTAINS"
+      ],
+      "nameLines": [
+        "B-36 WRECK"
+      ],
+      "slides": [
+        {
+          "slide": 101,
+          "src": "/slides/101.png",
+          "alt": "B-36 WRECK",
+          "caption": null
+        }
+      ],
+      "trails": [
+        {
+          "slug": "b-36-wreck",
+          "name": "B-36 Wreck",
+          "nameLines": [
+            "B-36 Wreck"
+          ],
+          "kicker": "FRANKLIN MOUNTAINS",
+          "kickerLines": [
+            "FRANKLIN MOUNTAINS"
+          ],
+          "difficulty": [
+            "hard"
+          ],
+          "drive": "45min",
+          "vehicle": "All (Asphalt)",
+          "fee": "N/A",
+          "time": "3-4h",
+          "notes": [
+            "Ruin",
+            "Strenu"
+          ],
+          "callouts": [],
+          "slides": [
+            {
+              "slide": 102,
+              "src": "/slides/102.png",
+              "alt": "B-36 Wreck",
+              "caption": null
+            },
+            {
+              "slide": 103,
+              "src": "/slides/103.png",
+              "alt": "B-36 Wreck",
+              "caption": null
+            },
+            {
+              "slide": 104,
+              "src": "/slides/104.png",
+              "alt": "B-36 Wreck",
+              "caption": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "cloudcroft-nm-aquatic-dwellings",
+      "region": "CLOUDCROFT, NM",
+      "name": "AQUATIC DWELLINGS",
+      "regionLines": [
+        "CLOUDCROFT, NM"
+      ],
+      "nameLines": [
+        "AQUATIC DWELLINGS"
+      ],
+      "slides": [
+        {
+          "slide": 105,
+          "src": "/slides/105.png",
+          "alt": "AQUATIC DWELLINGS",
+          "caption": null
+        }
+      ],
+      "trails": [
+        {
+          "slug": "aquatic-dwellings",
+          "name": "AQUATIC DWELLINGS",
+          "nameLines": [
+            "AQUATIC DWELLINGS"
+          ],
+          "kicker": "CLOUDCROFT",
+          "kickerLines": [
+            "CLOUDCROFT"
+          ],
+          "difficulty": [
+            "easy"
+          ],
+          "drive": "45min",
+          "vehicle": "All (Asphalt)",
+          "fee": "N/A",
+          "time": "3-4h",
+          "notes": [
+            "Ruin",
+            "Strenu"
+          ],
+          "callouts": [],
+          "slides": [
+            {
+              "slide": 106,
+              "src": "/slides/106.png",
+              "alt": "AQUATIC DWELLINGS",
+              "caption": null
+            },
+            {
+              "slide": 107,
+              "src": "/slides/107.png",
+              "alt": "AQUATIC DWELLINGS",
+              "caption": null
+            },
+            {
+              "slide": 108,
+              "src": "/slides/108.png",
+              "alt": "AQUATIC DWELLINGS",
+              "caption": null
+            },
+            {
+              "slide": 109,
+              "src": "/slides/109.png",
+              "alt": "AQUATIC DWELLINGS",
+              "caption": null
+            },
+            {
+              "slide": 110,
+              "src": "/slides/110.png",
+              "alt": "AQUATIC DWELLINGS",
+              "caption": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "cloudcroft-nm-osha-trail",
+      "region": "CLOUDCROFT, NM",
+      "name": "OSHA TRAIL",
+      "regionLines": [
+        "CLOUDCROFT, NM"
+      ],
+      "nameLines": [
+        "OSHA TRAIL"
+      ],
+      "slides": [
+        {
+          "slide": 111,
+          "src": "/slides/111.png",
+          "alt": "OSHA TRAIL",
+          "caption": null
+        }
+      ],
+      "trails": [
+        {
+          "slug": "osha-trail",
+          "name": "OSHA TRAIL",
+          "nameLines": [
+            "OSHA TRAIL"
+          ],
+          "kicker": "CLOUDCROFT",
+          "kickerLines": [
+            "CLOUDCROFT"
+          ],
+          "difficulty": [
+            "easy"
+          ],
+          "drive": "45min",
+          "vehicle": "All (Asphalt)",
+          "fee": "N/A",
+          "time": "3-4h",
+          "notes": [
+            "Ruin",
+            "Strenu"
+          ],
+          "callouts": [],
+          "slides": [
+            {
+              "slide": 112,
+              "src": "/slides/112.png",
+              "alt": "OSHA TRAIL",
+              "caption": null
+            },
+            {
+              "slide": 113,
+              "src": "/slides/113.png",
+              "alt": "OSHA TRAIL",
+              "caption": null
+            },
+            {
+              "slide": 114,
+              "src": "/slides/114.png",
+              "alt": "OSHA TRAIL",
+              "caption": null
+            }
+          ]
+        },
+        {
+          "slug": "boundary-trail",
+          "name": "BOUNDARY TRAIL",
+          "nameLines": [
+            "BOUNDARY TRAIL"
+          ],
+          "kicker": "CLOUDCROFT",
+          "kickerLines": [
+            "CLOUDCROFT"
+          ],
+          "difficulty": [
+            "easy"
+          ],
+          "drive": "45min",
+          "vehicle": "All (Asphalt)",
+          "fee": "N/A",
+          "time": "3-4h",
+          "notes": [
+            "Ruin",
+            "Strenu"
+          ],
+          "callouts": [],
+          "slides": [
+            {
+              "slide": 115,
+              "src": "/slides/115.png",
+              "alt": "BOUNDARY TRAIL",
+              "caption": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "alamogordo",
+      "region": "ALAMOGORDO",
+      "name": "",
+      "regionLines": [
+        "ALAMOGORDO"
+      ],
+      "nameLines": [],
+      "slides": [],
+      "trails": [
+        {
+          "slug": "horse-ridge",
+          "name": "HORSE RIDGE",
+          "nameLines": [
+            "HORSE RIDGE"
+          ],
+          "kicker": "ALAMOGORDO",
+          "kickerLines": [
+            "ALAMOGORDO"
+          ],
+          "difficulty": [],
+          "drive": null,
+          "vehicle": null,
+          "fee": null,
+          "time": null,
+          "notes": [],
+          "callouts": [
+            "TUNNEL",
+            "Dry Canyon Trailhead",
+            "Hwy 81",
+            "2.26mi",
+            ".65mi"
+          ],
+          "slides": [
+            {
+              "slide": 117,
+              "src": "/slides/117.png",
+              "alt": "HORSE RIDGE",
+              "caption": null
+            }
+          ]
+        },
+        {
+          "slug": "ortega-peak",
+          "name": "ORTEGA PEAK",
+          "nameLines": [
+            "ORTEGA PEAK"
+          ],
+          "kicker": "ALAMOGORDO",
+          "kickerLines": [
+            "ALAMOGORDO"
+          ],
+          "difficulty": [],
+          "drive": null,
+          "vehicle": null,
+          "fee": null,
+          "time": null,
+          "notes": [],
+          "callouts": [
+            "2.3mi",
+            "2.9mi"
+          ],
+          "slides": [
+            {
+              "slide": 118,
+              "src": "/slides/118.png",
+              "alt": "ORTEGA PEAK",
+              "caption": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "whaling": {
+    "region": "FRANKLIN MOUNTAINS",
+    "regionLines": [
+      "FRANKLIN MOUNTAINS"
+    ],
+    "name": "WHALING LIST",
+    "nameLines": [
+      "WHALING LIST"
+    ],
+    "items": [
+      "Bar Mountain",
+      "Baylor Pass",
+      "Organ Peak",
+      "Soledad Southeast",
+      "Robledo Peak",
+      "Lookout Peak",
+      "San Augustin",
+      "El Paso Silver Mine",
+      "Organ Onion"
+    ],
+    "slides": [
+      {
+        "slide": 116,
+        "src": "/slides/116.png",
+        "alt": "Whaling list",
+        "caption": null
+      }
+    ]
+  }
+}
