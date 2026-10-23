@@ -90,26 +90,16 @@ export default async function TrailPage({
       ) : null}
 
       {trail.callouts.length > 0 ? (
-        <section className="mt-10 max-w-3xl">
-          <h2 className="text-[11px] tracking-[0.16em] text-white/55 uppercase">
-            Printed on the slide
-          </h2>
-          <ul className="mt-3 list-disc space-y-1 pl-5 text-lg">
-            {trail.callouts.map((line) => (
-              <li key={line}>{line}</li>
-            ))}
-          </ul>
-        </section>
+        <ul className="mt-10 max-w-3xl list-disc space-y-1 pl-5 text-lg">
+          {trail.callouts.map((line) => (
+            <li key={line}>{line}</li>
+          ))}
+        </ul>
       ) : null}
 
-      <section className="mt-12">
-        <h2 className="text-[11px] tracking-[0.16em] text-white/55 uppercase">
-          Slides
-        </h2>
-        <div className="mt-4">
-          <Gallery slides={trail.slides} />
-        </div>
-      </section>
+      <div className="mt-12">
+        <Gallery slides={trail.slides} />
+      </div>
     </main>
   );
 }

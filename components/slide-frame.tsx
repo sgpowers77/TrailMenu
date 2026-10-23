@@ -4,12 +4,10 @@ import { cn } from "cn";
 export function SlideFrame({
   src,
   alt,
-  slide,
   className,
 }: {
   src?: string;
   alt: string;
-  slide?: number;
   className?: string;
 }) {
   if (src) {
@@ -27,11 +25,10 @@ export function SlideFrame({
     );
   }
 
-  const number = String(slide ?? 0).padStart(3, "0");
   return (
     <div
       role="img"
-      aria-label={alt || `Slide ${number}. Photo later.`}
+      aria-label={alt || "Photo later."}
       className={cn(
         "relative aspect-video overflow-hidden bg-black text-white",
         className,
@@ -48,9 +45,6 @@ export function SlideFrame({
       />
       <div aria-hidden className="absolute inset-3 border border-white/25" />
       <div className="absolute inset-0 flex flex-col justify-between p-4">
-        <p className="text-[11px] tracking-[0.18em] text-white/55 uppercase">
-          Slide {number}
-        </p>
         <p className="text-sm tracking-[0.16em] text-white/45 uppercase">
           Photo later
         </p>

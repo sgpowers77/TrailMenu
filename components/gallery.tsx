@@ -54,14 +54,11 @@ export function Gallery({ slides }: { slides: SlideImage[] }) {
                   className="w-full"
                 />
               </button>
-              <figcaption className="mt-2 flex items-baseline justify-between gap-4 text-sm text-white/60">
-                <span className="whitespace-pre-line">
-                  {slide.caption ?? slide.alt}
-                </span>
-                <span className="shrink-0 tabular-nums">
-                  Slide {slide.slide}
-                </span>
-              </figcaption>
+              {slide.caption ? (
+                <figcaption className="mt-2 text-sm whitespace-pre-line text-white/60">
+                  {slide.caption}
+                </figcaption>
+              ) : null}
             </figure>
           </li>
         ))}
@@ -76,7 +73,7 @@ export function Gallery({ slides }: { slides: SlideImage[] }) {
           {current ? (
             <>
               <DialogTitle className="pr-10 text-base text-white">
-                {current.caption || current.alt} · Slide {current.slide}
+                {current.caption || current.alt}
               </DialogTitle>
               <SlideFrame
                 src={current.src}
@@ -91,7 +88,7 @@ export function Gallery({ slides }: { slides: SlideImage[] }) {
                     className="rounded-none"
                     onClick={() => step(-1)}
                   >
-                    Previous slide
+                    Previous
                   </Button>
                   <Button
                     type="button"
@@ -99,7 +96,7 @@ export function Gallery({ slides }: { slides: SlideImage[] }) {
                     className="rounded-none"
                     onClick={() => step(1)}
                   >
-                    Next slide
+                    Next
                   </Button>
                 </div>
               ) : null}
