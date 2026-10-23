@@ -58,17 +58,19 @@ export function AreaSection({
       </div>
       <ul className="mt-8">
         {area.trails.map((trail) => (
-          <li key={trail.slug} id={trail.slug} className="scroll-mt-24">
-            <Link
-              href={`/trails/${trail.slug}/`}
-              className="group grid gap-4 border-t border-white/15 py-5 sm:grid-cols-[220px_minmax(0,1fr)]"
-            >
+          <li
+            key={trail.slug}
+            id={trail.slug}
+            className="grid scroll-mt-24 gap-4 border-t border-white/15 py-5 sm:grid-cols-[220px_minmax(0,1fr)]"
+          >
               {trail.slides[0] ? (
-                <SlideFrame
-                  src={trail.slides[0].src}
-                  alt=""
-                  className="w-full border border-white/15"
-                />
+                <Link href={`/trails/${trail.slug}/`} className="block">
+                  <SlideFrame
+                    src={trail.slides[0].src}
+                    alt=""
+                    className="w-full border border-white/15"
+                  />
+                </Link>
               ) : (
                 <div className="aspect-video border border-white/15" />
               )}
@@ -86,8 +88,13 @@ export function AreaSection({
                     {trail.kicker}
                   </p>
                 ) : null}
-                <h3 className="mt-1 text-2xl font-semibold tracking-tight group-hover:underline">
-                  {trail.name}
+                <h3 className="mt-1 text-2xl font-semibold tracking-tight">
+                  <Link
+                    href={`/trails/${trail.slug}/`}
+                    className="underline decoration-white/40 underline-offset-4 hover:decoration-white"
+                  >
+                    {trail.name}
+                  </Link>
                 </h3>
                 <dl className="mt-3 grid gap-3 sm:grid-cols-2">
                   {fields.flatMap((field) => {
@@ -104,7 +111,6 @@ export function AreaSection({
                   })}
                 </dl>
               </div>
-            </Link>
           </li>
         ))}
       </ul>

@@ -4,10 +4,12 @@ import { notFound } from "next/navigation";
 import { Facts } from "@/components/facts";
 import { Gallery } from "@/components/gallery";
 import { MarkRow } from "@/components/marks";
+import { NoteText } from "@/components/notes";
 import {
   areaLabel,
   areas,
   difficultyName,
+  displayNotes,
   getTrail,
 } from "@/lib/catalog";
 
@@ -39,6 +41,7 @@ export default async function TrailPage({
   const match = getTrail(slug);
   if (!match) notFound();
   const { area, trail } = match;
+  const notes = displayNotes(trail);
 
   return (
     <main className="mx-auto max-w-6xl px-4 py-10">
@@ -76,14 +79,16 @@ export default async function TrailPage({
         <Facts trail={trail} />
       </div>
 
-      {trail.notes.length > 0 ? (
+      {notes.length > 0 ? (
         <section className="mt-10 max-w-3xl">
           <h2 className="text-[11px] tracking-[0.16em] text-white/55 uppercase">
             Notes
           </h2>
           <ul className="mt-3 list-disc space-y-1 pl-5 text-lg leading-relaxed">
-            {trail.notes.map((note, index) => (
-              <li key={`${note}-${index}`}>{note}</li>
+            {notes.map((note, index) => (
+              <li key={`${note}-${index}`}>
+                <NoteText text={note} current={trail.slug} />
+              </li>
             ))}
           </ul>
         </section>

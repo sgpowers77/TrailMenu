@@ -90,3 +90,47 @@ export function getTrail(slug: string) {
 export function trailCount() {
   return areas.reduce((sum, area) => sum + area.trails.length, 0);
 }
+
+const durationNote =
+  /^(short|long|medium|medium-long)(\s*[-–(].*)?$|^\d+(\.\d+)?\s*(-\s*\d+(\.\d+)?)?\s*-?\s*(h|hr|hrs|hours)\b.*$|^\d+\s*-\s*\d+\s*hours?$/i;
+
+function accessDetail(note: string) {
+  if (/multi\s*-?\s*use/i.test(note)) return null;
+  const match = note.match(
+    /^(?:paved(?:\s+access)?|fully paved(?:\s+path)?)\s*(?:[-–:]\s*)?(.*)$/i,
+  );
+  if (!match) return null;
+  const rest = match[1].trim();
+  if (!rest) return "";
+  const paren = rest.match(/^\(([^)]*)\)$/);
+  return paren ? paren[1] : null;
+}
+
+function vehicleAlreadyStates(vehicle: string, detail: string) {
+  const stated = vehicle.toLowerCase();
+  if (!detail) return /\b(paved|asphalt)\b/.test(stated);
+  const tokens = ["asphalt", "paved", "gravel", "dirt"].filter((token) =>
+    detail.toLowerCase().includes(token),
+  );
+  if (tokens.length === 0) return false;
+  return tokens.every((token) =>
+    token === "paved" || token === "asphalt"
+      ? /\b(paved|asphalt)\b/.test(stated)
+      : stated.includes(token),
+  );
+}
+
+export function displayNotes(trail: Trail) {
+  return trail.notes.filter((note) => {
+    const line = note.trim();
+    if (trail.fee && /^(free|fee area)$/i.test(line)) return false;
+    if (trail.time && durationNote.test(line)) return false;
+    if (trail.vehicle) {
+      const detail = accessDetail(line);
+      if (detail !== null && vehicleAlreadyStates(trail.vehicle, detail)) {
+        return false;
+      }
+    }
+    return true;
+  });
+}
