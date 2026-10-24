@@ -46,6 +46,10 @@ const trailheads: Record<string, Trailhead> = {
     name: "Mine House Rabbit Ears Trailhead",
     query: "32.3647661,-106.6145198",
   },
+  "southern-comfort-wall": {
+    name: "Mine House Rabbit Ears Trailhead",
+    query: "32.3647661,-106.6145198",
+  },
   "achenbach-canyon": {
     name: "Achenbach Canyon",
     query: "32.2877522,-106.6019126",
