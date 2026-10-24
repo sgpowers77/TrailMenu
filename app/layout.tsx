@@ -22,7 +22,7 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html lang="en" className={`${archivo.variable} dark h-full antialiased`}>
-      <body className={`${archivo.className} flex min-h-full flex-col bg-black text-white`}>
+      <body className={`${archivo.className} flex min-h-full flex-col bg-background text-white`}>
         <a
           href="#content"
           className="sr-only focus:not-sr-only focus:absolute focus:top-2 focus:left-2 focus:z-50 focus:bg-white focus:px-3 focus:py-2 focus:text-black"

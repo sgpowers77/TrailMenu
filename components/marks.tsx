@@ -1,7 +1,7 @@
 import { difficultyName, type Difficulty } from "@/lib/catalog";
 
 const stroke = {
-  fill: "#000000",
+  fill: "#1c1c1c",
   stroke: "#ffffff",
   strokeWidth: 3,
 } as const;

@@ -18,7 +18,7 @@ export function SlideFrame({
         width={596}
         height={335}
         className={cn(
-          "aspect-video h-auto w-full bg-black object-contain",
+          "aspect-video h-auto w-full bg-background object-contain",
           className,
         )}
       />
@@ -30,7 +30,7 @@ export function SlideFrame({
       role="img"
       aria-label={alt || "Photo later."}
       className={cn(
-        "relative aspect-video overflow-hidden bg-black text-white",
+        "relative aspect-video overflow-hidden bg-background text-white",
         className,
       )}
     >

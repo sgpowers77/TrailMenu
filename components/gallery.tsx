@@ -69,7 +69,7 @@ export function Gallery({ slides }: { slides: SlideImage[] }) {
           if (!open) setIndex(null);
         }}
       >
-        <DialogContent className="max-h-[92vh] overflow-auto bg-black p-3 text-white ring-white/20 sm:max-w-5xl">
+        <DialogContent className="max-h-[92vh] overflow-auto bg-background p-3 text-white ring-white/20 sm:max-w-5xl">
           {current ? (
             <>
               <DialogTitle className="pr-10 text-base text-white">

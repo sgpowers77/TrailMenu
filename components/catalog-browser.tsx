@@ -73,7 +73,7 @@ export function CatalogBrowser() {
             value={query}
             onChange={(event) => setQuery(event.target.value)}
             placeholder="Trail, area, vehicle, note"
-            className="mt-2 h-11 rounded-none border-white/20 bg-black text-base text-white placeholder:text-white/35"
+            className="mt-2 h-11 rounded-none border-white/20 bg-background text-base text-white placeholder:text-white/35"
           />
         </label>
         <div className="flex flex-wrap gap-2">

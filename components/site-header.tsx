@@ -4,7 +4,7 @@ import { difficultyOrder } from "@/lib/catalog";
 
 export function SiteHeader() {
   return (
-    <header className="sticky top-0 z-30 border-b border-white/15 bg-black/90 backdrop-blur">
+    <header className="sticky top-0 z-30 border-b border-white/15 bg-background/90 backdrop-blur">
       <div className="mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-x-6 gap-y-2 px-4 py-3">
         <Link href="/" className="flex items-center gap-3">
           <MarkRow ids={difficultyOrder} size={14} />
