@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { SlideFrame } from "@/components/slide-frame";
 import { WhaleIcon } from "@/components/whale-icon";
 import { whaling } from "@/lib/catalog";
 
@@ -9,7 +8,6 @@ export const metadata: Metadata = {
 };
 
 export default function WhalingPage() {
-  const slide = whaling.slides[0];
   return (
     <main className="mx-auto max-w-6xl px-4 py-10">
       <Link href="/" className="text-sm text-white/60 underline underline-offset-4">
@@ -26,13 +24,6 @@ export default function WhalingPage() {
           </li>
         ))}
       </ul>
-      <figure className="mt-12">
-        <SlideFrame
-          src={slide.src}
-          alt={slide.caption ?? slide.alt}
-          className="w-full border border-white/15"
-        />
-      </figure>
     </main>
   );
 }
