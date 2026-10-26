@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { SlideFrame } from "@/components/slide-frame";
+import { WhaleIcon } from "@/components/whale-icon";
 import { whaling } from "@/lib/catalog";
 
 export const metadata: Metadata = {
@@ -14,7 +15,8 @@ export default function WhalingPage() {
       <Link href="/" className="text-sm text-white/60 underline underline-offset-4">
         Trail Menu
       </Link>
-      <h1 className="mt-8 text-5xl leading-[0.95] font-semibold tracking-tight sm:text-7xl">
+      <h1 className="mt-8 flex items-center gap-4 text-5xl leading-[0.95] font-semibold tracking-tight sm:gap-5 sm:text-7xl">
+        <WhaleIcon className="size-12 shrink-0 sm:size-16" />
         {whaling.name}
       </h1>
       <ul className="mt-10 max-w-xl space-y-3 text-2xl sm:text-3xl">

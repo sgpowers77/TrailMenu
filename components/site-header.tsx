@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { MarkRow } from "@/components/marks";
+import { WhaleIcon } from "@/components/whale-icon";
 import { difficultyOrder } from "@/lib/catalog";
 
 export function SiteHeader() {
@@ -19,7 +20,8 @@ export function SiteHeader() {
           <Link href="/info/" className="hover:underline">
             Info
           </Link>
-          <Link href="/whaling/" className="hover:underline">
+          <Link href="/whaling/" className="inline-flex items-center gap-1.5 hover:underline">
+            <WhaleIcon className="size-4" />
             Whaling list
           </Link>
         </nav>
