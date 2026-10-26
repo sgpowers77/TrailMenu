@@ -1,21 +1,28 @@
 "use client";
 
 import { useMemo, useState } from "react";
+import { AreaPager } from "@/components/area-pager";
 import { AreaSection } from "@/components/area-section";
+import { DetailFilters } from "@/components/detail-filters";
 import { Mark } from "@/components/marks";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import {
-  areaLabel,
   areas,
   difficultyName,
   difficultyOrder,
   type Difficulty,
 } from "@/lib/catalog";
+import {
+  emptyDetails,
+  trailMatchesDetails,
+  type DetailSelection,
+} from "@/lib/trail-stats";
 
 export function CatalogBrowser() {
   const [query, setQuery] = useState("");
   const [marks, setMarks] = useState<Difficulty[]>([]);
+  const [details, setDetails] = useState<DetailSelection>(emptyDetails);
 
   const filtered = useMemo(() => {
     const needle = query.trim().toLowerCase();
@@ -28,6 +35,7 @@ export function CatalogBrowser() {
           ) {
             return false;
           }
+          if (!trailMatchesDetails(trail, details)) return false;
           if (!needle) return true;
           const haystack = [
             area.region,
@@ -50,7 +58,7 @@ export function CatalogBrowser() {
         return { ...area, trails };
       })
       .filter((area) => area.trails.length > 0);
-  }, [marks, query]);
+  }, [details, marks, query]);
 
   const count = filtered.reduce((sum, area) => sum + area.trails.length, 0);
 
@@ -76,7 +84,7 @@ export function CatalogBrowser() {
             className="mt-2 h-11 rounded-none border-white/20 bg-background text-base text-white placeholder:text-white/35"
           />
         </label>
-        <div className="flex flex-wrap gap-2">
+        <div className="flex flex-wrap items-center gap-2">
           <Button
             type="button"
             variant={marks.length === 0 ? "default" : "outline"}
@@ -101,6 +109,7 @@ export function CatalogBrowser() {
               </Button>
             );
           })}
+          <DetailFilters value={details} onChange={setDetails} />
         </div>
         <p className="text-sm text-white/55">
           {count} {count === 1 ? "trail" : "trails"}
@@ -108,17 +117,7 @@ export function CatalogBrowser() {
       </div>
 
       {filtered.length > 0 ? (
-        <nav className="mt-6 flex gap-2 overflow-x-auto pb-2" aria-label="Areas">
-          {filtered.map((area) => (
-            <a
-              key={area.slug}
-              href={`#${area.slug}`}
-              className="shrink-0 border border-white/15 px-3 py-2 text-xs tracking-wide hover:bg-white hover:text-black"
-            >
-              {areaLabel(area)}
-            </a>
-          ))}
-        </nav>
+        <AreaPager areas={filtered} />
       ) : (
         <p className="mt-8 text-lg">No trails in the deck match.</p>
       )}
