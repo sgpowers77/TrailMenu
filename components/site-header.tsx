@@ -1,3 +1,4 @@
+import { Backpack } from "lucide-react";
 import Link from "next/link";
 import { MarkRow } from "@/components/marks";
 import { WhaleIcon } from "@/components/whale-icon";
@@ -23,6 +24,10 @@ export function SiteHeader() {
           <Link href="/whaling/" className="inline-flex items-center gap-1.5 hover:underline">
             <WhaleIcon className="size-4" />
             Whaling list
+          </Link>
+          <Link href="/gear/" className="inline-flex items-center gap-1.5 hover:underline">
+            <Backpack className="size-4" aria-hidden />
+            Gear
           </Link>
         </nav>
       </div>

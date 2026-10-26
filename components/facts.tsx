@@ -2,12 +2,17 @@ import {
   Car,
   CircleDollarSign,
   Clock,
+  Droplets,
   ExternalLink,
   MapPin,
   Truck,
 } from "lucide-react";
 import { fields, type Field, type Trail } from "@/lib/catalog";
 import { trailheadFor, trailheadHref } from "@/lib/trailheads";
+import { waterRecommendation } from "@/lib/trail-stats";
+
+const cellClass =
+  "flex gap-3 border-b border-white/15 p-4 last:border-b-0 sm:border-r-0 sm:odd:border-r sm:last:border-r-0 sm:[&:nth-last-child(2):nth-child(odd)]:border-b-0";
 
 const fieldIcons: Record<Field["id"], typeof Car> = {
   drive: Car,
@@ -22,7 +27,8 @@ export function Facts({ trail }: { trail: Trail }) {
     return value ? [{ ...field, value }] : [];
   });
   const trailhead = trailheadFor(trail.slug);
-  if (rows.length === 0 && !trailhead) return null;
+  const water = waterRecommendation(trail.time);
+  if (rows.length === 0 && !trailhead && !water) return null;
 
   return (
     <dl className="grid border border-white/15 sm:grid-cols-2">
@@ -31,7 +37,7 @@ export function Facts({ trail }: { trail: Trail }) {
         return (
           <div
             key={row.id}
-            className="flex gap-3 border-b border-white/15 p-4 last:border-b-0 sm:border-r-0 sm:odd:border-r sm:last:border-r-0 sm:[&:nth-last-child(2):nth-child(odd)]:border-b-0"
+            className={cellClass}
           >
             <Icon className="mt-0.5 size-5 shrink-0 text-white/70" aria-hidden />
             <div>
@@ -43,8 +49,19 @@ export function Facts({ trail }: { trail: Trail }) {
           </div>
         );
       })}
+      {water ? (
+        <div className={cellClass}>
+          <Droplets className="mt-0.5 size-5 shrink-0 text-white/70" aria-hidden />
+          <div>
+            <dt className="text-[11px] tracking-[0.16em] text-white/55 uppercase">
+              Water
+            </dt>
+            <dd className="mt-1 text-lg leading-snug">{water}</dd>
+          </div>
+        </div>
+      ) : null}
       {trailhead ? (
-        <div className="flex gap-3 border-b border-white/15 p-4 last:border-b-0 sm:border-r-0 sm:odd:border-r sm:last:border-r-0 sm:[&:nth-last-child(2):nth-child(odd)]:border-b-0">
+        <div className={cellClass}>
           <MapPin className="mt-0.5 size-5 shrink-0 text-white/70" aria-hidden />
           <div>
             <dt className="text-[11px] tracking-[0.16em] text-white/55 uppercase">
