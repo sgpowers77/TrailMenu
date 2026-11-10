@@ -24,6 +24,8 @@ export function AreaSection({
           <SlideFrame
             src={hero.src}
             alt={hero.caption ?? hero.alt}
+            width={hero.width}
+            height={hero.height}
             className="w-full border border-white/15"
           />
         ) : (
@@ -68,6 +70,8 @@ export function AreaSection({
                   <SlideFrame
                     src={trail.slides[0].src}
                     alt=""
+                    width={trail.slides[0].width}
+                    height={trail.slides[0].height}
                     className="w-full border border-white/15"
                   />
                 </Link>

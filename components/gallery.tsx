@@ -51,6 +51,8 @@ export function Gallery({ slides }: { slides: SlideImage[] }) {
                 <SlideFrame
                   src={slide.src}
                   alt={slide.caption ?? slide.alt}
+                  width={slide.width}
+                  height={slide.height}
                   className="w-full"
                 />
               </button>
@@ -78,6 +80,8 @@ export function Gallery({ slides }: { slides: SlideImage[] }) {
               <SlideFrame
                 src={current.src}
                 alt={current.caption ?? current.alt}
+                width={current.width}
+                height={current.height}
                 className="w-full"
               />
               {slides.length > 1 ? (

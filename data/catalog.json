@@ -77,9 +77,11 @@
       "slides": [
         {
           "slide": 3,
-          "src": "/slides/003.webp",
-          "alt": "“A MOUNTAIN”",
-          "caption": null
+          "src": "/photos/a-mountain/hardsideHill.webp",
+          "alt": "TORTUGAS MTN. “A MOUNTAIN”",
+          "caption": null,
+          "width": 3840,
+          "height": 2880
         }
       ],
       "trails": [
@@ -113,39 +115,283 @@
           "slides": [
             {
               "slide": 4,
-              "src": "/slides/004.webp",
-              "alt": "“A” MOUNTAIN",
-              "caption": null
+              "src": "/photos/a-mountain/hardsideHill.webp",
+              "alt": "“A” MOUNTAIN — Hardside Hill",
+              "caption": "Hardside Hill",
+              "width": 3840,
+              "height": 2880
             },
             {
               "slide": 5,
-              "src": "/slides/005.webp",
+              "src": "/photos/a-mountain/20250512_163715.webp",
               "alt": "“A” MOUNTAIN",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 2880
             },
             {
               "slide": 6,
-              "src": "/slides/006.webp",
+              "src": "/photos/a-mountain/20250512_163726.webp",
               "alt": "“A” MOUNTAIN",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 2880
             },
             {
               "slide": 7,
-              "src": "/slides/007.webp",
+              "src": "/photos/a-mountain/20250512_172008.webp",
               "alt": "“A” MOUNTAIN",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 2880
             },
             {
               "slide": 8,
-              "src": "/slides/008.webp",
+              "src": "/photos/a-mountain/20250915_180142.webp",
               "alt": "“A” MOUNTAIN",
-              "caption": null
+              "caption": null,
+              "width": 2880,
+              "height": 3840
             },
             {
               "slide": 9,
-              "src": "/slides/009.webp",
+              "src": "/photos/a-mountain/20250929_180014.webp",
               "alt": "“A” MOUNTAIN",
-              "caption": null
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 10,
+              "src": "/photos/a-mountain/20251020_182930.webp",
+              "alt": "“A” MOUNTAIN",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 11,
+              "src": "/photos/a-mountain/20251027_173410.webp",
+              "alt": "“A” MOUNTAIN",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 12,
+              "src": "/photos/a-mountain/20260404_102157.webp",
+              "alt": "“A” MOUNTAIN",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 13,
+              "src": "/photos/a-mountain/20260514_125304.webp",
+              "alt": "“A” MOUNTAIN",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 14,
+              "src": "/photos/a-mountain/20260619_084756.webp",
+              "alt": "“A” MOUNTAIN",
+              "caption": null,
+              "width": 1774,
+              "height": 3840
+            },
+            {
+              "slide": 15,
+              "src": "/photos/a-mountain/20260630_162628.webp",
+              "alt": "“A” MOUNTAIN",
+              "caption": null,
+              "width": 3840,
+              "height": 1774
+            },
+            {
+              "slide": 16,
+              "src": "/photos/a-mountain/A.webp",
+              "alt": "“A” MOUNTAIN — A",
+              "caption": "A",
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 17,
+              "src": "/photos/a-mountain/doozyHolewest.webp",
+              "alt": "“A” MOUNTAIN — Doozy Holewest",
+              "caption": "Doozy Holewest",
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 18,
+              "src": "/photos/a-mountain/eastWash.webp",
+              "alt": "“A” MOUNTAIN — East Wash",
+              "caption": "East Wash",
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 19,
+              "src": "/photos/a-mountain/geode.webp",
+              "alt": "“A” MOUNTAIN — Geode",
+              "caption": "Geode",
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 20,
+              "src": "/photos/a-mountain/geology.webp",
+              "alt": "“A” MOUNTAIN — Geology",
+              "caption": "Geology",
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 21,
+              "src": "/photos/a-mountain/hardsideTexture.webp",
+              "alt": "“A” MOUNTAIN — Hardside Texture",
+              "caption": "Hardside Texture",
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 22,
+              "src": "/photos/a-mountain/hardsideWest.webp",
+              "alt": "“A” MOUNTAIN — Hardside West",
+              "caption": "Hardside West",
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 23,
+              "src": "/photos/a-mountain/IMG_5136.webp",
+              "alt": "“A” MOUNTAIN",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 24,
+              "src": "/photos/a-mountain/IMG_5618.webp",
+              "alt": "“A” MOUNTAIN",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 25,
+              "src": "/photos/a-mountain/IMG_5888.webp",
+              "alt": "“A” MOUNTAIN",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 26,
+              "src": "/photos/a-mountain/IMG_6451.webp",
+              "alt": "“A” MOUNTAIN",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 27,
+              "src": "/photos/a-mountain/IMG_6931.webp",
+              "alt": "“A” MOUNTAIN",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 28,
+              "src": "/photos/a-mountain/IMG_8845.webp",
+              "alt": "“A” MOUNTAIN",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 29,
+              "src": "/photos/a-mountain/IMG_8847.webp",
+              "alt": "“A” MOUNTAIN",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 30,
+              "src": "/photos/a-mountain/IMG_9138.webp",
+              "alt": "“A” MOUNTAIN",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 31,
+              "src": "/photos/a-mountain/IMG_9151.webp",
+              "alt": "“A” MOUNTAIN",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 32,
+              "src": "/photos/a-mountain/IMG_9200.webp",
+              "alt": "“A” MOUNTAIN",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 33,
+              "src": "/photos/a-mountain/IMG_9248.webp",
+              "alt": "“A” MOUNTAIN",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 34,
+              "src": "/photos/a-mountain/IMG_9259.webp",
+              "alt": "“A” MOUNTAIN",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 35,
+              "src": "/photos/a-mountain/observatory.webp",
+              "alt": "“A” MOUNTAIN — Observatory",
+              "caption": "Observatory",
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 36,
+              "src": "/photos/a-mountain/quartz.webp",
+              "alt": "“A” MOUNTAIN — Quartz",
+              "caption": "Quartz",
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 37,
+              "src": "/photos/a-mountain/quartz2.webp",
+              "alt": "“A” MOUNTAIN — Quartz 2",
+              "caption": "Quartz 2",
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 38,
+              "src": "/photos/a-mountain/shrineMini.webp",
+              "alt": "“A” MOUNTAIN — Shrine Mini",
+              "caption": "Shrine Mini",
+              "width": 3840,
+              "height": 2560
             }
           ]
         }
@@ -164,10 +410,12 @@
       ],
       "slides": [
         {
-          "slide": 10,
-          "src": "/slides/010.webp",
-          "alt": "DESERT PEAKS NAT’L MONUMENT",
-          "caption": null
+          "slide": 39,
+          "src": "/photos/dripping-springs/IMG_9209.webp",
+          "alt": "ORGAN MOUNTAINS WEST DESERT PEAKS NAT’L MONUMENT",
+          "caption": null,
+          "width": 3840,
+          "height": 2560
         }
       ],
       "trails": [
@@ -195,22 +443,116 @@
           "callouts": [],
           "slides": [
             {
-              "slide": 11,
-              "src": "/slides/011.webp",
+              "slide": 40,
+              "src": "/photos/dripping-springs/IMG_9209.webp",
               "alt": "DRIPPING SPRINGS",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 2560
             },
             {
-              "slide": 12,
-              "src": "/slides/012.webp",
-              "alt": "ORGAN MOUNTAINS WEST - DRIPPING SPRINGS",
-              "caption": "ORGAN MOUNTAINS WEST - DRIPPING SPRINGS"
+              "slide": 41,
+              "src": "/photos/dripping-springs/20250120_104705.webp",
+              "alt": "DRIPPING SPRINGS",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
             },
             {
-              "slide": 13,
-              "src": "/slides/013.webp",
+              "slide": 42,
+              "src": "/photos/dripping-springs/20250120_110141.webp",
               "alt": "DRIPPING SPRINGS",
-              "caption": null
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 43,
+              "src": "/photos/dripping-springs/20250120_110155.webp",
+              "alt": "DRIPPING SPRINGS",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 44,
+              "src": "/photos/dripping-springs/20250120_110250.webp",
+              "alt": "DRIPPING SPRINGS",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 45,
+              "src": "/photos/dripping-springs/20260814_091054.webp",
+              "alt": "DRIPPING SPRINGS",
+              "caption": null,
+              "width": 1774,
+              "height": 3840
+            },
+            {
+              "slide": 46,
+              "src": "/photos/dripping-springs/IMG_9088.webp",
+              "alt": "DRIPPING SPRINGS",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 47,
+              "src": "/photos/dripping-springs/IMG_9112.webp",
+              "alt": "DRIPPING SPRINGS",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 48,
+              "src": "/photos/dripping-springs/IMG_9124.webp",
+              "alt": "DRIPPING SPRINGS",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 49,
+              "src": "/photos/dripping-springs/IMG_9135.webp",
+              "alt": "DRIPPING SPRINGS",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 50,
+              "src": "/photos/dripping-springs/IMG_9160.webp",
+              "alt": "DRIPPING SPRINGS",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 51,
+              "src": "/photos/dripping-springs/IMG_9164.webp",
+              "alt": "DRIPPING SPRINGS",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 52,
+              "src": "/photos/dripping-springs/IMG_9181.webp",
+              "alt": "DRIPPING SPRINGS",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 53,
+              "src": "/photos/dripping-springs/IMG_9193.webp",
+              "alt": "DRIPPING SPRINGS",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
             }
           ]
         },
@@ -242,22 +584,20 @@
           "callouts": [],
           "slides": [
             {
-              "slide": 14,
-              "src": "/slides/014.webp",
+              "slide": 54,
+              "src": "/photos/hermit-cave/IMG_8987.webp",
               "alt": "“HERMIT CAVE”",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 2560
             },
             {
-              "slide": 15,
-              "src": "/slides/015.webp",
-              "alt": "DESERT PEAKS NATL MONUMENT - LA CUEVA “HERMIT CAVE”",
-              "caption": "DESERT PEAKS NATL MONUMENT - LA CUEVA “HERMIT CAVE”"
-            },
-            {
-              "slide": 16,
-              "src": "/slides/016.webp",
-              "alt": "DESERT PEAKS NATL MONUMENT - LA CUEVA “HERMIT CAVE”",
-              "caption": "DESERT PEAKS NATL MONUMENT - LA CUEVA “HERMIT CAVE”"
+              "slide": 55,
+              "src": "/photos/hermit-cave/IMG_9008.webp",
+              "alt": "“HERMIT CAVE”",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
             }
           ]
         },
@@ -288,22 +628,172 @@
           "callouts": [],
           "slides": [
             {
-              "slide": 17,
-              "src": "/slides/017.webp",
+              "slide": 56,
+              "src": "/photos/fillmore-canyon/20260214_110835.webp",
               "alt": "FILLMORE CANYON",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 2880
             },
             {
-              "slide": 18,
-              "src": "/slides/018.webp",
+              "slide": 57,
+              "src": "/photos/fillmore-canyon/20250927_093840.webp",
               "alt": "FILLMORE CANYON",
-              "caption": null
+              "caption": null,
+              "width": 2880,
+              "height": 3840
             },
             {
-              "slide": 19,
-              "src": "/slides/019.webp",
-              "alt": "ORGAN MOUNTAINS WEST - FILLMORE CANYON",
-              "caption": "ORGAN MOUNTAINS WEST - FILLMORE CANYON"
+              "slide": 58,
+              "src": "/photos/fillmore-canyon/20250927_093925.webp",
+              "alt": "FILLMORE CANYON",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 59,
+              "src": "/photos/fillmore-canyon/20250927_094337.webp",
+              "alt": "FILLMORE CANYON",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 60,
+              "src": "/photos/fillmore-canyon/20250927_094437.webp",
+              "alt": "FILLMORE CANYON",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 61,
+              "src": "/photos/fillmore-canyon/20250927_094624.webp",
+              "alt": "FILLMORE CANYON",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 62,
+              "src": "/photos/fillmore-canyon/20250927_100156.webp",
+              "alt": "FILLMORE CANYON",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 63,
+              "src": "/photos/fillmore-canyon/20250927_101101.webp",
+              "alt": "FILLMORE CANYON",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 64,
+              "src": "/photos/fillmore-canyon/20250927_101104.webp",
+              "alt": "FILLMORE CANYON",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 65,
+              "src": "/photos/fillmore-canyon/20250927_102503.webp",
+              "alt": "FILLMORE CANYON",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 66,
+              "src": "/photos/fillmore-canyon/20250927_112647.webp",
+              "alt": "FILLMORE CANYON",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 67,
+              "src": "/photos/fillmore-canyon/20250927_113232.webp",
+              "alt": "FILLMORE CANYON",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 68,
+              "src": "/photos/fillmore-canyon/20250927_113903.webp",
+              "alt": "FILLMORE CANYON",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 69,
+              "src": "/photos/fillmore-canyon/20260214_091458.webp",
+              "alt": "FILLMORE CANYON",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 70,
+              "src": "/photos/fillmore-canyon/20260214_094611.webp",
+              "alt": "FILLMORE CANYON",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 71,
+              "src": "/photos/fillmore-canyon/20260214_094810.webp",
+              "alt": "FILLMORE CANYON",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 72,
+              "src": "/photos/fillmore-canyon/20260214_103102.webp",
+              "alt": "FILLMORE CANYON",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 73,
+              "src": "/photos/fillmore-canyon/20260214_110831.webp",
+              "alt": "FILLMORE CANYON",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 74,
+              "src": "/photos/fillmore-canyon/20260328_112922.webp",
+              "alt": "FILLMORE CANYON",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 75,
+              "src": "/photos/fillmore-canyon/IMG_6604.webp",
+              "alt": "FILLMORE CANYON",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 76,
+              "src": "/photos/fillmore-canyon/IMG_6659.webp",
+              "alt": "FILLMORE CANYON",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
             }
           ]
         },
@@ -335,7 +825,7 @@
           "callouts": [],
           "slides": [
             {
-              "slide": 20,
+              "slide": 77,
               "src": "/slides/020.webp",
               "alt": "Juniper Saddle",
               "caption": null
@@ -372,34 +862,260 @@
           "callouts": [],
           "slides": [
             {
-              "slide": 21,
-              "src": "/slides/021.webp",
+              "slide": 78,
+              "src": "/photos/organ-needle/20250509_134315.webp",
               "alt": "ORGAN NEEDLE",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 2880
             },
             {
-              "slide": 22,
-              "src": "/slides/022.webp",
-              "alt": "ORGAN MOUNTAINS WEST - ORGAN NEEDLE",
-              "caption": "ORGAN MOUNTAINS WEST - ORGAN NEEDLE"
+              "slide": 79,
+              "src": "/photos/organ-needle/20250509_081201.webp",
+              "alt": "ORGAN NEEDLE",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
             },
             {
-              "slide": 23,
-              "src": "/slides/023.webp",
-              "alt": "ORGAN MOUNTAINS WEST - ORGAN NEEDLE",
-              "caption": "ORGAN MOUNTAINS WEST - ORGAN NEEDLE"
+              "slide": 80,
+              "src": "/photos/organ-needle/20250509_093011.webp",
+              "alt": "ORGAN NEEDLE",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
             },
             {
-              "slide": 24,
-              "src": "/slides/024.webp",
-              "alt": "ORGAN MOUNTAINS WEST - ORGAN NEEDLE",
-              "caption": "ORGAN MOUNTAINS WEST - ORGAN NEEDLE"
+              "slide": 81,
+              "src": "/photos/organ-needle/20250509_104909.webp",
+              "alt": "ORGAN NEEDLE",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
             },
             {
-              "slide": 25,
-              "src": "/slides/025.webp",
-              "alt": "ORGAN MOUNTAINS WEST - ORGAN NEEDLE",
-              "caption": "ORGAN MOUNTAINS WEST - ORGAN NEEDLE"
+              "slide": 82,
+              "src": "/photos/organ-needle/20250509_105353.webp",
+              "alt": "ORGAN NEEDLE",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 83,
+              "src": "/photos/organ-needle/20250509_111906.webp",
+              "alt": "ORGAN NEEDLE",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 84,
+              "src": "/photos/organ-needle/20250509_113930.webp",
+              "alt": "ORGAN NEEDLE",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 85,
+              "src": "/photos/organ-needle/20250509_114010.webp",
+              "alt": "ORGAN NEEDLE",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 86,
+              "src": "/photos/organ-needle/20250509_115319.webp",
+              "alt": "ORGAN NEEDLE",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 87,
+              "src": "/photos/organ-needle/20250509_115320.webp",
+              "alt": "ORGAN NEEDLE",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 88,
+              "src": "/photos/organ-needle/20250509_115446.webp",
+              "alt": "ORGAN NEEDLE",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 89,
+              "src": "/photos/organ-needle/20250509_115736.webp",
+              "alt": "ORGAN NEEDLE",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 90,
+              "src": "/photos/organ-needle/20250509_115747.webp",
+              "alt": "ORGAN NEEDLE",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 91,
+              "src": "/photos/organ-needle/20250509_115749.webp",
+              "alt": "ORGAN NEEDLE",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 92,
+              "src": "/photos/organ-needle/20250509_124516.webp",
+              "alt": "ORGAN NEEDLE",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 93,
+              "src": "/photos/organ-needle/20250509_130114.webp",
+              "alt": "ORGAN NEEDLE",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 94,
+              "src": "/photos/organ-needle/20250509_131935.webp",
+              "alt": "ORGAN NEEDLE",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 95,
+              "src": "/photos/organ-needle/20250509_132410.webp",
+              "alt": "ORGAN NEEDLE",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 96,
+              "src": "/photos/organ-needle/20250509_132948.webp",
+              "alt": "ORGAN NEEDLE",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 97,
+              "src": "/photos/organ-needle/20250509_133156.webp",
+              "alt": "ORGAN NEEDLE",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 98,
+              "src": "/photos/organ-needle/20250509_134511.webp",
+              "alt": "ORGAN NEEDLE",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 99,
+              "src": "/photos/organ-needle/20250509_135133.webp",
+              "alt": "ORGAN NEEDLE",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 100,
+              "src": "/photos/organ-needle/20250509_135135.webp",
+              "alt": "ORGAN NEEDLE",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 101,
+              "src": "/photos/organ-needle/20250509_140550.webp",
+              "alt": "ORGAN NEEDLE",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 102,
+              "src": "/photos/organ-needle/20250509_140809.webp",
+              "alt": "ORGAN NEEDLE",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 103,
+              "src": "/photos/organ-needle/20250509_150424.webp",
+              "alt": "ORGAN NEEDLE",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 104,
+              "src": "/photos/organ-needle/20260214_110159.webp",
+              "alt": "ORGAN NEEDLE",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 105,
+              "src": "/photos/organ-needle/IMG_6485.webp",
+              "alt": "ORGAN NEEDLE",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 106,
+              "src": "/photos/organ-needle/IMG_8266.webp",
+              "alt": "ORGAN NEEDLE",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 107,
+              "src": "/photos/organ-needle/IMG_8277.webp",
+              "alt": "ORGAN NEEDLE",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 108,
+              "src": "/photos/organ-needle/IMG_8828.webp",
+              "alt": "ORGAN NEEDLE",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 109,
+              "src": "/photos/organ-needle/needleEdit2.webp",
+              "alt": "ORGAN NEEDLE — Needle Edit 2",
+              "caption": "Needle Edit 2",
+              "width": 1640,
+              "height": 924
             }
           ]
         }
@@ -417,10 +1133,12 @@
       ],
       "slides": [
         {
-          "slide": 26,
-          "src": "/slides/026.webp",
-          "alt": "RUBY MINE",
-          "caption": null
+          "slide": 110,
+          "src": "/photos/ruby-mine/ruby-mine/IMG_6960.webp",
+          "alt": "ORGAN MOUNTAINS WEST RUBY MINE",
+          "caption": null,
+          "width": 3840,
+          "height": 2560
         }
       ],
       "trails": [
@@ -451,22 +1169,236 @@
           "callouts": [],
           "slides": [
             {
-              "slide": 27,
-              "src": "/slides/027.webp",
+              "slide": 111,
+              "src": "/photos/ruby-mine/ruby-mine/IMG_6960.webp",
               "alt": "RUBY MINE",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 2560
             },
             {
-              "slide": 28,
-              "src": "/slides/028.webp",
+              "slide": 112,
+              "src": "/photos/ruby-mine/IMG_8984.webp",
               "alt": "RUBY MINE",
-              "caption": null
+              "caption": null,
+              "width": 2560,
+              "height": 3840
             },
             {
-              "slide": 29,
-              "src": "/slides/029.webp",
+              "slide": 113,
+              "src": "/photos/ruby-mine/IMG_9000.webp",
               "alt": "RUBY MINE",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 114,
+              "src": "/photos/ruby-mine/IMG_9011.webp",
+              "alt": "RUBY MINE",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 115,
+              "src": "/photos/ruby-mine/IMG_9024.webp",
+              "alt": "RUBY MINE",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 116,
+              "src": "/photos/ruby-mine/IMG_9032.webp",
+              "alt": "RUBY MINE",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 117,
+              "src": "/photos/ruby-mine/IMG_9054.webp",
+              "alt": "RUBY MINE",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 118,
+              "src": "/photos/ruby-mine/IMG_9065.webp",
+              "alt": "RUBY MINE",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 119,
+              "src": "/photos/ruby-mine/IMG_9089.webp",
+              "alt": "RUBY MINE",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 120,
+              "src": "/photos/ruby-mine/IMG_9105.webp",
+              "alt": "RUBY MINE",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 121,
+              "src": "/photos/ruby-mine/Rabbit-Ears/IMG_9887.webp",
+              "alt": "RUBY MINE",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 122,
+              "src": "/photos/ruby-mine/ruby-mine/20251011_103904.webp",
+              "alt": "RUBY MINE",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 123,
+              "src": "/photos/ruby-mine/ruby-mine/20251011_110257.webp",
+              "alt": "RUBY MINE",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 124,
+              "src": "/photos/ruby-mine/ruby-mine/20251011_131151.webp",
+              "alt": "RUBY MINE",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 125,
+              "src": "/photos/ruby-mine/ruby-mine/20260502_094549.webp",
+              "alt": "RUBY MINE",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 126,
+              "src": "/photos/ruby-mine/ruby-mine/IMG_6855.webp",
+              "alt": "RUBY MINE",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 127,
+              "src": "/photos/ruby-mine/ruby-mine/IMG_6866.webp",
+              "alt": "RUBY MINE",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 128,
+              "src": "/photos/ruby-mine/ruby-mine/IMG_6870.webp",
+              "alt": "RUBY MINE",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 129,
+              "src": "/photos/ruby-mine/ruby-mine/IMG_6899.webp",
+              "alt": "RUBY MINE",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 130,
+              "src": "/photos/ruby-mine/ruby-mine/IMG_6916.webp",
+              "alt": "RUBY MINE",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 131,
+              "src": "/photos/ruby-mine/ruby-mine/IMG_6945.webp",
+              "alt": "RUBY MINE",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 132,
+              "src": "/photos/ruby-mine/ruby-mine/IMG_6950.webp",
+              "alt": "RUBY MINE",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 133,
+              "src": "/photos/ruby-mine/ruby-mine/IMG_6957.webp",
+              "alt": "RUBY MINE",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 134,
+              "src": "/photos/ruby-mine/ruby-mine/IMG_6969.webp",
+              "alt": "RUBY MINE",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 135,
+              "src": "/photos/ruby-mine/ruby-mine/IMG_6971.webp",
+              "alt": "RUBY MINE",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 136,
+              "src": "/photos/ruby-mine/southern-comfort/20251011_112935.webp",
+              "alt": "RUBY MINE",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 137,
+              "src": "/photos/ruby-mine/southern-comfort/20260502_100517.webp",
+              "alt": "RUBY MINE",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 138,
+              "src": "/photos/ruby-mine/southern-comfort/IMG_6918.webp",
+              "alt": "RUBY MINE",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 139,
+              "src": "/photos/ruby-mine/southern-comfort/IMG_6956.webp",
+              "alt": "RUBY MINE",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
             }
           ]
         },
@@ -497,22 +1429,20 @@
           "callouts": [],
           "slides": [
             {
-              "slide": 30,
-              "src": "/slides/030.webp",
+              "slide": 140,
+              "src": "/photos/southern-comfort-wall/IMG_9048.webp",
               "alt": "SOUTHERN COMFORT WALL",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 2560
             },
             {
-              "slide": 31,
-              "src": "/slides/031.webp",
+              "slide": 141,
+              "src": "/photos/southern-comfort-wall/IMG_9044.webp",
               "alt": "SOUTHERN COMFORT WALL",
-              "caption": null
-            },
-            {
-              "slide": 32,
-              "src": "/slides/032.webp",
-              "alt": "SOUTHERN COMFORT WALL",
-              "caption": null
+              "caption": null,
+              "width": 2560,
+              "height": 3840
             }
           ]
         }
@@ -530,10 +1460,12 @@
       ],
       "slides": [
         {
-          "slide": 33,
-          "src": "/slides/033.webp",
-          "alt": "BAR CANYON",
-          "caption": null
+          "slide": 142,
+          "src": "/photos/soledad/20260514_120224.webp",
+          "alt": "ORGAN MOUNTAINS WEST BAR CANYON",
+          "caption": null,
+          "width": 3840,
+          "height": 2880
         }
       ],
       "trails": [
@@ -563,22 +1495,132 @@
           "callouts": [],
           "slides": [
             {
-              "slide": 34,
-              "src": "/slides/034.webp",
+              "slide": 143,
+              "src": "/photos/soledad/20260514_120224.webp",
               "alt": "“SOLEDAD”",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 2880
             },
             {
-              "slide": 35,
-              "src": "/slides/035.webp",
+              "slide": 144,
+              "src": "/photos/soledad/20250621_090127.webp",
               "alt": "“SOLEDAD”",
-              "caption": null
+              "caption": null,
+              "width": 2880,
+              "height": 3840
             },
             {
-              "slide": 36,
-              "src": "/slides/036.webp",
+              "slide": 145,
+              "src": "/photos/soledad/20250621_091801.webp",
               "alt": "“SOLEDAD”",
-              "caption": null
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 146,
+              "src": "/photos/soledad/20250621_094253.webp",
+              "alt": "“SOLEDAD”",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 147,
+              "src": "/photos/soledad/20251004_104344.webp",
+              "alt": "“SOLEDAD”",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 148,
+              "src": "/photos/soledad/20251004_114829.webp",
+              "alt": "“SOLEDAD”",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 149,
+              "src": "/photos/soledad/20251004_130321.webp",
+              "alt": "“SOLEDAD”",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 150,
+              "src": "/photos/soledad/20260110_115617.webp",
+              "alt": "“SOLEDAD”",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 151,
+              "src": "/photos/soledad/20260110_120220.webp",
+              "alt": "“SOLEDAD”",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 152,
+              "src": "/photos/soledad/20260110_124040.webp",
+              "alt": "“SOLEDAD”",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 153,
+              "src": "/photos/soledad/20260514_110226.webp",
+              "alt": "“SOLEDAD”",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 154,
+              "src": "/photos/soledad/20260514_111338.webp",
+              "alt": "“SOLEDAD”",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 155,
+              "src": "/photos/soledad/20260514_113312.webp",
+              "alt": "“SOLEDAD”",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 156,
+              "src": "/photos/soledad/20260514_115416.webp",
+              "alt": "“SOLEDAD”",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 157,
+              "src": "/photos/soledad/20260514_115856.webp",
+              "alt": "“SOLEDAD”",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 158,
+              "src": "/photos/soledad/IMG_6663.webp",
+              "alt": "“SOLEDAD”",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
             }
           ]
         }
@@ -596,10 +1638,12 @@
       ],
       "slides": [
         {
-          "slide": 37,
-          "src": "/slides/037.webp",
-          "alt": "BAR MOUNTAIN",
-          "caption": null
+          "slide": 159,
+          "src": "/photos/bar-mountain/bar.webp",
+          "alt": "BAR CANYON BAR MOUNTAIN",
+          "caption": null,
+          "width": 3840,
+          "height": 2560
         }
       ],
       "trails": [
@@ -626,34 +1670,196 @@
           "callouts": [],
           "slides": [
             {
-              "slide": 38,
-              "src": "/slides/038.webp",
-              "alt": "BAR MOUNTAIN",
-              "caption": null
+              "slide": 160,
+              "src": "/photos/bar-mountain/bar.webp",
+              "alt": "BAR MOUNTAIN — Bar",
+              "caption": "Bar",
+              "width": 3840,
+              "height": 2560
             },
             {
-              "slide": 39,
-              "src": "/slides/039.webp",
+              "slide": 161,
+              "src": "/photos/bar-mountain/20250614_103951.webp",
               "alt": "BAR MOUNTAIN",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 2880
             },
             {
-              "slide": 40,
-              "src": "/slides/040.webp",
+              "slide": 162,
+              "src": "/photos/bar-mountain/20250614_104723.webp",
               "alt": "BAR MOUNTAIN",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 2880
             },
             {
-              "slide": 41,
-              "src": "/slides/041.webp",
+              "slide": 163,
+              "src": "/photos/bar-mountain/20250614_105854.webp",
               "alt": "BAR MOUNTAIN",
-              "caption": null
+              "caption": null,
+              "width": 2880,
+              "height": 3840
             },
             {
-              "slide": 42,
-              "src": "/slides/042.webp",
+              "slide": 164,
+              "src": "/photos/bar-mountain/20250621_085957.webp",
               "alt": "BAR MOUNTAIN",
-              "caption": null
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 165,
+              "src": "/photos/bar-mountain/20251004_113253.webp",
+              "alt": "BAR MOUNTAIN",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 166,
+              "src": "/photos/bar-mountain/20251004_115820.webp",
+              "alt": "BAR MOUNTAIN",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 167,
+              "src": "/photos/bar-mountain/20251004_115902.webp",
+              "alt": "BAR MOUNTAIN",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 168,
+              "src": "/photos/bar-mountain/20251004_120138.webp",
+              "alt": "BAR MOUNTAIN",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 169,
+              "src": "/photos/bar-mountain/20251004_120233.webp",
+              "alt": "BAR MOUNTAIN",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 170,
+              "src": "/photos/bar-mountain/20251004_120251.webp",
+              "alt": "BAR MOUNTAIN",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 171,
+              "src": "/photos/bar-mountain/20251004_121308.webp",
+              "alt": "BAR MOUNTAIN",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 172,
+              "src": "/photos/bar-mountain/20251004_122348.webp",
+              "alt": "BAR MOUNTAIN",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 173,
+              "src": "/photos/bar-mountain/20251004_123313.webp",
+              "alt": "BAR MOUNTAIN",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 174,
+              "src": "/photos/bar-mountain/20260706_072121.webp",
+              "alt": "BAR MOUNTAIN",
+              "caption": null,
+              "width": 3840,
+              "height": 1774
+            },
+            {
+              "slide": 175,
+              "src": "/photos/bar-mountain/20260706_082128.webp",
+              "alt": "BAR MOUNTAIN",
+              "caption": null,
+              "width": 3840,
+              "height": 1774
+            },
+            {
+              "slide": 176,
+              "src": "/photos/bar-mountain/20260706_085632.webp",
+              "alt": "BAR MOUNTAIN",
+              "caption": null,
+              "width": 1774,
+              "height": 3840
+            },
+            {
+              "slide": 177,
+              "src": "/photos/bar-mountain/20260706_085928.webp",
+              "alt": "BAR MOUNTAIN",
+              "caption": null,
+              "width": 1774,
+              "height": 3840
+            },
+            {
+              "slide": 178,
+              "src": "/photos/bar-mountain/IMG_0621.webp",
+              "alt": "BAR MOUNTAIN",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 179,
+              "src": "/photos/bar-mountain/IMG_4388.webp",
+              "alt": "BAR MOUNTAIN",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 180,
+              "src": "/photos/bar-mountain/IMG_4438.webp",
+              "alt": "BAR MOUNTAIN",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 181,
+              "src": "/photos/bar-mountain/IMG_6732.webp",
+              "alt": "BAR MOUNTAIN",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 182,
+              "src": "/photos/bar-mountain/IMG_6751.webp",
+              "alt": "BAR MOUNTAIN",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 183,
+              "src": "/photos/bar-mountain/IMG_9971.webp",
+              "alt": "BAR MOUNTAIN",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
             }
           ]
         },
@@ -680,7 +1886,7 @@
           "callouts": [],
           "slides": [
             {
-              "slide": 43,
+              "slide": 184,
               "src": "/slides/043.webp",
               "alt": "SOUTH RIDGE",
               "caption": null
@@ -701,10 +1907,12 @@
       ],
       "slides": [
         {
-          "slide": 44,
-          "src": "/slides/044.webp",
-          "alt": "ACHENBACH CANYON",
-          "caption": null
+          "slide": 185,
+          "src": "/photos/achenbach-canyon/southhillSummit.webp",
+          "alt": "ORGAN MOUNTAINS WEST ACHENBACH CANYON",
+          "caption": null,
+          "width": 3840,
+          "height": 2880
         }
       ],
       "trails": [
@@ -731,34 +1939,164 @@
           "callouts": [],
           "slides": [
             {
-              "slide": 45,
-              "src": "/slides/045.webp",
-              "alt": "ACHENBACH CANYON",
-              "caption": null
+              "slide": 186,
+              "src": "/photos/achenbach-canyon/southhillSummit.webp",
+              "alt": "ACHENBACH CANYON — Southhill Summit",
+              "caption": "Southhill Summit",
+              "width": 3840,
+              "height": 2880
             },
             {
-              "slide": 46,
-              "src": "/slides/046.webp",
-              "alt": "ACHENBACH CANYON",
-              "caption": null
+              "slide": 187,
+              "src": "/photos/achenbach-canyon/cacheVerse.webp",
+              "alt": "ACHENBACH CANYON — Cache Verse",
+              "caption": "Cache Verse",
+              "width": 3840,
+              "height": 2880
             },
             {
-              "slide": 47,
-              "src": "/slides/047.webp",
-              "alt": "ACHENBACH CANYON",
-              "caption": null
+              "slide": 188,
+              "src": "/photos/achenbach-canyon/eastPlainCache.webp",
+              "alt": "ACHENBACH CANYON — East Plain Cache",
+              "caption": "East Plain Cache",
+              "width": 3840,
+              "height": 2880
             },
             {
-              "slide": 48,
-              "src": "/slides/048.webp",
-              "alt": "ACHENBACH CANYON",
-              "caption": null
+              "slide": 189,
+              "src": "/photos/achenbach-canyon/hillsideDeer.webp",
+              "alt": "ACHENBACH CANYON — Hillside Deer",
+              "caption": "Hillside Deer",
+              "width": 3840,
+              "height": 2560
             },
             {
-              "slide": 49,
-              "src": "/slides/049.webp",
-              "alt": "ACHENBACH CANYON",
-              "caption": null
+              "slide": 190,
+              "src": "/photos/achenbach-canyon/NoFunAllowed.webp",
+              "alt": "ACHENBACH CANYON — No Fun Allowed",
+              "caption": "No Fun Allowed",
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 191,
+              "src": "/photos/achenbach-canyon/NorthCanyon.webp",
+              "alt": "ACHENBACH CANYON — North Canyon",
+              "caption": "North Canyon",
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 192,
+              "src": "/photos/achenbach-canyon/northernPeak.webp",
+              "alt": "ACHENBACH CANYON — Northern Peak",
+              "caption": "Northern Peak",
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 193,
+              "src": "/photos/achenbach-canyon/SnowyPeak.webp",
+              "alt": "ACHENBACH CANYON — Snowy Peak",
+              "caption": "Snowy Peak",
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 194,
+              "src": "/photos/achenbach-canyon/southHillCairn01.webp",
+              "alt": "ACHENBACH CANYON — South Hill Cairn 01",
+              "caption": "South Hill Cairn 01",
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 195,
+              "src": "/photos/achenbach-canyon/southHillCairn02.webp",
+              "alt": "ACHENBACH CANYON — South Hill Cairn 02",
+              "caption": "South Hill Cairn 02",
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 196,
+              "src": "/photos/achenbach-canyon/southHillCairn03.webp",
+              "alt": "ACHENBACH CANYON — South Hill Cairn 03",
+              "caption": "South Hill Cairn 03",
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 197,
+              "src": "/photos/achenbach-canyon/southHillMoccasinMarker.webp",
+              "alt": "ACHENBACH CANYON — South Hill Moccasin Marker",
+              "caption": "South Hill Moccasin Marker",
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 198,
+              "src": "/photos/achenbach-canyon/southhillSummitMarker.webp",
+              "alt": "ACHENBACH CANYON — Southhill Summit Marker",
+              "caption": "Southhill Summit Marker",
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 199,
+              "src": "/photos/achenbach-canyon/southhillSummitMarker2.webp",
+              "alt": "ACHENBACH CANYON — Southhill Summit Marker 2",
+              "caption": "Southhill Summit Marker 2",
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 200,
+              "src": "/photos/achenbach-canyon/SouthHillSummitSouthView.webp",
+              "alt": "ACHENBACH CANYON — South Hill Summit South View",
+              "caption": "South Hill Summit South View",
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 201,
+              "src": "/photos/achenbach-canyon/southHillwestVista.webp",
+              "alt": "ACHENBACH CANYON — South Hillwest Vista",
+              "caption": "South Hillwest Vista",
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 202,
+              "src": "/photos/achenbach-canyon/southward.webp",
+              "alt": "ACHENBACH CANYON — Southward",
+              "caption": "Southward",
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 203,
+              "src": "/photos/achenbach-canyon/southwestFace.webp",
+              "alt": "ACHENBACH CANYON — Southwest Face",
+              "caption": "Southwest Face",
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 204,
+              "src": "/photos/achenbach-canyon/southwestRangeFrogMtn.webp",
+              "alt": "ACHENBACH CANYON — Southwest Range Frog Mtn",
+              "caption": "Southwest Range Frog Mtn",
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 205,
+              "src": "/photos/achenbach-canyon/whiteSandsGuardPost.webp",
+              "alt": "ACHENBACH CANYON — White Sands Guard Post",
+              "caption": "White Sands Guard Post",
+              "width": 3840,
+              "height": 2560
             }
           ]
         }
@@ -776,10 +2114,12 @@
       ],
       "slides": [
         {
-          "slide": 50,
-          "src": "/slides/050.webp",
-          "alt": "BAYLOR PASS",
-          "caption": null
+          "slide": 206,
+          "src": "/photos/baylor-pass-west/20250528_194336.webp",
+          "alt": "BAYLOR CANYON BAYLOR PASS",
+          "caption": null,
+          "width": 3840,
+          "height": 2880
         }
       ],
       "trails": [
@@ -809,22 +2149,308 @@
           "callouts": [],
           "slides": [
             {
-              "slide": 51,
-              "src": "/slides/051.webp",
+              "slide": 207,
+              "src": "/photos/baylor-pass-west/20250528_194336.webp",
               "alt": "BAYLOR PASS WEST",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 2880
             },
             {
-              "slide": 52,
-              "src": "/slides/052.webp",
+              "slide": 208,
+              "src": "/photos/baylor-pass-west/20250528_173716.webp",
               "alt": "BAYLOR PASS WEST",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 2880
             },
             {
-              "slide": 53,
-              "src": "/slides/053.webp",
+              "slide": 209,
+              "src": "/photos/baylor-pass-west/20250528_174452.webp",
               "alt": "BAYLOR PASS WEST",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 210,
+              "src": "/photos/baylor-pass-west/20250528_174800.webp",
+              "alt": "BAYLOR PASS WEST",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 211,
+              "src": "/photos/baylor-pass-west/20250528_174807.webp",
+              "alt": "BAYLOR PASS WEST",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 212,
+              "src": "/photos/baylor-pass-west/20250528_174823.webp",
+              "alt": "BAYLOR PASS WEST",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 213,
+              "src": "/photos/baylor-pass-west/20250528_180233.webp",
+              "alt": "BAYLOR PASS WEST",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 214,
+              "src": "/photos/baylor-pass-west/20250528_183430.webp",
+              "alt": "BAYLOR PASS WEST",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 215,
+              "src": "/photos/baylor-pass-west/20250528_185131.webp",
+              "alt": "BAYLOR PASS WEST",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 216,
+              "src": "/photos/baylor-pass-west/20250528_185921.webp",
+              "alt": "BAYLOR PASS WEST",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 217,
+              "src": "/photos/baylor-pass-west/20250528_193202.webp",
+              "alt": "BAYLOR PASS WEST",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 218,
+              "src": "/photos/baylor-pass-west/20250528_193832.webp",
+              "alt": "BAYLOR PASS WEST",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 219,
+              "src": "/photos/baylor-pass-west/20260127_125141.webp",
+              "alt": "BAYLOR PASS WEST",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 220,
+              "src": "/photos/baylor-pass-west/20260127_125534.webp",
+              "alt": "BAYLOR PASS WEST",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 221,
+              "src": "/photos/baylor-pass-west/20260127_131045.webp",
+              "alt": "BAYLOR PASS WEST",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 222,
+              "src": "/photos/baylor-pass-west/IMG_0664.webp",
+              "alt": "BAYLOR PASS WEST",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 223,
+              "src": "/photos/baylor-pass-west/IMG_0668.webp",
+              "alt": "BAYLOR PASS WEST",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 224,
+              "src": "/photos/baylor-pass-west/IMG_0685.webp",
+              "alt": "BAYLOR PASS WEST",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 225,
+              "src": "/photos/baylor-pass-west/IMG_0690.webp",
+              "alt": "BAYLOR PASS WEST",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 226,
+              "src": "/photos/baylor-pass-west/IMG_0698.webp",
+              "alt": "BAYLOR PASS WEST",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 227,
+              "src": "/photos/baylor-pass-west/IMG_5883.webp",
+              "alt": "BAYLOR PASS WEST",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 228,
+              "src": "/photos/baylor-pass-west/IMG_5891.webp",
+              "alt": "BAYLOR PASS WEST",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 229,
+              "src": "/photos/baylor-pass-west/IMG_5901.webp",
+              "alt": "BAYLOR PASS WEST",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 230,
+              "src": "/photos/baylor-pass-west/IMG_7434.webp",
+              "alt": "BAYLOR PASS WEST",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 231,
+              "src": "/photos/baylor-pass-west/IMG_7439.webp",
+              "alt": "BAYLOR PASS WEST",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 232,
+              "src": "/photos/baylor-pass-west/IMG_7480.webp",
+              "alt": "BAYLOR PASS WEST",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 233,
+              "src": "/photos/baylor-pass-west/IMG_7506.webp",
+              "alt": "BAYLOR PASS WEST",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 234,
+              "src": "/photos/baylor-pass-west/IMG_7507.webp",
+              "alt": "BAYLOR PASS WEST",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 235,
+              "src": "/photos/baylor-pass-west/IMG_7510.webp",
+              "alt": "BAYLOR PASS WEST",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 236,
+              "src": "/photos/baylor-pass-west/IMG_7513.webp",
+              "alt": "BAYLOR PASS WEST",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 237,
+              "src": "/photos/baylor-pass-west/IMG_7515.webp",
+              "alt": "BAYLOR PASS WEST",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 238,
+              "src": "/photos/baylor-pass-west/IMG_7520.webp",
+              "alt": "BAYLOR PASS WEST",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 239,
+              "src": "/photos/baylor-pass-west/IMG_7534.webp",
+              "alt": "BAYLOR PASS WEST",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 240,
+              "src": "/photos/baylor-pass-west/IMG_7537.webp",
+              "alt": "BAYLOR PASS WEST",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 241,
+              "src": "/photos/baylor-pass-west/IMG_7540.webp",
+              "alt": "BAYLOR PASS WEST",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 242,
+              "src": "/photos/baylor-pass-west/IMG_7870.webp",
+              "alt": "BAYLOR PASS WEST",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 243,
+              "src": "/photos/baylor-pass-west/IMG_7907.webp",
+              "alt": "BAYLOR PASS WEST",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 244,
+              "src": "/photos/baylor-pass-west/IMG_7911.webp",
+              "alt": "BAYLOR PASS WEST",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
             }
           ]
         }
@@ -842,7 +2468,7 @@
       ],
       "slides": [
         {
-          "slide": 54,
+          "slide": 245,
           "src": "/slides/054.webp",
           "alt": "BAYLOR PASS EAST",
           "caption": null
@@ -875,7 +2501,7 @@
           "callouts": [],
           "slides": [
             {
-              "slide": 55,
+              "slide": 246,
               "src": "/slides/055.webp",
               "alt": "BAYLOR PASS EAST",
               "caption": null
@@ -896,10 +2522,12 @@
       ],
       "slides": [
         {
-          "slide": 56,
-          "src": "/slides/056.webp",
-          "alt": "AGUIRRE SPRINGS",
-          "caption": null
+          "slide": 247,
+          "src": "/photos/pine-tree-trail/20250607_121005.webp",
+          "alt": "ORGAN MOUNTAINS EAST AGUIRRE SPRINGS",
+          "caption": null,
+          "width": 3840,
+          "height": 2880
         }
       ],
       "trails": [
@@ -929,22 +2557,156 @@
           "callouts": [],
           "slides": [
             {
-              "slide": 57,
-              "src": "/slides/057.webp",
+              "slide": 248,
+              "src": "/photos/pine-tree-trail/20250607_121005.webp",
               "alt": "PINE TREE TRAIL",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 2880
             },
             {
-              "slide": 58,
-              "src": "/slides/058.webp",
+              "slide": 249,
+              "src": "/photos/pine-tree-trail/20250607_105100.webp",
               "alt": "PINE TREE TRAIL",
-              "caption": null
+              "caption": null,
+              "width": 2880,
+              "height": 3840
             },
             {
-              "slide": 59,
-              "src": "/slides/059.webp",
+              "slide": 250,
+              "src": "/photos/pine-tree-trail/20250607_105456.webp",
               "alt": "PINE TREE TRAIL",
-              "caption": null
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 251,
+              "src": "/photos/pine-tree-trail/20250607_115742.webp",
+              "alt": "PINE TREE TRAIL",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 252,
+              "src": "/photos/pine-tree-trail/20250607_120604.webp",
+              "alt": "PINE TREE TRAIL",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 253,
+              "src": "/photos/pine-tree-trail/20250607_120610.webp",
+              "alt": "PINE TREE TRAIL",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 254,
+              "src": "/photos/pine-tree-trail/20250607_121525.webp",
+              "alt": "PINE TREE TRAIL",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 255,
+              "src": "/photos/pine-tree-trail/IMG_2260.webp",
+              "alt": "PINE TREE TRAIL",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 256,
+              "src": "/photos/pine-tree-trail/IMG_2279.webp",
+              "alt": "PINE TREE TRAIL",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 257,
+              "src": "/photos/pine-tree-trail/IMG_2312.webp",
+              "alt": "PINE TREE TRAIL",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 258,
+              "src": "/photos/pine-tree-trail/IMG_2324.webp",
+              "alt": "PINE TREE TRAIL",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 259,
+              "src": "/photos/pine-tree-trail/IMG_2333.webp",
+              "alt": "PINE TREE TRAIL",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 260,
+              "src": "/photos/pine-tree-trail/IMG_4049.webp",
+              "alt": "PINE TREE TRAIL",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 261,
+              "src": "/photos/pine-tree-trail/IMG_4054.webp",
+              "alt": "PINE TREE TRAIL",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 262,
+              "src": "/photos/pine-tree-trail/IMG_4066.webp",
+              "alt": "PINE TREE TRAIL",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 263,
+              "src": "/photos/pine-tree-trail/IMG_4074.webp",
+              "alt": "PINE TREE TRAIL",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 264,
+              "src": "/photos/pine-tree-trail/IMG_4076.webp",
+              "alt": "PINE TREE TRAIL",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 265,
+              "src": "/photos/pine-tree-trail/IMG_4082.webp",
+              "alt": "PINE TREE TRAIL",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 266,
+              "src": "/photos/pine-tree-trail/IMG_4091.webp",
+              "alt": "PINE TREE TRAIL",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
             }
           ]
         }
@@ -962,10 +2724,12 @@
       ],
       "slides": [
         {
-          "slide": 60,
-          "src": "/slides/060.webp",
-          "alt": "“PICACHO PEAK”",
-          "caption": null
+          "slide": 267,
+          "src": "/photos/picacho-peak/picachoSpot.webp",
+          "alt": "DESERT PEAKS NAT’L MONUMENT “PICACHO PEAK”",
+          "caption": null,
+          "width": 3840,
+          "height": 2560
         }
       ],
       "trails": [
@@ -994,22 +2758,308 @@
           "callouts": [],
           "slides": [
             {
-              "slide": 61,
-              "src": "/slides/061.webp",
-              "alt": "PICACHO PEAK",
-              "caption": null
+              "slide": 268,
+              "src": "/photos/picacho-peak/picachoSpot.webp",
+              "alt": "PICACHO PEAK — Picacho Spot",
+              "caption": "Picacho Spot",
+              "width": 3840,
+              "height": 2560
             },
             {
-              "slide": 62,
-              "src": "/slides/062.webp",
+              "slide": 269,
+              "src": "/photos/picacho-peak/20250419_101645.webp",
               "alt": "PICACHO PEAK",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 2880
             },
             {
-              "slide": 63,
-              "src": "/slides/063.webp",
+              "slide": 270,
+              "src": "/photos/picacho-peak/20250419_101909.webp",
               "alt": "PICACHO PEAK",
-              "caption": null
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 271,
+              "src": "/photos/picacho-peak/20250419_102227.webp",
+              "alt": "PICACHO PEAK",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 272,
+              "src": "/photos/picacho-peak/20250419_102328.webp",
+              "alt": "PICACHO PEAK",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 273,
+              "src": "/photos/picacho-peak/20250419_102821.webp",
+              "alt": "PICACHO PEAK",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 274,
+              "src": "/photos/picacho-peak/20250419_105838.webp",
+              "alt": "PICACHO PEAK",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 275,
+              "src": "/photos/picacho-peak/20250419_110530.webp",
+              "alt": "PICACHO PEAK",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 276,
+              "src": "/photos/picacho-peak/20250419_114751.webp",
+              "alt": "PICACHO PEAK",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 277,
+              "src": "/photos/picacho-peak/20250419_114835.webp",
+              "alt": "PICACHO PEAK",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 278,
+              "src": "/photos/picacho-peak/20250419_115018.webp",
+              "alt": "PICACHO PEAK",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 279,
+              "src": "/photos/picacho-peak/20250712_071554.webp",
+              "alt": "PICACHO PEAK",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 280,
+              "src": "/photos/picacho-peak/20250712_073034.webp",
+              "alt": "PICACHO PEAK",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 281,
+              "src": "/photos/picacho-peak/20250712_080201.webp",
+              "alt": "PICACHO PEAK",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 282,
+              "src": "/photos/picacho-peak/20250712_081054.webp",
+              "alt": "PICACHO PEAK",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 283,
+              "src": "/photos/picacho-peak/20250712_081828.webp",
+              "alt": "PICACHO PEAK",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 284,
+              "src": "/photos/picacho-peak/20250712_084640.webp",
+              "alt": "PICACHO PEAK",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 285,
+              "src": "/photos/picacho-peak/20251108_092649.webp",
+              "alt": "PICACHO PEAK",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 286,
+              "src": "/photos/picacho-peak/20251108_092654.webp",
+              "alt": "PICACHO PEAK",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 287,
+              "src": "/photos/picacho-peak/20251108_093119.webp",
+              "alt": "PICACHO PEAK",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 288,
+              "src": "/photos/picacho-peak/20251108_095516.webp",
+              "alt": "PICACHO PEAK",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 289,
+              "src": "/photos/picacho-peak/20260614_135518.webp",
+              "alt": "PICACHO PEAK",
+              "caption": null,
+              "width": 3840,
+              "height": 1774
+            },
+            {
+              "slide": 290,
+              "src": "/photos/picacho-peak/20260614_140005.webp",
+              "alt": "PICACHO PEAK",
+              "caption": null,
+              "width": 3840,
+              "height": 1774
+            },
+            {
+              "slide": 291,
+              "src": "/photos/picacho-peak/20260614_140442.webp",
+              "alt": "PICACHO PEAK",
+              "caption": null,
+              "width": 3840,
+              "height": 1774
+            },
+            {
+              "slide": 292,
+              "src": "/photos/picacho-peak/20260704_081713.webp",
+              "alt": "PICACHO PEAK",
+              "caption": null,
+              "width": 3840,
+              "height": 1774
+            },
+            {
+              "slide": 293,
+              "src": "/photos/picacho-peak/20260704_085749.webp",
+              "alt": "PICACHO PEAK",
+              "caption": null,
+              "width": 1774,
+              "height": 3840
+            },
+            {
+              "slide": 294,
+              "src": "/photos/picacho-peak/20260704_090535.webp",
+              "alt": "PICACHO PEAK",
+              "caption": null,
+              "width": 3840,
+              "height": 1774
+            },
+            {
+              "slide": 295,
+              "src": "/photos/picacho-peak/20260704_090610.webp",
+              "alt": "PICACHO PEAK",
+              "caption": null,
+              "width": 1774,
+              "height": 3840
+            },
+            {
+              "slide": 296,
+              "src": "/photos/picacho-peak/IMG_1743.webp",
+              "alt": "PICACHO PEAK",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 297,
+              "src": "/photos/picacho-peak/IMG_5395.webp",
+              "alt": "PICACHO PEAK",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 298,
+              "src": "/photos/picacho-peak/IMG_5422.webp",
+              "alt": "PICACHO PEAK",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 299,
+              "src": "/photos/picacho-peak/IMG_5433.webp",
+              "alt": "PICACHO PEAK",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 300,
+              "src": "/photos/picacho-peak/IMG_5496.webp",
+              "alt": "PICACHO PEAK",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 301,
+              "src": "/photos/picacho-peak/IMG_5541.webp",
+              "alt": "PICACHO PEAK",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 302,
+              "src": "/photos/picacho-peak/IMG_5626.webp",
+              "alt": "PICACHO PEAK",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 303,
+              "src": "/photos/picacho-peak/IMG_5758.webp",
+              "alt": "PICACHO PEAK",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 304,
+              "src": "/photos/picacho-peak/IMG_9160.webp",
+              "alt": "PICACHO PEAK",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 305,
+              "src": "/photos/picacho-peak/piachoSunset.webp",
+              "alt": "PICACHO PEAK — Piacho Sunset",
+              "caption": "Piacho Sunset",
+              "width": 3840,
+              "height": 2560
             }
           ]
         }
@@ -1027,10 +3077,12 @@
       ],
       "slides": [
         {
-          "slide": 64,
-          "src": "/slides/064.webp",
-          "alt": "PREHISTORIC PATHWAYS",
-          "caption": null
+          "slide": 306,
+          "src": "/photos/discovery-site/20250913_143051.webp",
+          "alt": "ROBLEDO RIDGE PREHISTORIC PATHWAYS",
+          "caption": null,
+          "width": 3840,
+          "height": 2880
         }
       ],
       "trails": [
@@ -1060,16 +3112,172 @@
           "callouts": [],
           "slides": [
             {
-              "slide": 65,
-              "src": "/slides/065.webp",
+              "slide": 307,
+              "src": "/photos/discovery-site/20250913_143051.webp",
               "alt": "DISCOVERY SITE",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 2880
             },
             {
-              "slide": 66,
-              "src": "/slides/066.webp",
+              "slide": 308,
+              "src": "/photos/discovery-site/20250913_120842.webp",
               "alt": "DISCOVERY SITE",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 309,
+              "src": "/photos/discovery-site/20250913_121555.webp",
+              "alt": "DISCOVERY SITE",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 310,
+              "src": "/photos/discovery-site/20250913_122423.webp",
+              "alt": "DISCOVERY SITE",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 311,
+              "src": "/photos/discovery-site/20250913_122432.webp",
+              "alt": "DISCOVERY SITE",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 312,
+              "src": "/photos/discovery-site/20250913_124548.webp",
+              "alt": "DISCOVERY SITE",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 313,
+              "src": "/photos/discovery-site/20250913_131309.webp",
+              "alt": "DISCOVERY SITE",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 314,
+              "src": "/photos/discovery-site/20250913_132429.webp",
+              "alt": "DISCOVERY SITE",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 315,
+              "src": "/photos/discovery-site/20250913_133724.webp",
+              "alt": "DISCOVERY SITE",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 316,
+              "src": "/photos/discovery-site/20250913_133742.webp",
+              "alt": "DISCOVERY SITE",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 317,
+              "src": "/photos/discovery-site/20250913_143222.webp",
+              "alt": "DISCOVERY SITE",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 318,
+              "src": "/photos/discovery-site/20250913_143521.webp",
+              "alt": "DISCOVERY SITE",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 319,
+              "src": "/photos/discovery-site/20250913_144631.webp",
+              "alt": "DISCOVERY SITE",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 320,
+              "src": "/photos/discovery-site/20250913_150916.webp",
+              "alt": "DISCOVERY SITE",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 321,
+              "src": "/photos/discovery-site/20250913_151001.webp",
+              "alt": "DISCOVERY SITE",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 322,
+              "src": "/photos/discovery-site/20250913_151105.webp",
+              "alt": "DISCOVERY SITE",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 323,
+              "src": "/photos/discovery-site/20250913_151112.webp",
+              "alt": "DISCOVERY SITE",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 324,
+              "src": "/photos/discovery-site/20250913_151133.webp",
+              "alt": "DISCOVERY SITE",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 325,
+              "src": "/photos/discovery-site/20250913_151141.webp",
+              "alt": "DISCOVERY SITE",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 326,
+              "src": "/photos/discovery-site/20250913_151220.webp",
+              "alt": "DISCOVERY SITE",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 327,
+              "src": "/photos/discovery-site/20250913_151248.webp",
+              "alt": "DISCOVERY SITE",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
             }
           ]
         },
@@ -1099,16 +3307,132 @@
           "callouts": [],
           "slides": [
             {
-              "slide": 67,
-              "src": "/slides/067.webp",
+              "slide": 328,
+              "src": "/photos/robledo-ridgeline/20250913_122123.webp",
               "alt": "ROBLEDO RIDGELINE",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 2880
             },
             {
-              "slide": 68,
-              "src": "/slides/068.webp",
+              "slide": 329,
+              "src": "/photos/robledo-ridgeline/20250913_123658.webp",
               "alt": "ROBLEDO RIDGELINE",
-              "caption": null
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 330,
+              "src": "/photos/robledo-ridgeline/20250913_132429.webp",
+              "alt": "ROBLEDO RIDGELINE",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 331,
+              "src": "/photos/robledo-ridgeline/20250913_133742.webp",
+              "alt": "ROBLEDO RIDGELINE",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 332,
+              "src": "/photos/robledo-ridgeline/20250913_134317.webp",
+              "alt": "ROBLEDO RIDGELINE",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 333,
+              "src": "/photos/robledo-ridgeline/IMG_0377.webp",
+              "alt": "ROBLEDO RIDGELINE",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 334,
+              "src": "/photos/robledo-ridgeline/IMG_6205.webp",
+              "alt": "ROBLEDO RIDGELINE",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 335,
+              "src": "/photos/robledo-ridgeline/IMG_6267.webp",
+              "alt": "ROBLEDO RIDGELINE",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 336,
+              "src": "/photos/robledo-ridgeline/IMG_6280.webp",
+              "alt": "ROBLEDO RIDGELINE",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 337,
+              "src": "/photos/robledo-ridgeline/IMG_6350.webp",
+              "alt": "ROBLEDO RIDGELINE",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 338,
+              "src": "/photos/robledo-ridgeline/IMG_6386.webp",
+              "alt": "ROBLEDO RIDGELINE",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 339,
+              "src": "/photos/robledo-ridgeline/IMG_6393.webp",
+              "alt": "ROBLEDO RIDGELINE",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 340,
+              "src": "/photos/robledo-ridgeline/IMG_6394.webp",
+              "alt": "ROBLEDO RIDGELINE",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 341,
+              "src": "/photos/robledo-ridgeline/IMG_6403.webp",
+              "alt": "ROBLEDO RIDGELINE",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 342,
+              "src": "/photos/robledo-ridgeline/IMG_6413.webp",
+              "alt": "ROBLEDO RIDGELINE",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 343,
+              "src": "/photos/robledo-ridgeline/IMG_8598.webp",
+              "alt": "ROBLEDO RIDGELINE",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
             }
           ]
         }
@@ -1126,10 +3450,12 @@
       ],
       "slides": [
         {
-          "slide": 69,
-          "src": "/slides/069.webp",
-          "alt": "DONA ANA MOUNTAINS",
-          "caption": null
+          "slide": 344,
+          "src": "/photos/high-point/donaAnaDusk.webp",
+          "alt": "NORTHERN LAS CRUCES DONA ANA MOUNTAINS",
+          "caption": null,
+          "width": 3840,
+          "height": 2560
         }
       ],
       "trails": [
@@ -1158,34 +3484,228 @@
           "callouts": [],
           "slides": [
             {
-              "slide": 70,
-              "src": "/slides/070.webp",
-              "alt": "HIGH POINT",
-              "caption": null
+              "slide": 345,
+              "src": "/photos/high-point/donaAnaDusk.webp",
+              "alt": "HIGH POINT — Dona Ana Dusk",
+              "caption": "Dona Ana Dusk",
+              "width": 3840,
+              "height": 2560
             },
             {
-              "slide": 71,
-              "src": "/slides/071.webp",
-              "alt": "DONA ANA MOUNTAINS — HIGH POINT",
-              "caption": "DONA ANA MOUNTAINS\nHIGH POINT"
+              "slide": 346,
+              "src": "/photos/high-point/20250619_095322.webp",
+              "alt": "HIGH POINT",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
             },
             {
-              "slide": 72,
-              "src": "/slides/072.webp",
+              "slide": 347,
+              "src": "/photos/high-point/20250619_103616.webp",
               "alt": "HIGH POINT",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 2880
             },
             {
-              "slide": 73,
-              "src": "/slides/073.webp",
+              "slide": 348,
+              "src": "/photos/high-point/20250619_110215.webp",
               "alt": "HIGH POINT",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 2880
             },
             {
-              "slide": 74,
-              "src": "/slides/074.webp",
+              "slide": 349,
+              "src": "/photos/high-point/20250619_115034.webp",
               "alt": "HIGH POINT",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 350,
+              "src": "/photos/high-point/20250619_121035.webp",
+              "alt": "HIGH POINT",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 351,
+              "src": "/photos/high-point/20250619_122347.webp",
+              "alt": "HIGH POINT",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 352,
+              "src": "/photos/high-point/20250619_122356.webp",
+              "alt": "HIGH POINT",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 353,
+              "src": "/photos/high-point/20250619_123742.webp",
+              "alt": "HIGH POINT",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 354,
+              "src": "/photos/high-point/20250619_123748.webp",
+              "alt": "HIGH POINT",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 355,
+              "src": "/photos/high-point/20250619_123956.webp",
+              "alt": "HIGH POINT",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 356,
+              "src": "/photos/high-point/20250619_124525.webp",
+              "alt": "HIGH POINT",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 357,
+              "src": "/photos/high-point/20250619_124529.webp",
+              "alt": "HIGH POINT",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 358,
+              "src": "/photos/high-point/20250619_125154.webp",
+              "alt": "HIGH POINT",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 359,
+              "src": "/photos/high-point/20250619_125740.webp",
+              "alt": "HIGH POINT",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 360,
+              "src": "/photos/high-point/20250619_130631.webp",
+              "alt": "HIGH POINT",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 361,
+              "src": "/photos/high-point/20250619_131328.webp",
+              "alt": "HIGH POINT",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 362,
+              "src": "/photos/high-point/20250619_132516.webp",
+              "alt": "HIGH POINT",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 363,
+              "src": "/photos/high-point/IMG_3371.webp",
+              "alt": "HIGH POINT",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 364,
+              "src": "/photos/high-point/IMG_4504.webp",
+              "alt": "HIGH POINT",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 365,
+              "src": "/photos/high-point/IMG_4558.webp",
+              "alt": "HIGH POINT",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 366,
+              "src": "/photos/high-point/IMG_4577.webp",
+              "alt": "HIGH POINT",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 367,
+              "src": "/photos/high-point/IMG_4579.webp",
+              "alt": "HIGH POINT",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 368,
+              "src": "/photos/high-point/IMG_4586.webp",
+              "alt": "HIGH POINT",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 369,
+              "src": "/photos/high-point/IMG_4652.webp",
+              "alt": "HIGH POINT",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 370,
+              "src": "/photos/high-point/IMG_7430.webp",
+              "alt": "HIGH POINT",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 371,
+              "src": "/photos/high-point/IMG_7461.webp",
+              "alt": "HIGH POINT",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 372,
+              "src": "/photos/high-point/IMG_7474.webp",
+              "alt": "HIGH POINT",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
             }
           ]
         },
@@ -1214,16 +3734,52 @@
           "callouts": [],
           "slides": [
             {
-              "slide": 75,
-              "src": "/slides/075.webp",
+              "slide": 373,
+              "src": "/photos/dona-ana-peak/IMG_9219.webp",
               "alt": "DONA ANA PEAK",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 2560
             },
             {
-              "slide": 76,
-              "src": "/slides/076.webp",
+              "slide": 374,
+              "src": "/photos/dona-ana-peak/IMG_6282.webp",
               "alt": "DONA ANA PEAK",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 375,
+              "src": "/photos/dona-ana-peak/IMG_6405.webp",
+              "alt": "DONA ANA PEAK",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 376,
+              "src": "/photos/dona-ana-peak/IMG_6424.webp",
+              "alt": "DONA ANA PEAK",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 377,
+              "src": "/photos/dona-ana-peak/IMG_9176.webp",
+              "alt": "DONA ANA PEAK",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 378,
+              "src": "/photos/dona-ana-peak/IMG_9238.webp",
+              "alt": "DONA ANA PEAK",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
             }
           ]
         }
@@ -1241,10 +3797,12 @@
       ],
       "slides": [
         {
-          "slide": 77,
-          "src": "/slides/077.webp",
-          "alt": "DONA ANA ARCHES",
-          "caption": null
+          "slide": 379,
+          "src": "/photos/arches/20250731_172151.webp",
+          "alt": "NORTHERN LAS CRUCES DONA ANA ARCHES",
+          "caption": null,
+          "width": 3840,
+          "height": 2880
         }
       ],
       "trails": [
@@ -1277,28 +3835,452 @@
           "callouts": [],
           "slides": [
             {
-              "slide": 78,
-              "src": "/slides/078.webp",
+              "slide": 380,
+              "src": "/photos/arches/20250731_172151.webp",
               "alt": "ARCHES",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 2880
             },
             {
-              "slide": 79,
-              "src": "/slides/079.webp",
-              "alt": "ARCGIS IMAGERY BASE MAP",
-              "caption": "ARCGIS IMAGERY BASE MAP"
+              "slide": 381,
+              "src": "/photos/arches/20250430_174405.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
             },
             {
-              "slide": 80,
-              "src": "/slides/080.webp",
+              "slide": 382,
+              "src": "/photos/arches/20250430_175044.webp",
               "alt": "ARCHES",
-              "caption": null
+              "caption": null,
+              "width": 2880,
+              "height": 3840
             },
             {
-              "slide": 81,
-              "src": "/slides/081.webp",
+              "slide": 383,
+              "src": "/photos/arches/20250430_180329.webp",
               "alt": "ARCHES",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 384,
+              "src": "/photos/arches/20250430_183125.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 385,
+              "src": "/photos/arches/20250430_183516.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 386,
+              "src": "/photos/arches/20250430_183936.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 387,
+              "src": "/photos/arches/20250430_184322.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 388,
+              "src": "/photos/arches/20250430_191446.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 389,
+              "src": "/photos/arches/20250720_144740.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 390,
+              "src": "/photos/arches/20250720_145430.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 391,
+              "src": "/photos/arches/20250724_175845.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 392,
+              "src": "/photos/arches/20250724_182032.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 393,
+              "src": "/photos/arches/20250724_182536.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 394,
+              "src": "/photos/arches/20250724_183620.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 395,
+              "src": "/photos/arches/20250814_181903.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 396,
+              "src": "/photos/arches/20250814_185820.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 397,
+              "src": "/photos/arches/20250814_185916.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 398,
+              "src": "/photos/arches/20250814_191751.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 399,
+              "src": "/photos/arches/20250814_192821.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 400,
+              "src": "/photos/arches/20250901_104820.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 401,
+              "src": "/photos/arches/20250901_114140.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 402,
+              "src": "/photos/arches/20251109_172506.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 403,
+              "src": "/photos/arches/20251109_173211.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 404,
+              "src": "/photos/arches/20251119_155218.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 405,
+              "src": "/photos/arches/20251119_155803.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 406,
+              "src": "/photos/arches/20251119_160344.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 407,
+              "src": "/photos/arches/20251119_160948.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 408,
+              "src": "/photos/arches/20251119_161410.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 409,
+              "src": "/photos/arches/IMG_0398.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 410,
+              "src": "/photos/arches/IMG_0413.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 411,
+              "src": "/photos/arches/IMG_0427.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 412,
+              "src": "/photos/arches/IMG_0431.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 413,
+              "src": "/photos/arches/IMG_3288.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 414,
+              "src": "/photos/arches/IMG_3289.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 415,
+              "src": "/photos/arches/IMG_3295.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 416,
+              "src": "/photos/arches/IMG_3319.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 417,
+              "src": "/photos/arches/IMG_3358.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 418,
+              "src": "/photos/arches/IMG_3397.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 419,
+              "src": "/photos/arches/IMG_3417.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 420,
+              "src": "/photos/arches/IMG_3549.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 421,
+              "src": "/photos/arches/IMG_5583.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 422,
+              "src": "/photos/arches/IMG_5807.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 423,
+              "src": "/photos/arches/IMG_5912.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 424,
+              "src": "/photos/arches/IMG_6284.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 425,
+              "src": "/photos/arches/IMG_7124.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 426,
+              "src": "/photos/arches/IMG_7137.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 427,
+              "src": "/photos/arches/IMG_7139.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 428,
+              "src": "/photos/arches/IMG_7154.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 429,
+              "src": "/photos/arches/IMG_7162.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 430,
+              "src": "/photos/arches/IMG_7166.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 431,
+              "src": "/photos/arches/IMG_7185.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 432,
+              "src": "/photos/arches/IMG_7344.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 433,
+              "src": "/photos/arches/IMG_7385.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 434,
+              "src": "/photos/arches/IMG_8583.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 435,
+              "src": "/photos/arches/IMG_8650.webp",
+              "alt": "ARCHES",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
             }
           ]
         }
@@ -1316,10 +4298,12 @@
       ],
       "slides": [
         {
-          "slide": 82,
-          "src": "/slides/082.webp",
-          "alt": "“RADIO HILL”",
-          "caption": null
+          "slide": 436,
+          "src": "/photos/radio-hill/20250524_094307.webp",
+          "alt": "BALDY // TWIN PEAKS “RADIO HILL”",
+          "caption": null,
+          "width": 3840,
+          "height": 2880
         }
       ],
       "trails": [
@@ -1348,10 +4332,132 @@
           "callouts": [],
           "slides": [
             {
-              "slide": 83,
-              "src": "/slides/083.webp",
+              "slide": 437,
+              "src": "/photos/radio-hill/20250524_094307.webp",
               "alt": "RADIO HILL",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 438,
+              "src": "/photos/radio-hill/20250524_091051.webp",
+              "alt": "RADIO HILL",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 439,
+              "src": "/photos/radio-hill/20250524_091937.webp",
+              "alt": "RADIO HILL",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 440,
+              "src": "/photos/radio-hill/20250524_093510.webp",
+              "alt": "RADIO HILL",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 441,
+              "src": "/photos/radio-hill/20250524_094109.webp",
+              "alt": "RADIO HILL",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 442,
+              "src": "/photos/radio-hill/20250524_094340.webp",
+              "alt": "RADIO HILL",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 443,
+              "src": "/photos/radio-hill/20250524_095102.webp",
+              "alt": "RADIO HILL",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 444,
+              "src": "/photos/radio-hill/20250524_095127.webp",
+              "alt": "RADIO HILL",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 445,
+              "src": "/photos/radio-hill/20250524_102415.webp",
+              "alt": "RADIO HILL",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 446,
+              "src": "/photos/radio-hill/20250524_105748.webp",
+              "alt": "RADIO HILL",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 447,
+              "src": "/photos/radio-hill/20250524_111611.webp",
+              "alt": "RADIO HILL",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 448,
+              "src": "/photos/radio-hill/IMG_0371.webp",
+              "alt": "RADIO HILL",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 449,
+              "src": "/photos/radio-hill/IMG_5954.webp",
+              "alt": "RADIO HILL",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 450,
+              "src": "/photos/radio-hill/IMG_7153.webp",
+              "alt": "RADIO HILL",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 451,
+              "src": "/photos/radio-hill/IMG_8651.webp",
+              "alt": "RADIO HILL",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 452,
+              "src": "/photos/radio-hill/IMG_8654.webp",
+              "alt": "RADIO HILL",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
             }
           ]
         }
@@ -1365,7 +4471,16 @@
         "ROBLEDO MOUNTAIN"
       ],
       "nameLines": [],
-      "slides": [],
+      "slides": [
+        {
+          "slide": 453,
+          "src": "/photos/slot-canyon/20251129_125734.webp",
+          "alt": "ROBLEDO MOUNTAIN",
+          "caption": null,
+          "width": 3840,
+          "height": 2880
+        }
+      ],
       "trails": [
         {
           "slug": "slot-canyon",
@@ -1395,22 +4510,180 @@
           "callouts": [],
           "slides": [
             {
-              "slide": 84,
-              "src": "/slides/084.webp",
+              "slide": 454,
+              "src": "/photos/slot-canyon/20251129_125734.webp",
               "alt": "SLOT CANYON",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 2880
             },
             {
-              "slide": 85,
-              "src": "/slides/085.webp",
+              "slide": 455,
+              "src": "/photos/slot-canyon/20251129_121345.webp",
               "alt": "SLOT CANYON",
-              "caption": null
+              "caption": null,
+              "width": 2880,
+              "height": 3840
             },
             {
-              "slide": 86,
-              "src": "/slides/086.webp",
+              "slide": 456,
+              "src": "/photos/slot-canyon/20251129_121800.webp",
               "alt": "SLOT CANYON",
-              "caption": null
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 457,
+              "src": "/photos/slot-canyon/20251129_121921.webp",
+              "alt": "SLOT CANYON",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 458,
+              "src": "/photos/slot-canyon/20251129_123424.webp",
+              "alt": "SLOT CANYON",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 459,
+              "src": "/photos/slot-canyon/20251129_123922.webp",
+              "alt": "SLOT CANYON",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 460,
+              "src": "/photos/slot-canyon/20251129_124223.webp",
+              "alt": "SLOT CANYON",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 461,
+              "src": "/photos/slot-canyon/20251129_124459.webp",
+              "alt": "SLOT CANYON",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 462,
+              "src": "/photos/slot-canyon/20251129_124552.webp",
+              "alt": "SLOT CANYON",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 463,
+              "src": "/photos/slot-canyon/20251129_124830.webp",
+              "alt": "SLOT CANYON",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 464,
+              "src": "/photos/slot-canyon/20251129_124910.webp",
+              "alt": "SLOT CANYON",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 465,
+              "src": "/photos/slot-canyon/20251129_125001.webp",
+              "alt": "SLOT CANYON",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 466,
+              "src": "/photos/slot-canyon/20251129_130257.webp",
+              "alt": "SLOT CANYON",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 467,
+              "src": "/photos/slot-canyon/20251129_132321.webp",
+              "alt": "SLOT CANYON",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 468,
+              "src": "/photos/slot-canyon/20251129_133205.webp",
+              "alt": "SLOT CANYON",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 469,
+              "src": "/photos/slot-canyon/20251129_133907.webp",
+              "alt": "SLOT CANYON",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 470,
+              "src": "/photos/slot-canyon/20251129_133910.webp",
+              "alt": "SLOT CANYON",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 471,
+              "src": "/photos/slot-canyon/20251129_134050.webp",
+              "alt": "SLOT CANYON",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 472,
+              "src": "/photos/slot-canyon/20260311_180228.webp",
+              "alt": "SLOT CANYON",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 473,
+              "src": "/photos/slot-canyon/IMG_7544.webp",
+              "alt": "SLOT CANYON",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 474,
+              "src": "/photos/slot-canyon/IMG_7561.webp",
+              "alt": "SLOT CANYON",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 475,
+              "src": "/photos/slot-canyon/IMG_7579.webp",
+              "alt": "SLOT CANYON",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
             }
           ]
         }
@@ -1428,10 +4701,12 @@
       ],
       "slides": [
         {
-          "slide": 87,
-          "src": "/slides/087.webp",
-          "alt": "FROG MOUNTAIN",
-          "caption": null
+          "slide": 476,
+          "src": "/photos/frog-mountain/20260117_093645.webp",
+          "alt": "BISHOP CAP FROG MOUNTAIN",
+          "caption": null,
+          "width": 3840,
+          "height": 2880
         }
       ],
       "trails": [
@@ -1459,28 +4734,180 @@
           "callouts": [],
           "slides": [
             {
-              "slide": 88,
-              "src": "/slides/088.webp",
+              "slide": 477,
+              "src": "/photos/frog-mountain/20260117_093645.webp",
               "alt": "“FROG MOUNTAIN”",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 2880
             },
             {
-              "slide": 89,
-              "src": "/slides/089.webp",
+              "slide": 478,
+              "src": "/photos/frog-mountain/20260117_081122.webp",
               "alt": "“FROG MOUNTAIN”",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 2880
             },
             {
-              "slide": 90,
-              "src": "/slides/090.webp",
+              "slide": 479,
+              "src": "/photos/frog-mountain/20260117_082801.webp",
               "alt": "“FROG MOUNTAIN”",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 2880
             },
             {
-              "slide": 91,
-              "src": "/slides/091.webp",
+              "slide": 480,
+              "src": "/photos/frog-mountain/20260117_090928.webp",
               "alt": "“FROG MOUNTAIN”",
-              "caption": null
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 481,
+              "src": "/photos/frog-mountain/20260117_093625.webp",
+              "alt": "“FROG MOUNTAIN”",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 482,
+              "src": "/photos/frog-mountain/20260117_093633.webp",
+              "alt": "“FROG MOUNTAIN”",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 483,
+              "src": "/photos/frog-mountain/20260117_103056.webp",
+              "alt": "“FROG MOUNTAIN”",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 484,
+              "src": "/photos/frog-mountain/20260117_104911.webp",
+              "alt": "“FROG MOUNTAIN”",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 485,
+              "src": "/photos/frog-mountain/20260117_105044.webp",
+              "alt": "“FROG MOUNTAIN”",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 486,
+              "src": "/photos/frog-mountain/20260117_110414.webp",
+              "alt": "“FROG MOUNTAIN”",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 487,
+              "src": "/photos/frog-mountain/20260117_115359.webp",
+              "alt": "“FROG MOUNTAIN”",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 488,
+              "src": "/photos/frog-mountain/20260117_115953.webp",
+              "alt": "“FROG MOUNTAIN”",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 489,
+              "src": "/photos/frog-mountain/20260117_122424.webp",
+              "alt": "“FROG MOUNTAIN”",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 490,
+              "src": "/photos/frog-mountain/IMG_7769.webp",
+              "alt": "“FROG MOUNTAIN”",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 491,
+              "src": "/photos/frog-mountain/IMG_7795.webp",
+              "alt": "“FROG MOUNTAIN”",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 492,
+              "src": "/photos/frog-mountain/IMG_7797.webp",
+              "alt": "“FROG MOUNTAIN”",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 493,
+              "src": "/photos/frog-mountain/IMG_7801.webp",
+              "alt": "“FROG MOUNTAIN”",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 494,
+              "src": "/photos/frog-mountain/IMG_7815.webp",
+              "alt": "“FROG MOUNTAIN”",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 495,
+              "src": "/photos/frog-mountain/IMG_7832.webp",
+              "alt": "“FROG MOUNTAIN”",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 496,
+              "src": "/photos/frog-mountain/IMG_7834.webp",
+              "alt": "“FROG MOUNTAIN”",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 497,
+              "src": "/photos/frog-mountain/IMG_7838.webp",
+              "alt": "“FROG MOUNTAIN”",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 498,
+              "src": "/photos/frog-mountain/IMG_8002.webp",
+              "alt": "“FROG MOUNTAIN”",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
             }
           ]
         }
@@ -1498,10 +4925,12 @@
       ],
       "slides": [
         {
-          "slide": 92,
-          "src": "/slides/092.webp",
-          "alt": "URBAN TRAILS",
-          "caption": null
+          "slide": 499,
+          "src": "/photos/la-llorona-trail/20260523_100606.webp",
+          "alt": "CITY OF LAS CRUCES URBAN TRAILS",
+          "caption": null,
+          "width": 3840,
+          "height": 2880
         }
       ],
       "trails": [
@@ -1534,10 +4963,44 @@
           "callouts": [],
           "slides": [
             {
-              "slide": 93,
-              "src": "/slides/093.webp",
+              "slide": 500,
+              "src": "/photos/la-llorona-trail/20260523_100606.webp",
               "alt": "La Llorona Trail",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 501,
+              "src": "/photos/la-llorona-trail/20260523_094033.webp",
+              "alt": "La Llorona Trail",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 502,
+              "src": "/photos/la-llorona-trail/20260523_100542.webp",
+              "alt": "La Llorona Trail",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 503,
+              "src": "/photos/la-llorona-trail/20260523_100559.webp",
+              "alt": "La Llorona Trail",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 504,
+              "src": "/photos/la-llorona-trail/IMG_9735.webp",
+              "alt": "La Llorona Trail",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
             }
           ]
         },
@@ -1570,10 +5033,52 @@
           "callouts": [],
           "slides": [
             {
-              "slide": 94,
-              "src": "/slides/094.webp",
+              "slide": 505,
+              "src": "/photos/outfall-channel-trail/IMG_9731.webp",
               "alt": "OUTFALL CHANNEL TRAIL",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 506,
+              "src": "/photos/outfall-channel-trail/20260523_092339.webp",
+              "alt": "OUTFALL CHANNEL TRAIL",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 507,
+              "src": "/photos/outfall-channel-trail/20260523_092343.webp",
+              "alt": "OUTFALL CHANNEL TRAIL",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 508,
+              "src": "/photos/outfall-channel-trail/20260523_092348.webp",
+              "alt": "OUTFALL CHANNEL TRAIL",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 509,
+              "src": "/photos/outfall-channel-trail/20260523_094039.webp",
+              "alt": "OUTFALL CHANNEL TRAIL",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 510,
+              "src": "/photos/outfall-channel-trail/IMG_9609.webp",
+              "alt": "OUTFALL CHANNEL TRAIL",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
             }
           ]
         },
@@ -1606,10 +5111,20 @@
           "callouts": [],
           "slides": [
             {
-              "slide": 95,
-              "src": "/slides/095.webp",
+              "slide": 511,
+              "src": "/photos/la-mesilla-del-norte/IMG_9754.webp",
               "alt": "LA MESILLA DEL NORTE",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 512,
+              "src": "/photos/la-mesilla-del-norte/IMG_9736.webp",
+              "alt": "LA MESILLA DEL NORTE",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
             }
           ]
         },
@@ -1642,10 +5157,12 @@
           "callouts": [],
           "slides": [
             {
-              "slide": 96,
-              "src": "/slides/096.webp",
+              "slide": 513,
+              "src": "/photos/triviz-trail/20260613_091037.webp",
               "alt": "TRIVIZ TRAIL",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 1774
             }
           ]
         },
@@ -1678,7 +5195,7 @@
           "callouts": [],
           "slides": [
             {
-              "slide": 97,
+              "slide": 514,
               "src": "/slides/097.webp",
               "alt": "UNIVERSITY TRAIL",
               "caption": null
@@ -1695,7 +5212,16 @@
         "ADEN LAVA FLOW"
       ],
       "nameLines": [],
-      "slides": [],
+      "slides": [
+        {
+          "slide": 515,
+          "src": "/photos/aden-crater/craterCrest.webp",
+          "alt": "ADEN LAVA FLOW",
+          "caption": null,
+          "width": 3840,
+          "height": 2560
+        }
+      ],
       "trails": [
         {
           "slug": "aden-crater",
@@ -1722,22 +5248,84 @@
           "callouts": [],
           "slides": [
             {
-              "slide": 98,
-              "src": "/slides/098.webp",
-              "alt": "ADEN CRATER",
-              "caption": null
+              "slide": 516,
+              "src": "/photos/aden-crater/craterCrest.webp",
+              "alt": "ADEN CRATER — Crater Crest",
+              "caption": "Crater Crest",
+              "width": 3840,
+              "height": 2560
             },
             {
-              "slide": 99,
-              "src": "/slides/099.webp",
-              "alt": "ADEN CRATER",
-              "caption": null
+              "slide": 517,
+              "src": "/photos/aden-crater/craterBowl.webp",
+              "alt": "ADEN CRATER — Crater Bowl",
+              "caption": "Crater Bowl",
+              "width": 3840,
+              "height": 2560
             },
             {
-              "slide": 100,
-              "src": "/slides/100.webp",
-              "alt": "ADEN CRATER",
-              "caption": null
+              "slide": 518,
+              "src": "/photos/aden-crater/craterCrags.webp",
+              "alt": "ADEN CRATER — Crater Crags",
+              "caption": "Crater Crags",
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 519,
+              "src": "/photos/aden-crater/craterCrest2.webp",
+              "alt": "ADEN CRATER — Crater Crest 2",
+              "caption": "Crater Crest 2",
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 520,
+              "src": "/photos/aden-crater/craterEdge.webp",
+              "alt": "ADEN CRATER — Crater Edge",
+              "caption": "Crater Edge",
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 521,
+              "src": "/photos/aden-crater/craterFloor.webp",
+              "alt": "ADEN CRATER — Crater Floor",
+              "caption": "Crater Floor",
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 522,
+              "src": "/photos/aden-crater/craterSummit.webp",
+              "alt": "ADEN CRATER — Crater Summit",
+              "caption": "Crater Summit",
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 523,
+              "src": "/photos/aden-crater/plainsHills.webp",
+              "alt": "ADEN CRATER — Plains Hills",
+              "caption": "Plains Hills",
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 524,
+              "src": "/photos/aden-crater/plainsMesa.webp",
+              "alt": "ADEN CRATER — Plains Mesa",
+              "caption": "Plains Mesa",
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 525,
+              "src": "/photos/aden-crater/rollingHills.webp",
+              "alt": "ADEN CRATER — Rolling Hills",
+              "caption": "Rolling Hills",
+              "width": 3840,
+              "height": 2560
             }
           ]
         }
@@ -1755,10 +5343,12 @@
       ],
       "slides": [
         {
-          "slide": 101,
-          "src": "/slides/101.webp",
-          "alt": "B-36 WRECK",
-          "caption": null
+          "slide": 526,
+          "src": "/photos/b-36-wreck/IMG_9388.webp",
+          "alt": "FRANKLIN MOUNTAINS B-36 WRECK",
+          "caption": null,
+          "width": 3840,
+          "height": 2560
         }
       ],
       "trails": [
@@ -1786,22 +5376,372 @@
           "callouts": [],
           "slides": [
             {
-              "slide": 102,
-              "src": "/slides/102.webp",
+              "slide": 527,
+              "src": "/photos/b-36-wreck/IMG_9388.webp",
               "alt": "B-36 Wreck",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 2560
             },
             {
-              "slide": 103,
-              "src": "/slides/103.webp",
+              "slide": 528,
+              "src": "/photos/b-36-wreck/20260516_082603.webp",
               "alt": "B-36 Wreck",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 2880
             },
             {
-              "slide": 104,
-              "src": "/slides/104.webp",
+              "slide": 529,
+              "src": "/photos/b-36-wreck/20260516_083001.webp",
               "alt": "B-36 Wreck",
-              "caption": null
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 530,
+              "src": "/photos/b-36-wreck/20260516_093753.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 531,
+              "src": "/photos/b-36-wreck/20260516_095641.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 532,
+              "src": "/photos/b-36-wreck/20260516_095718.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 533,
+              "src": "/photos/b-36-wreck/20260516_095729.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 534,
+              "src": "/photos/b-36-wreck/20260516_100006.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 535,
+              "src": "/photos/b-36-wreck/20260516_100043.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 536,
+              "src": "/photos/b-36-wreck/20260516_100311.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 537,
+              "src": "/photos/b-36-wreck/20260516_101314.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 538,
+              "src": "/photos/b-36-wreck/20260516_101755.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 539,
+              "src": "/photos/b-36-wreck/20260516_101929.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 540,
+              "src": "/photos/b-36-wreck/20260516_101943.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 541,
+              "src": "/photos/b-36-wreck/20260516_102059.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 542,
+              "src": "/photos/b-36-wreck/20260516_104409.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 543,
+              "src": "/photos/b-36-wreck/20260516_110736.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 544,
+              "src": "/photos/b-36-wreck/20260516_111025.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 545,
+              "src": "/photos/b-36-wreck/20260516_111309.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 546,
+              "src": "/photos/b-36-wreck/20260516_111729.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 547,
+              "src": "/photos/b-36-wreck/20260516_112227.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 548,
+              "src": "/photos/b-36-wreck/20260516_112622.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 549,
+              "src": "/photos/b-36-wreck/20260516_113035.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 550,
+              "src": "/photos/b-36-wreck/20260516_113421.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 551,
+              "src": "/photos/b-36-wreck/20260516_113507.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 552,
+              "src": "/photos/b-36-wreck/20260516_120051.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 553,
+              "src": "/photos/b-36-wreck/20260516_120229.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 554,
+              "src": "/photos/b-36-wreck/20260516_120235.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 3840,
+              "height": 2880
+            },
+            {
+              "slide": 555,
+              "src": "/photos/b-36-wreck/20260516_123604.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 556,
+              "src": "/photos/b-36-wreck/20260516_125633.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 2880,
+              "height": 3840
+            },
+            {
+              "slide": 557,
+              "src": "/photos/b-36-wreck/IMG_9390.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 558,
+              "src": "/photos/b-36-wreck/IMG_9403.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 559,
+              "src": "/photos/b-36-wreck/IMG_9407.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 560,
+              "src": "/photos/b-36-wreck/IMG_9416.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 561,
+              "src": "/photos/b-36-wreck/IMG_9446.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 562,
+              "src": "/photos/b-36-wreck/IMG_9456.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 563,
+              "src": "/photos/b-36-wreck/IMG_9490.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 564,
+              "src": "/photos/b-36-wreck/IMG_9494.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 565,
+              "src": "/photos/b-36-wreck/IMG_9503.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 566,
+              "src": "/photos/b-36-wreck/IMG_9504.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 567,
+              "src": "/photos/b-36-wreck/IMG_9561.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 568,
+              "src": "/photos/b-36-wreck/IMG_9570.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 569,
+              "src": "/photos/b-36-wreck/IMG_9587.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
+            },
+            {
+              "slide": 570,
+              "src": "/photos/b-36-wreck/IMG_9599.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 571,
+              "src": "/photos/b-36-wreck/IMG_9605.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 2560,
+              "height": 3840
+            },
+            {
+              "slide": 572,
+              "src": "/photos/b-36-wreck/IMG_9606.webp",
+              "alt": "B-36 Wreck",
+              "caption": null,
+              "width": 3840,
+              "height": 2560
             }
           ]
         }
@@ -1819,10 +5759,12 @@
       ],
       "slides": [
         {
-          "slide": 105,
-          "src": "/slides/105.webp",
-          "alt": "AQUATIC DWELLINGS",
-          "caption": null
+          "slide": 573,
+          "src": "/photos/aquatic-dwellings/IMG_6032.webp",
+          "alt": "CLOUDCROFT, NM AQUATIC DWELLINGS",
+          "caption": null,
+          "width": 3840,
+          "height": 2560
         }
       ],
       "trails": [
@@ -1850,34 +5792,20 @@
           "callouts": [],
           "slides": [
             {
-              "slide": 106,
-              "src": "/slides/106.webp",
+              "slide": 574,
+              "src": "/photos/aquatic-dwellings/IMG_6032.webp",
               "alt": "AQUATIC DWELLINGS",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 2560
             },
             {
-              "slide": 107,
-              "src": "/slides/107.webp",
+              "slide": 575,
+              "src": "/photos/aquatic-dwellings/IMG_6030.webp",
               "alt": "AQUATIC DWELLINGS",
-              "caption": null
-            },
-            {
-              "slide": 108,
-              "src": "/slides/108.webp",
-              "alt": "AQUATIC DWELLINGS",
-              "caption": null
-            },
-            {
-              "slide": 109,
-              "src": "/slides/109.webp",
-              "alt": "AQUATIC DWELLINGS",
-              "caption": null
-            },
-            {
-              "slide": 110,
-              "src": "/slides/110.webp",
-              "alt": "AQUATIC DWELLINGS",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 2560
             }
           ]
         }
@@ -1895,10 +5823,12 @@
       ],
       "slides": [
         {
-          "slide": 111,
-          "src": "/slides/111.webp",
-          "alt": "OSHA TRAIL",
-          "caption": null
+          "slide": 576,
+          "src": "/photos/osha-trail/IMG_7478.webp",
+          "alt": "CLOUDCROFT, NM OSHA TRAIL",
+          "caption": null,
+          "width": 3840,
+          "height": 2560
         }
       ],
       "trails": [
@@ -1926,22 +5856,20 @@
           "callouts": [],
           "slides": [
             {
-              "slide": 112,
-              "src": "/slides/112.webp",
+              "slide": 577,
+              "src": "/photos/osha-trail/IMG_7478.webp",
               "alt": "OSHA TRAIL",
-              "caption": null
+              "caption": null,
+              "width": 3840,
+              "height": 2560
             },
             {
-              "slide": 113,
-              "src": "/slides/113.webp",
+              "slide": 578,
+              "src": "/photos/osha-trail/IMG_7488.webp",
               "alt": "OSHA TRAIL",
-              "caption": null
-            },
-            {
-              "slide": 114,
-              "src": "/slides/114.webp",
-              "alt": "OSHA TRAIL",
-              "caption": null
+              "caption": null,
+              "width": 2560,
+              "height": 3840
             }
           ]
         },
@@ -1969,7 +5897,7 @@
           "callouts": [],
           "slides": [
             {
-              "slide": 115,
+              "slide": 579,
               "src": "/slides/115.webp",
               "alt": "BOUNDARY TRAIL",
               "caption": null
@@ -2013,7 +5941,7 @@
           ],
           "slides": [
             {
-              "slide": 117,
+              "slide": 580,
               "src": "/slides/117.webp",
               "alt": "HORSE RIDGE",
               "caption": null
@@ -2042,7 +5970,7 @@
           ],
           "slides": [
             {
-              "slide": 118,
+              "slide": 581,
               "src": "/slides/118.webp",
               "alt": "ORTEGA PEAK",
               "caption": null
@@ -2074,7 +6002,7 @@
     ],
     "slides": [
       {
-        "slide": 116,
+        "slide": 582,
         "src": "/slides/116.webp",
         "alt": "Whaling list",
         "caption": null

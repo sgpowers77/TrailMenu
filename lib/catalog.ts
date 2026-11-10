@@ -7,6 +7,8 @@ export type SlideImage = {
   src: string;
   alt: string;
   caption: string | null;
+  width?: number;
+  height?: number;
 };
 
 export type Trail = {

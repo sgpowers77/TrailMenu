@@ -5,20 +5,26 @@ export function SlideFrame({
   src,
   alt,
   className,
+  width,
+  height,
 }: {
   src?: string;
   alt: string;
   className?: string;
+  width?: number;
+  height?: number;
 }) {
   if (src) {
+    const natural = Boolean(width && height);
     return (
       <Image
         src={src}
         alt={alt}
-        width={596}
-        height={335}
+        width={natural ? width : 596}
+        height={natural ? height : 335}
         className={cn(
-          "aspect-video h-auto w-full bg-background object-contain",
+          "h-auto w-full bg-background object-contain",
+          natural ? undefined : "aspect-video",
           className,
         )}
       />
