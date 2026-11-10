@@ -89,6 +89,34 @@ export function getTrail(slug: string) {
   return null;
 }
 
+function normalizeTitle(value: string) {
+  return value
+    .toLowerCase()
+    .replace(/[“”"]/g, "")
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim();
+}
+
+export function trailSlugForTitle(label: string) {
+  const needle = normalizeTitle(label);
+  if (needle.length < 4) return null;
+  const trails = areas.flatMap((area) =>
+    area.trails.map((trail) => ({
+      slug: trail.slug,
+      name: normalizeTitle(trail.name),
+    })),
+  );
+  const exact = trails.filter((trail) => trail.name === needle);
+  if (exact.length === 1) return exact[0].slug;
+  const partial = trails.filter(
+    (trail) =>
+      trail.name.length >= 4 &&
+      (needle.includes(trail.name) || trail.name.includes(needle)),
+  );
+  if (partial.length === 1) return partial[0].slug;
+  return null;
+}
+
 export function trailCount() {
   return areas.reduce((sum, area) => sum + area.trails.length, 0);
 }

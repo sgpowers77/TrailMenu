@@ -2,7 +2,6 @@
 
 import { useEffect, useState } from "react";
 import { SlideFrame } from "@/components/slide-frame";
-import { Button } from "@/components/ui/button";
 import {
   Dialog,
   DialogContent,
@@ -39,21 +38,21 @@ export function Gallery({ slides }: { slides: SlideImage[] }) {
 
   return (
     <>
-      <ul className="grid gap-8">
+      <ul className="relative left-1/2 grid w-screen max-w-[100vw] -translate-x-1/2 gap-8 px-4">
         {slides.map((slide, slideIndex) => (
           <li key={slide.slide}>
             <figure>
               <button
                 type="button"
                 onClick={() => setIndex(slideIndex)}
-                className="block w-full border border-white/15"
+                className="mx-auto block max-w-full"
               >
                 <SlideFrame
                   src={slide.src}
                   alt={slide.caption ?? slide.alt}
                   width={slide.width}
                   height={slide.height}
-                  className="w-full"
+                  fit="window"
                 />
               </button>
               {slide.caption ? (
@@ -71,37 +70,37 @@ export function Gallery({ slides }: { slides: SlideImage[] }) {
           if (!open) setIndex(null);
         }}
       >
-        <DialogContent className="max-h-[92vh] overflow-auto bg-background p-3 text-white ring-white/20 sm:max-w-5xl">
+        <DialogContent className="flex max-h-[calc(100svh-1.5rem)] w-full max-w-[calc(100vw-1.5rem)] flex-col gap-3 overflow-hidden bg-background p-3 text-white ring-white/20 sm:max-w-[calc(100vw-1.5rem)]">
           {current ? (
             <>
-              <DialogTitle className="pr-10 text-base text-white">
+              <DialogTitle className="shrink-0 pr-10 text-base text-white">
                 {current.caption || current.alt}
               </DialogTitle>
-              <SlideFrame
-                src={current.src}
-                alt={current.caption ?? current.alt}
-                width={current.width}
-                height={current.height}
-                className="w-full"
-              />
+              <div className="flex min-h-0 flex-1 items-center justify-center">
+                <SlideFrame
+                  src={current.src}
+                  alt={current.caption ?? current.alt}
+                  width={current.width}
+                  height={current.height}
+                  fit="dialog"
+                />
+              </div>
               {slides.length > 1 ? (
-                <div className="flex justify-between gap-2">
-                  <Button
+                <div className="flex shrink-0 justify-between">
+                  <button
                     type="button"
-                    variant="outline"
-                    className="rounded-none"
                     onClick={() => step(-1)}
+                    className="inline-flex h-8 items-center justify-center px-2.5 text-sm text-white hover:underline focus-visible:underline"
                   >
                     Previous
-                  </Button>
-                  <Button
+                  </button>
+                  <button
                     type="button"
-                    variant="outline"
-                    className="rounded-none"
                     onClick={() => step(1)}
+                    className="inline-flex h-8 items-center justify-center px-2.5 text-sm text-white hover:underline focus-visible:underline"
                   >
                     Next
-                  </Button>
+                  </button>
                 </div>
               ) : null}
             </>

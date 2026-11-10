@@ -5,6 +5,7 @@ import {
   areaHeading,
   difficultyName,
   fields,
+  trailSlugForTitle,
   type Area,
 } from "@/lib/catalog";
 
@@ -17,6 +18,12 @@ export function AreaSection({
 }) {
   const heading = areaHeading(area);
   const hero = area.slides[0];
+  const onlyTrail = area.trails.length === 1 ? area.trails[0] : null;
+  const titleHref =
+    onlyTrail &&
+    trailSlugForTitle(area.name || area.region) === onlyTrail.slug
+      ? `/trails/${onlyTrail.slug}/`
+      : null;
   return (
     <section id={area.slug} className="scroll-mt-24 border-t border-white/15 py-12">
       <div className="grid items-end gap-6 md:grid-cols-[minmax(0,1.1fr)_minmax(0,0.9fr)]">
@@ -38,11 +45,24 @@ export function AreaSection({
             </p>
           ) : null}
           <h2 className="mt-2 text-4xl leading-[0.95] font-semibold tracking-tight sm:text-5xl">
-            {heading.titleLines.map((line) => (
-              <span key={line} className="block">
-                {line}
-              </span>
-            ))}
+            {titleHref ? (
+              <Link
+                href={titleHref}
+                className="underline decoration-white/40 underline-offset-4 hover:decoration-white"
+              >
+                {heading.titleLines.map((line) => (
+                  <span key={line} className="block">
+                    {line}
+                  </span>
+                ))}
+              </Link>
+            ) : (
+              heading.titleLines.map((line) => (
+                <span key={line} className="block">
+                  {line}
+                </span>
+              ))
+            )}
           </h2>
           <p className="mt-3 text-sm text-white/55">
             {area.trails.length}{" "}

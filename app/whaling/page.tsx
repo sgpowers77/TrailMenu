@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { WhaleIcon } from "@/components/whale-icon";
-import { whaling } from "@/lib/catalog";
+import { trailSlugForTitle, whaling } from "@/lib/catalog";
 
 export const metadata: Metadata = {
   title: whaling.name,
@@ -18,11 +18,23 @@ export default function WhalingPage() {
         {whaling.name}
       </h1>
       <ul className="mt-10 max-w-xl space-y-3 text-2xl sm:text-3xl">
-        {whaling.items.map((item) => (
-          <li key={item} className="border-t border-white/15 py-3">
-            {item}
-          </li>
-        ))}
+        {whaling.items.map((item) => {
+          const slug = trailSlugForTitle(item);
+          return (
+            <li key={item} className="border-t border-white/15 py-3">
+              {slug ? (
+                <Link
+                  href={`/trails/${slug}/`}
+                  className="underline decoration-white/40 underline-offset-4 hover:decoration-white"
+                >
+                  {item}
+                </Link>
+              ) : (
+                item
+              )}
+            </li>
+          );
+        })}
       </ul>
     </main>
   );

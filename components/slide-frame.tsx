@@ -7,12 +7,14 @@ export function SlideFrame({
   className,
   width,
   height,
+  fit,
 }: {
   src?: string;
   alt: string;
   className?: string;
   width?: number;
   height?: number;
+  fit?: "window" | "dialog";
 }) {
   if (src) {
     const natural = Boolean(width && height);
@@ -23,8 +25,13 @@ export function SlideFrame({
         width={natural ? width : 596}
         height={natural ? height : 335}
         className={cn(
-          "h-auto w-full bg-background object-contain",
-          natural ? undefined : "aspect-video",
+          "bg-background object-contain",
+          fit === "window" &&
+            "mx-auto h-auto w-auto max-h-[calc(100svh-5.5rem)] max-w-full",
+          fit === "dialog" &&
+            "mx-auto h-auto w-auto max-h-[calc(100svh-7.5rem)] max-w-[calc(100vw-3rem)]",
+          fit ? undefined : "h-auto w-full",
+          natural || fit ? undefined : "aspect-video",
           className,
         )}
       />
