@@ -9,13 +9,7 @@ import {
   type Area,
 } from "@/lib/catalog";
 
-export function AreaSection({
-  area,
-  linked = true,
-}: {
-  area: Area;
-  linked?: boolean;
-}) {
+export function AreaSection({ area }: { area: Area }) {
   const heading = areaHeading(area);
   const hero = area.slides[0];
   const onlyTrail = area.trails.length === 1 ? area.trails[0] : null;
@@ -68,14 +62,6 @@ export function AreaSection({
             {area.trails.length}{" "}
             {area.trails.length === 1 ? "trail" : "trails"}
           </p>
-          {linked ? (
-            <Link
-              href={`/areas/${area.slug}/`}
-              className="mt-4 inline-block text-sm underline underline-offset-4"
-            >
-              Area page
-            </Link>
-          ) : null}
         </div>
       </div>
       <ul className="mt-8">

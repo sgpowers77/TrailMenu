@@ -35,7 +35,7 @@ export default async function AreaPage({
       <Link href="/#catalog" className="text-sm text-white/60 underline underline-offset-4">
         All areas
       </Link>
-      <AreaSection area={area} linked={false} />
+      <AreaSection area={area} />
     </main>
   );
 }
