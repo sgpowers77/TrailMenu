@@ -20,8 +20,9 @@ export default function WhalingPage() {
       <ul className="mt-10 max-w-xl space-y-3 text-2xl sm:text-3xl">
         {whaling.items.map((item) => {
           const slug = trailSlugForTitle(item);
+          const struck = item.toLowerCase() === "bar mountain";
           return (
-            <li key={item} className="border-t border-white/15 py-3">
+            <li key={item} className={`border-t border-white/15 py-3${struck ? " line-through" : ""}`}>
               {slug ? (
                 <Link
                   href={`/trails/${slug}/`}
