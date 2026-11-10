@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { CoverPhoto } from "@/components/cover-photo";
 import { MarkRow } from "@/components/marks";
 import { SlideFrame } from "@/components/slide-frame";
 import {
@@ -22,13 +23,7 @@ export function AreaSection({ area }: { area: Area }) {
     <section id={area.slug} className="scroll-mt-24 border-t border-white/15 py-12">
       <div className="grid items-end gap-6 md:grid-cols-[minmax(0,1.1fr)_minmax(0,0.9fr)]">
         {hero ? (
-          <SlideFrame
-            src={hero.src}
-            alt={hero.caption ?? hero.alt}
-            width={hero.width}
-            height={hero.height}
-            className="w-full border border-white/15"
-          />
+          <CoverPhoto slide={hero} />
         ) : (
           <div className="hidden md:block" />
         )}
